@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<div class="wrap pad">
+  <div class="about">
+    <div class="who">
+      <h1>{{ baslik }}</h1>
+      <blockquote>{{ alinti }}</blockquote>
+    </div>
+    <div class="cvcard">
+      <h2>Özgeçmiş</h2>
+      {{ content | safe }}
+      <ul class="tl">
+        {% for z in zaman %}<li><b>{{ z.yil }}</b><span>{{ z.metin }}</span></li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

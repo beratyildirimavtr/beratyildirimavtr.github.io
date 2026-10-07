@@ -1,7 +1,7 @@
 ---
 baslik: Konunun adı
-kategori: Aile Hukuku
-aciklama: Konuyu anlatan tek cümle.
-maddeler: ["TMK m.175"]
+grup: ceza-hukuku
+sira: 8
+aciklama: "Konuyu anlatan tek cümle."
 ---
-Konuya kısa bir giriş yazısı.
+Konuyla ilgili açıklama metnini buraya yazın. Paragraflar arasında bir boş satır bırakın.

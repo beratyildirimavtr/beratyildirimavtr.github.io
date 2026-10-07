@@ -4,7 +4,13 @@ baslik: Arama
 permalink: /ara/
 sitemapDisi: true
 ---
-<div class="prose"><h1>Arama</h1></div>
-<p id="ara-durum" class="empty" style="padding-left:0">Aranıyor…</p>
-<div id="ara-sonuc"></div>
+<div class="wrap pad">
+  <div class="pagehead"><h1>Arama</h1></div>
+  <form class="psearch" action="/ara/" method="get" role="search" style="margin:0 0 26px;max-width:560px">
+    <input name="q" id="aq" type="search" placeholder="Konu, karar veya kanun maddesi ara" aria-label="Sitede ara" autocomplete="off">
+    <button type="submit">Ara</button>
+  </form>
+  <p id="ara-durum" class="empty" style="padding-top:0"></p>
+  <div id="ara-sonuc" class="dlist"></div>
+</div>
 <script src="/js/ara.js" defer></script>

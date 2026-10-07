@@ -1,0 +1,14 @@
+<div class="contactband">
+  <div>
+    <h2>İletişim</h2>
+    <p>Büronun adres ve iletişim bilgileri.</p>
+    <a class="map" href="{{ iletisim.haritaLink }}" rel="noopener" target="_blank">Adresi haritada aç</a>
+  </div>
+  <dl>
+    <dt>Unvan</dt><dd>{{ iletisim.unvan }}</dd>
+    <dt>Adres</dt><dd>{{ iletisim.adres }}</dd>
+    <dt>Baro</dt><dd>{{ iletisim.baro }}</dd>
+    <dt>Telefon</dt><dd><a href="tel:{{ iletisim.telefonLink }}">{{ iletisim.telefon }}</a></dd>
+    <dt>E-posta</dt><dd><a href="mailto:{{ iletisim.eposta }}">{{ iletisim.eposta }}</a></dd>
+  </dl>
+</div>

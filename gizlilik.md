@@ -8,4 +8,4 @@ Bu site ziyaretçilerden kişisel veri toplamaz. Sitede üyelik, yorum, form ya 
 
 Sitenin barındırıldığı altyapı (GitHub Pages) teknik nedenlerle ziyaret kayıtları tutabilir. Bu kayıtlar sitenin sahibi tarafından görülmez.
 
-Sorularınız için iletişim bilgilerine [Hakkımda](/hakkimda/) sayfasından ulaşabilirsiniz.
+Sorularınız için [İletişim](/iletisim/) sayfasındaki bilgilerden bize ulaşabilirsiniz.

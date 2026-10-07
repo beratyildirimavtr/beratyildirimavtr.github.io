@@ -1,0 +1,23 @@
+---
+layout: base.njk
+---
+{% set konularim = collections.konularSirali | grubunKonulari(page.fileSlug) %}
+{% set kararlarim = collections.kararSirali | grubunKararlari(collections.konular, page.fileSlug) %}
+<div class="wrap pad">
+  <div class="hubhead g" style="--gc-l:{{ renk }};--gc-d:{{ renkKoyu }}">
+    <p class="crumb"><a href="/">Ana Sayfa</a> / {{ baslik }}</p>
+    <h1>{{ baslik }}</h1>
+    {% if ozet %}<p>{{ ozet }}</p>{% endif %}
+  </div>
+  {% if content | trim %}<div class="textcard">{{ content | safe }}</div>{% endif %}
+  <h2 class="sec">Konu başlıkları</h2>
+  <div class="tiles g" style="--gc-l:{{ renk }};--gc-d:{{ renkKoyu }}">
+    {% for k in konularim %}
+    <a class="tile" href="{{ k.url }}"><span><h3>{{ k.data.baslik }}</h3>{% if k.data.aciklama %}<p>{{ k.data.aciklama }}</p>{% endif %}</span><i class="go" aria-hidden="true">→</i></a>
+    {% endfor %}
+  </div>
+  {% if kararlarim.length %}
+  <h2 class="sec" style="margin-top:44px">Emsal Yargıtay kararları ve değerlendirmeleri</h2>
+  <div class="dgrid">{% for d in kararlarim | head(6) %}{% include "karar-karti.njk" %}{% endfor %}</div>
+  {% endif %}
+</div>

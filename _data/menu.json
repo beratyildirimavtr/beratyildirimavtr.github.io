@@ -1,0 +1,11 @@
+[
+  { "ad": "Ana Sayfa", "url": "/" },
+  { "ad": "Yargıtay Kararları", "url": "/yargitay-kararlari/" },
+  { "ad": "Ceza Hukuku", "url": "/ceza-hukuku/" },
+  { "ad": "Hukuk Davaları", "url": "/hukuk-davalari/" },
+  { "ad": "İdari Davalar", "url": "/idari-davalar/" },
+  { "ad": "İcra Takipleri", "url": "/icra-takipleri/" },
+  { "ad": "Tüketici İşlemleri", "url": "/tuketici-islemleri/" },
+  { "ad": "Hakkımda", "url": "/hakkimda/" },
+  { "ad": "İletişim", "url": "/iletisim/" }
+]

@@ -1,14 +1,10 @@
-<article class="decision">
-  <div class="rail">
-    <b>Yargıtay {{ d.data.daire }}</b>
-    <div>Esas: <strong>{{ d.data.esas }}</strong></div>
-    <div>Karar: <strong>{{ d.data.karar }}</strong></div>
-    <div>Tarih: <strong>{{ d.data.tarih }}</strong></div>
-  </div>
-  <div class="body">
+{% set b = d | kararBilgi(collections.konular, collections.gruplar) %}
+<article class="dcard g" style="{{ b.gr | gstil }}" data-grup="{{ b.kn.data.grup if b.kn else '' }}">
+  <div class="top">
+    {% if b.kn %}<a class="gpill" href="{{ b.kn.url }}">{{ b.kn.data.baslik }}</a>{% endif %}
     {% if d.data.ornek %}<span class="sample">Örnek içerik</span>{% endif %}
-    <h3><a href="{{ d.url }}">{{ d.data.baslik }}</a></h3>
-    <p>{{ d.data.ozet }}</p>
-    <p class="src">{% if d.data.madde %}İlgili madde: {{ d.data.madde }} · {% endif %}Yayın: {{ d.date | tarihTR }}</p>
   </div>
+  <h3><a href="{{ d.url }}">{{ d.data.baslik }}</a></h3>
+  <p>{{ d.data.ozet }}</p>
+  <div class="meta"><span>{{ d.data.mahkeme or "Yargıtay" }} {{ d.data.daire }}</span><span>E. {{ d.data.esas }} · K. {{ d.data.karar }}</span>{% if d.data.madde %}<span>{{ d.data.madde }}</span>{% endif %}</div>
 </article>

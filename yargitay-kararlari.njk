@@ -1,0 +1,24 @@
+---
+layout: base.njk
+baslik: Yargıtay Kararları
+aciklama: Konu başlıklarına göre Yargıtay kararları, özetleri ve tam metinleri.
+permalink: /yargitay-kararlari/
+aktifMenu: /yargitay-kararlari/
+---
+<div class="wrap pad">
+  <div class="pagehead">
+    <h1>Yargıtay Kararları</h1>
+    <p class="lead">Karar bankası. Her kararın özeti ve tam metni birlikte yer alır. İdari davalarda ilgili Danıştay kararları da burada yer alır.</p>
+  </div>
+  <div class="tools" id="tools">
+    <button class="chip" type="button" data-grup="" aria-pressed="true">Tümü</button>
+    {% for g in collections.gruplarSirali %}<button class="chip" type="button" data-grup="{{ g.fileSlug }}" aria-pressed="false">{{ g.data.baslik }}</button>{% endfor %}
+    <input id="bq" type="search" placeholder="Karar ara" aria-label="Karar ara" autocomplete="off">
+  </div>
+  <p class="empty" id="bos" hidden>Bu aramaya uygun karar bulunamadı.</p>
+  <div class="dlist" id="liste">
+    {% for d in collections.kararSirali %}{% include "karar-karti.njk" %}{% endfor %}
+  </div>
+  {% if not collections.kararSirali.length %}<p class="empty">Henüz karar eklenmedi.</p>{% endif %}
+</div>
+<script src="/js/kararlar.js" defer></script>

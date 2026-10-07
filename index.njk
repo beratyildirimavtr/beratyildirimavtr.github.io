@@ -1,38 +1,42 @@
 ---
 layout: base.njk
-baslik: ""
+baslik: Yargıtay kararları ve hukuki bilgilendirmeler
 permalink: /
+aktifMenu: /
 ---
-{% set son = collections.kararSirali[0] %}
+<h1 class="sr">Avukat Berat YILDIRIM: Yargıtay kararları ve hukuki bilgilendirmeler</h1>
 <section class="hero">
-  <div>
-    <h1>{{ site.altBaslik }}.</h1>
-    <p class="lead">Seçtiğim hukuki konularda güncel Yargıtay kararlarını bir araya getiriyor, kısa ve anlaşılır özetlerle paylaşıyorum.</p>
+  <svg class="deco l" viewBox="0 0 200 260" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 250V100a90 90 0 0 1 180 0v150"/><path d="M34 250V104a66 66 0 0 1 132 0v146"/><path d="M58 250V108a42 42 0 0 1 84 0v142"/></svg>
+  <svg class="deco r" viewBox="0 0 200 260" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 250V100a90 90 0 0 1 180 0v150"/><path d="M34 250V104a66 66 0 0 1 132 0v146"/><path d="M58 250V108a42 42 0 0 1 84 0v142"/></svg>
+  <div class="hero-in">
+    <p class="note">{{ site.uyari }}</p>
+    <form class="psearch" action="/ara/" method="get" role="search">
+      <input name="q" type="search" placeholder="Konu, karar veya kanun maddesi ara" aria-label="Sitede ara" autocomplete="off">
+      <button type="submit">Ara</button>
+    </form>
   </div>
-  {% if son %}
-  <aside class="today" aria-label="Son eklenen karar">
-    <p class="when">Son eklenen karar · {{ son.date | tarihTR }}</p>
-    <span class="kunye">Yargıtay {{ son.data.daire }} · E. {{ son.data.esas }} · K. {{ son.data.karar }}</span>
-    <h2><a href="{{ son.url }}">{{ son.data.baslik }}</a></h2>
-    <p>{{ son.data.ozet }}</p>
-    <a class="more" href="{{ son.url }}">Kararı oku</a>
-  </aside>
-  {% endif %}
 </section>
-
-<h2 class="section">Konular</h2>
-<div class="chips" role="group" aria-label="Kategori" id="kategoriler"></div>
-<div class="rows" id="konu-listesi">
-{% for k in collections.konuSirali %}
-  <a class="row" href="{{ k.url }}" data-kategori="{{ k.data.kategori }}">
-    <h3>{{ k.data.baslik }}</h3>
-    <p>{{ k.data.aciklama }}</p>
-    <div class="meta"><b>{{ collections.kararSirali | kararSayisi(k.fileSlug) }}</b>karar · {{ k.data.kategori }}</div>
-  </a>
-{% endfor %}
+<div class="wrap">
+  <p class="lead-line">{{ site.anaSayfaAlt }}</p>
+  <div class="arcade">
+  {% for g in collections.gruplarSirali %}
+    {% set liste = collections.konularSirali | grubunKonulari(g.fileSlug) %}
+    <div class="arch g" style="--gc-l:{{ g.data.renk }};--gc-d:{{ g.data.renkKoyu }}">
+      <a class="ah" href="{{ g.url }}"><b>{{ g.data.baslik }}</b></a>
+      <ul>
+        {% for k in liste | head(10) %}<li><a href="{{ k.url }}">{{ k.data.baslik }}</a></li>{% endfor %}
+      </ul>
+      {% if liste.length > 10 %}<a class="all" href="{{ g.url }}">Tüm konular</a>{% endif %}
+    </div>
+  {% endfor %}
+  </div>
+  {% set son = collections.kararSirali | head(4) %}
+  {% if son.length %}
+  <section class="blk">
+    <h2 class="sec">Emsal Yargıtay kararları ve değerlendirmeleri</h2>
+    <div class="dgrid">{% for d in son %}{% include "karar-karti.njk" %}{% endfor %}</div>
+    <a class="more" href="/yargitay-kararlari/">Karar bankasının tamamı</a>
+  </section>
+  {% endif %}
+  <section class="blk" style="padding-bottom:80px">{% include "iletisim-blok.njk" %}</section>
 </div>
-
-<h2 class="section" style="margin-top:36px">Son eklenenler</h2>
-{% for d in collections.kararSirali | head(5) %}{% include "karar-karti.njk" %}{% endfor %}
-<p><a href="/arsiv/" style="color:var(--accent);font-weight:600">Tüm kararları arşivde gör</a></p>
-<script src="/js/kategori.js" defer></script>

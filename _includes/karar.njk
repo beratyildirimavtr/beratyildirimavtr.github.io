@@ -1,24 +1,14 @@
 ---
 layout: base.njk
-sayfaTuru: karar
 ---
-{% set konuSayfasi = null %}
-{% for k in collections.konular %}{% if k.fileSlug == konu %}{% set konuSayfasi = k %}{% endif %}{% endfor %}
-<p class="crumb"><a href="/">Anasayfa</a> / {% if konuSayfasi %}<a href="{{ konuSayfasi.url }}">{{ konuSayfasi.data.baslik }}</a>{% endif %}</p>
-<article class="single">
-  <header>
+{% set b = page | kararBilgiSayfa(collections.konular, collections.gruplar, konu) %}
+<div class="wrap pad">
+  <p class="crumb"><a href="/yargitay-kararlari/">Yargıtay Kararları</a>{% if b.kn %} / <a href="{{ b.kn.url }}">{{ b.kn.data.baslik }}</a>{% endif %}</p>
+  <div class="pagehead g" style="{{ b.gr | gstil }}">
     {% if ornek %}<span class="sample">Örnek içerik</span>{% endif %}
     <h1>{{ baslik }}</h1>
-    <p class="kunye">Yargıtay {{ daire }} · Esas {{ esas }} · Karar {{ karar }} · {{ tarih }}</p>
-  </header>
-  <div class="prose-body">
-    {% if ozet %}<p class="lead-sum">{{ ozet }}</p>{% endif %}
-    {{ content | safe }}
   </div>
-  <dl class="facts">
-    {% if madde %}<dt>İlgili madde</dt><dd>{{ madde }}</dd>{% endif %}
-    {% if konuSayfasi %}<dt>Konu</dt><dd><a href="{{ konuSayfasi.url }}">{{ konuSayfasi.data.baslik }}</a></dd>{% endif %}
-    <dt>Yayın tarihi</dt><dd>{{ page.date | tarihTR }}</dd>
-    {% if kaynak %}<dt>Resmî kaynak</dt><dd><a href="{{ kaynak }}" rel="noopener">Kararın tam metni</a></dd>{% endif %}
-  </dl>
-</article>
+  <div class="kunye"><span>{{ mahkeme or "Yargıtay" }} {{ daire }}</span><span>Esas {{ esas }}</span><span>Karar {{ karar }}</span><span>{{ tarih }}</span>{% if madde %}<span>{{ madde }}</span>{% endif %}</div>
+  {% if ozet %}<div class="sumbox"><b>Özet</b>{{ ozet }}</div>{% endif %}
+  {% if content | trim %}<div class="fulltext"><h3>Karar metni</h3>{{ content | safe }}{% if kaynak %}<p class="srcline">Kaynak: <a href="{{ kaynak }}" rel="noopener">{{ kaynak }}</a></p>{% endif %}</div>{% endif %}
+</div>
