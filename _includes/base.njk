@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% if baslik %}{{ baslik }} | {% endif %}{{ site.ad }}</title>
+<meta name="description" content="{{ aciklama or site.aciklama }}">
+{% if not site.yayinda %}<meta name="robots" content="noindex, nofollow">{% endif %}
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:type" content="{{ 'article' if sayfaTuru == 'karar' else 'website' }}">
+<meta property="og:title" content="{{ baslik or site.ad }}">
+<meta property="og:description" content="{{ aciklama or site.aciklama }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:locale" content="tr_TR">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E⚖️%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="/css/stil.css">
+</head>
+<body>
+{% if not site.yayinda %}<div class="banner">Site yapım aşamasındadır. Arama motorlarına kapalıdır; örnek içerikler yayın öncesinde silinecektir.</div>{% endif %}
+<header class="site">
+  <div class="bar">
+    <a class="brand" href="/"><b>{{ site.ad }}</b><span>{{ site.altBaslik }}</span></a>
+    <nav class="main" aria-label="Ana menü">
+      <a href="/" {% if page.url == '/' %}aria-current="page"{% endif %}>Anasayfa</a>
+      <a href="/arsiv/" {% if page.url == '/arsiv/' %}aria-current="page"{% endif %}>Arşiv</a>
+      <a href="/hakkimda/" {% if page.url == '/hakkimda/' %}aria-current="page"{% endif %}>Hakkımda</a>
+    </nav>
+    <form class="search" action="/ara/" method="get" role="search">
+      <input name="q" type="search" placeholder="Konu ya da karar ara" aria-label="Sitede ara" autocomplete="off">
+    </form>
+  </div>
+</header>
+<main>
+{{ content | safe }}
+</main>
+<footer class="site">
+  <div class="in">
+    <span>© {{ site.yil }} {{ site.ad }}</span>
+    <a href="/gizlilik/">Gizlilik Politikası</a>
+    <a href="/kvkk/">KVKK Aydınlatma Metni</a>
+  </div>
+  <div class="in disc">Bu sitedeki içerikler genel bilgilendirme amaçlıdır; somut bir olay için hukuki danışmanlık yerine geçmez.</div>
+</footer>
+</body>
+</html>

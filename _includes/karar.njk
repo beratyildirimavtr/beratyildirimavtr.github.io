@@ -1,0 +1,24 @@
+---
+layout: base.njk
+sayfaTuru: karar
+---
+{% set konuSayfasi = null %}
+{% for k in collections.konular %}{% if k.fileSlug == konu %}{% set konuSayfasi = k %}{% endif %}{% endfor %}
+<p class="crumb"><a href="/">Anasayfa</a> / {% if konuSayfasi %}<a href="{{ konuSayfasi.url }}">{{ konuSayfasi.data.baslik }}</a>{% endif %}</p>
+<article class="single">
+  <header>
+    {% if ornek %}<span class="sample">Örnek içerik</span>{% endif %}
+    <h1>{{ baslik }}</h1>
+    <p class="kunye">Yargıtay {{ daire }} · Esas {{ esas }} · Karar {{ karar }} · {{ tarih }}</p>
+  </header>
+  <div class="prose-body">
+    {% if ozet %}<p class="lead-sum">{{ ozet }}</p>{% endif %}
+    {{ content | safe }}
+  </div>
+  <dl class="facts">
+    {% if madde %}<dt>İlgili madde</dt><dd>{{ madde }}</dd>{% endif %}
+    {% if konuSayfasi %}<dt>Konu</dt><dd><a href="{{ konuSayfasi.url }}">{{ konuSayfasi.data.baslik }}</a></dd>{% endif %}
+    <dt>Yayın tarihi</dt><dd>{{ page.date | tarihTR }}</dd>
+    {% if kaynak %}<dt>Resmî kaynak</dt><dd><a href="{{ kaynak }}" rel="noopener">Kararın tam metni</a></dd>{% endif %}
+  </dl>
+</article>

@@ -1,0 +1,18 @@
+---
+layout: base.njk
+sayfaTuru: konu
+---
+{% set liste = collections.kararSirali | konuninKararlari(page.fileSlug) %}
+<p class="crumb"><a href="/">Anasayfa</a> / {{ kategori }}</p>
+<div class="topic-head">
+  <h1>{{ baslik }}</h1>
+  <p class="intro">{{ aciklama }}</p>
+  {% if maddeler %}<div class="laws" aria-label="İlgili mevzuat">{% for m in maddeler %}<span>{{ m }}</span>{% endfor %}</div>{% endif %}
+</div>
+<div class="prose-body">{{ content | safe }}</div>
+<h2 class="section">Kararlar <small>({{ liste | length }})</small></h2>
+{% if liste.length %}
+  {% for d in liste %}{% include "karar-karti.njk" %}{% endfor %}
+{% else %}
+  <p class="empty">Bu konuya henüz karar eklenmedi.</p>
+{% endif %}
