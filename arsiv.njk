@@ -1,0 +1,8 @@
+---
+layout: base.njk
+baslik: Arşiv
+aciklama: Yayınlanan tüm kararlar, yeniden eskiye.
+permalink: /arsiv/
+---
+<div class="prose"><h1>Arşiv</h1></div>
+{% for d in collections.kararSirali %}{% include "karar-karti.njk" %}{% endfor %}

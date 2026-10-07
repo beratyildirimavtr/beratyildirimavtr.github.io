@@ -1,0 +1,38 @@
+---
+layout: base.njk
+baslik: ""
+permalink: /
+---
+{% set son = collections.kararSirali[0] %}
+<section class="hero">
+  <div>
+    <h1>{{ site.altBaslik }}.</h1>
+    <p class="lead">Seçtiğim hukuki konularda güncel Yargıtay kararlarını bir araya getiriyor, kısa ve anlaşılır özetlerle paylaşıyorum.</p>
+  </div>
+  {% if son %}
+  <aside class="today" aria-label="Son eklenen karar">
+    <p class="when">Son eklenen karar · {{ son.date | tarihTR }}</p>
+    <span class="kunye">Yargıtay {{ son.data.daire }} · E. {{ son.data.esas }} · K. {{ son.data.karar }}</span>
+    <h2><a href="{{ son.url }}">{{ son.data.baslik }}</a></h2>
+    <p>{{ son.data.ozet }}</p>
+    <a class="more" href="{{ son.url }}">Kararı oku</a>
+  </aside>
+  {% endif %}
+</section>
+
+<h2 class="section">Konular</h2>
+<div class="chips" role="group" aria-label="Kategori" id="kategoriler"></div>
+<div class="rows" id="konu-listesi">
+{% for k in collections.konuSirali %}
+  <a class="row" href="{{ k.url }}" data-kategori="{{ k.data.kategori }}">
+    <h3>{{ k.data.baslik }}</h3>
+    <p>{{ k.data.aciklama }}</p>
+    <div class="meta"><b>{{ collections.kararSirali | kararSayisi(k.fileSlug) }}</b>karar · {{ k.data.kategori }}</div>
+  </a>
+{% endfor %}
+</div>
+
+<h2 class="section" style="margin-top:36px">Son eklenenler</h2>
+{% for d in collections.kararSirali | head(5) %}{% include "karar-karti.njk" %}{% endfor %}
+<p><a href="/arsiv/" style="color:var(--accent);font-weight:600">Tüm kararları arşivde gör</a></p>
+<script src="/js/kategori.js" defer></script>

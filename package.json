@@ -1,0 +1,15 @@
+{
+  "name": "beratyildirim-site",
+  "version": "1.0.0",
+  "description": "Av. Berat Yıldırım - Yargıtay kararları sitesi",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "@fontsource/ibm-plex-sans": "^5.3.0",
+    "@fontsource/source-serif-4": "^5.3.0"
+  },
+  "private": true
+}
