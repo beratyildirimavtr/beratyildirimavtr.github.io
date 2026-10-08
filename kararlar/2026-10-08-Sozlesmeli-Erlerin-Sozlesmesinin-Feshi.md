@@ -11,21 +11,47 @@ ozet: "kesinleşmeyen ceza mahkemesi kararına istinaden sözleşmesinin feshedi
 kaynak: ""
 ---
 Danıştay 12. Daire Başkanlığı 2020/4583 E. , 2021/968 K.
+
+
 "İçtihat Metni"
+
+
 T.C.
+
+
 D A N I Ş T A Y
+
+
 ONİKİNCİ DAİRE
+
+
 Esas No : 2020/4583
+
+
 Karar No : 2021/968
+
+
 TEMYİZ EDEN (DAVACI) : …
+
+
 KARŞI TARAF (DAVALI) : … Bakanlığı/ANKARA
+
+
 VEKİLİ : Av. …
+
+
 İSTEMİN KONUSU : … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının temyizen incelenerek bozulması
 istenilmektedir.
+
+
 YARGILAMA SÜRECİ :
+
+
 Dava konusu istem: ... 5. Piyade Eğitim Tugay Komutanlığında sözleşmeli uzman erbaş olarak görev yapan davacının, otuz günden daha fazla süreli
 hürriyeti bağlayıcı ceza ile mahkum olduğundan bahisle, 15/07/2016 tarihinden geçerli olmak üzere sözleşmesinin feshedilmesine ilişkin işlemin
 iptaline karar verilmesi istenilmiştir.
+
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararla; davacının, … Asliye Ceza Mahkemesinin … tarih
 ve E:…, K:… sayılı kararı ile "Konut dokunulmazlığının ihlali " suçundan 1 yıl 3 ay hapis cezası ile cezalandırılmasına karar verildiği ve kesinleştiğinden
 bahisle sözleşmesi feshedilmiş ise de, hakkında verilen mahkumiyet kararının kendisine usulsüz tebligat yapıldığı gerekçesiyle hukuka aykırı olarak
@@ -33,6 +59,8 @@ kesinleştirildiğinin … Asliye Ceza Mahkemesi'nin 21/07/2016 tarihli ek karar
 ortada kesinleşmiş bir mahkumiyet kararından söz edilmesinin olanaklı bulunmadığı, dolayısıyla başından beri sözleşmenin feshedilmesine gerekçe
 oluşturan kararın hukuka aykırı olarak kesinleştirildiği, hukuken kesinleşmemiş bir mahkumiyet kararına istinaden tesis edilen dava konusu işlemde
 hukuka uyarlık bulunmadığı gerekçesiyle, dava konusu işlemin iptaline karar verilmiştir.
+
+
 Bölge İdare Mahkemesi kararının özeti: … Bölge Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararıyla; … Asliye Ceza Mahkemesince
 verilen mahkumiyet kararının infazının, suç oluşmadığından yani "esas yönünden değil", yargılamada usulsüz tebligat yapıldığı için "usul yönünden"
 durdurulduğu, 657 sayılı Devlet Memurları Kanunu'nun 131. maddesinde belirtildiği üzere, bir eylem ve olaydan dolayı kamu görevlisi hakkında ceza
@@ -42,15 +70,29 @@ hakkında … Asliye Ceza Mahkemesinin … tarih ve E:…, K:2016/6…7 sayılı
 cezalandırılmasına karar verildiğinden, 3269 sayılı Uzman Erbaş Kanunu'nun 12. maddesi ile Uzman Erbaş Yönetmeliği'nin 13/3-ç fıkrası hükmü
 uyarınca, davacının sözleşmesinin feshedilmesine ilişkin işlemde hukuka ve ilgili mevzuat hükümlerine aykırılık bulunmadığı gerekçesiyle, davalı
 idarenin istinaf başvurusunun kabulüne, davanın reddine karar verilmiştir.
+
+
 TEMYİZ EDENİN İDDİALARI : Davacı tarafından; sözleşmesinin feshine ilişkin işlemin dayanağı olan ceza mahkemesi kararının henüz kesinleşmediği,
 bu nedenle, anılan karara istinaden sözleşmesinin feshedilmesine ilişkin işlemde usul ve hukuka uygunluk bulunmadığı ileri sürülmektedir.
+
+
 KARŞI TARAFIN SAVUNMASI : Savunma verilmemiştir.
+
+
 DANIŞTAY TETKİK HÂKİMİ : …
 DÜŞÜNCESİ: Temyiz isteminin kabulü ile usul ve yasaya aykırı olan Bölge İdare Mahkemesi kararının bozulması gerektiği düşünülmektedir.
+
+
 TÜRK MİLLETİ ADINA
 Karar veren Danıştay Onikinci Dairesince, Tetkik Hâkiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra gereği görüşüldü:
+
+
 İNCELEME VE GEREKÇE:
+
+
 MADDİ OLAY :
+
+
 ... 5. Piyade Eğitim Tugay Komutanlığında Sözleşmeli Uzman Erbaş olarak görev yapan davacının, … Asliye Ceza Mahkemesinin … tarih ve E:…, K:…
 sayılı kararı ile "Konut dokunulmazlığının ihlali" suçundan 1 yıl 3 ay hapis cezası ile cezalandırılmasına karar verildiği ve bu kararın, 02/05/2016
 tarihinde temyiz edilmeksizin kesinleştiğinin bildirilmesi üzerine, 3269 sayılı Uzman Erbaş Kanunu ve Uzman Erbaş Yönetmeliği hükümleri uyarınca
@@ -58,6 +100,8 @@ tarihinde temyiz edilmeksizin kesinleştiğinin bildirilmesi üzerine, 3269 say�
 kaldırılması istemiyle anılan Mahkemeye başvuruda bulunduğu ve … Asliye Ceza Mahkemesi'nin 21/07/2016 tarihli ek kararı ile "ilamın infazının
 durdurulmasına" karar verildiği, bu karar sonrasında görevine iade edilmesi için davalı idareye başvuran davacı tarafından, başvurusunun reddi üzerine
 bakılan davanın açıldığı anlaşılmaktadır.
+
+
 İLGİLİ MEVZUAT:
 3269 sayılı Uzman Erbaş Kanunu'nun 12. maddesinin 4. fıkrasının (c) bendinde; taksirli suçlar hariç olmak üzere diğer suçlardan adlî veya askerî
 mahkemeler tarafından otuz günden daha fazla süreli hürriyeti bağlayıcı bir ceza ile mahkûm olanların, sözleşmeleri feshedilmek suretiyle Türk Silâhlı
@@ -65,6 +109,8 @@ Kuvvetleri ile ilişiklerinin kesileceği hükme bağlanmıştır.
 Uzman Erbaş Yönetmeliği'nin 13. maddesinin 3. fıkrasının (ç) bendinde de aynı yönde düzenleme yapılmış ve maddenin 6. fıkrasında "Her ne sebeple
 olursa olsun, sözleşmesi feshedilerek Türk Silahlı Kuvvetleri ile ilişiği kesilen uzman erbaşlar, tekrar Türk Silahlı Kuvvetlerine alınmazlar." hükmüne yer
 verilmiştir.
+
+
 HUKUKİ DEĞERLENDİRME:
 Davacı hakkında; … Asliye Ceza Mahkemesinin … tarih ve E:…, K:… sayılı kararı ile "Konut dokunulmazlığının ihlali " suçundan 1 yıl 3 ay hapis cezası ile
 cezalandırılmasına karar verilmesi ve anılan kararın temyiz edilmeksizin kesinleşmesi üzerine dava konusu işlem tesis edilmiş ise de, anılan
@@ -76,9 +122,17 @@ görülmemiştir.
 
 Bu itibarla, dava konusu işlemin iptali yönündeki … İdare Mahkemesi kararına karşı yapılan istinaf başvurusunun kabulü ile davanın reddi yolundaki
 temyize konu Bölge İdare Mahkemesi kararında hukuki isabet bulunmamaktadır.
+
+
 KARAR SONUCU:
+
+
 Açıklanan nedenlerle;
+
+
 1. 2577 sayılı Kanun'un 49. maddesine uygun bulunan davacının temyiz isteminin kabulüne,
+
+
 2. Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin … İdare Mahkemesi kararına karşı yapılan istinaf başvurusunun kabulü ile davanın
 reddi yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA,
 3. Yeniden bir karar verilmek üzere dosyanın, … Bölge İdare Mahkemesi ... İdari Dava Dairesine gönderilmesine, 24/02/2021 tarihinde, kesin olarak
