@@ -8,6 +8,6 @@ tarih: "11.11.2024"
 baslik: Yoksulluk Nafakasının Şartlarının Yargıtay kararı kapsamında değerlendirilmesi
 madde: "TMK m.172"
 ozet: "Kararın bir iki cümlelik özeti."
-kaynak: "(https://karararama.yargitay.gov.tr/)"
+kaynak: "https://karararama.yargitay.gov.tr/"
 ---
 Yoksulluk nafakası 
