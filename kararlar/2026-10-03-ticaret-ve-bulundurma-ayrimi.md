@@ -7,7 +7,7 @@ karar: "2022/8738"
 tarih: "05.07.2022"
 baslik: Soyut tanık beyanıyla ceza verilemeyeceği
 madde: "TCK m.188, 191"
-ozet: "Fiziken ele geçirilemeyen maddelerin hukuken uyuşturucu kabul edilemeyeceği, somut delil bulunmaksızın soyut tanık beyanıyla ticaret suçundan ceza verilemeyeceği "
+ozet: "Yargıtay bu kararında; fiziken ele geçirilemeyen uyuşturucu maddelerin hukuken uyuşturucu kabul edilemeyeceğini, somut delil bulunmaksızın sadece soyut tanık beyanıyla uyuşturucu ticareti suçundan ceza verilemeyeceğini söyleyerek yerel mahkeme kararını BOZMUŞTUR. "
 kaynak: ""
 ornek: false
 ---
