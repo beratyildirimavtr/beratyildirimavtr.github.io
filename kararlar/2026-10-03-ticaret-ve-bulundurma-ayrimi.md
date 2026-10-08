@@ -1,14 +1,66 @@
 ---
 konu: uyusturucu-suclari
 mahkeme: Yargıtay
-daire: "X. Ceza Dairesi"
-esas: "20XX/0000"
-karar: "20XX/0000"
-tarih: "GG.AA.20XX"
-baslik: Ticaret ile kullanmak için bulundurma ayrımı
+daire: "10. Ceza Dairesi"
+esas: "2019/5732"
+karar: "2022/8738"
+tarih: "05.07.2022"
+baslik: Soyut tanık beyanıyla ceza verilemeyeceği
 madde: "TCK m.188, 191"
-ozet: "Maddenin miktarı, paketlenme biçimi, ele geçirildiği yer ve kişinin kullanıcı olup olmadığı birlikte değerlendirilir. Tek başına miktar her zaman belirleyici değildir."
+ozet: "Fiziken ele geçirilemeyen maddelerin hukuken uyuşturucu kabul edilemeyeceği, somut delil bulunmaksızın soyut tanık beyanıyla ticaret suçundan ceza verilemeyeceği "
 kaynak: ""
-ornek: true
+ornek: false
 ---
-(Örnek metin) Bu alanda kararın tam metni, resmî kaynaktan alındığı biçimiyle yer alır. Taraflara ait kişisel veriler anonimleştirilmiş hâliyle yayımlanır.
+10. Ceza Dairesi 2019/5732 E. , 2022/8738 K.
+
+
+"İçtihat Metni"
+
+
+Mahkemesi :Ağır Ceza Mahkemesi
+
+
+Suç : Uyuşturucu madde ticareti yapma
+
+
+Dosya incelendi.
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+
+
+A- Sanık ... hakkında uyuşturucu madde ticareti yapma suçundan verilen mahkûmiyet hükmünün
+incelenmesinde;
+Kendisinde herhangi bir uyuşturucu veya uyarıcı madde ele geçmeyen sanığın savunmasının aksine,
+hakkında kullanmak için uyuşturucu madde bulundurma suçundan ayrı soruşturma yürütülen ...’ta ele
+geçen uyuşturucu maddeyi sanığın verdiğine veya sattığına dair, mahkûmiyetine yeterli her türlü şüpheden
+uzak, kesin ve inandırıcı delil bulunmadığı anlaşıldığından sanığın beraati yerine mahkûmiyetine karar
+verilmesi,
+Yasaya aykırı, sanık müdafiinin temyiz itirazları bu nedenle yerinde olduğundan, hükmün BOZULMASINA,
+
+
+B- Sanık ... hakkında uyuşturucu madde ticareti yapma suçundan verilen mahkûmiyet hükmünün
+incelenmesinde;
+
+
+Kendisinde herhangi bir uyuşturucu veya uyarıcı madde ele geçmeyen sanığın savunmasının aksine,
+haklarında kullanmak için uyuşturucu madde bulundurma suçundan işlem yapılan tanıklar ... ve ...’in
+sanıktan aldıklarını beyan ettikleri maddelerin ele geçirilememiş olması nedeniyle uyuşturucu veya uyarıcı
+madde olarak kabul edilemeyeceği gözetilmeden, atılı suçtan sanığın beraati yerine mahkûmiyetine karar
+verilmesi,
+Yasaya aykırı, sanık müdafiinin temyiz itirazı bu nedenle yerinde olduğundan, hükmün BOZULMASINA,
+
+
+C- Sanık ... hakkında uyuşturucu madde ticareti yapma suçundan verilen mahkûmiyet hükmünün
+incelenmesinde;
+
+
+Haklarında kullanmak için uyuşturucu madde bulundurma suçundan işlem yapılan tanıklar ... ve ...’nun
+sanıktan aldıklarını beyan ettikleri maddelerin ele geçirilememiş olması nedeniyle uyuşturucu veya uyarıcı
+madde olarak kabul edilemeyeceği, sanığın savunmalarının aksine, evinde ele geçen uyuşturucu maddeleri
+kullanma amacı ile bulundurduğuna ilişkin savunmasının aksine delil bulunmadığı, sabit olan ./..
+fiilinin “kullanmak için uyuşturucu madde bulundurma” suçunu oluşturduğu gözetilmeden, sanık hakkında
+bu suç yerine “uyuşturucu madde ticareti yapma” suçundan mahkûmiyet hükmü kurulması,
+Yasaya aykırı, sanık müdafiinin temyiz itirazları bu nedenle yerinde olduğundan, hükmün BOZULMASINA,
+05/07/2022 tarihinde oy birliği ile karar verildi.
+
+
+********** Kişisel Verilerden Arındırılmıştır ********************
