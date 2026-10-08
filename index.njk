@@ -33,9 +33,9 @@ aktifMenu: /
   {% set son = collections.kararSirali | head(4) %}
   {% if son.length %}
   <section class="blk">
-    <h2 class="sec">Emsal Yargıtay Kararları ve Hukuki Değerlendirmeleri</h2>
+    <h2 class="sec">Emsal Yargıtay Kararları ve Hukuki Değerlendirmeler</h2>
     <div class="dgrid">{% for d in son %}{% include "karar-karti.njk" %}{% endfor %}</div>
-    <a class="more" href="/yargitay-kararlari/">Karar bankasının tamamı</a>
+    <a class="more" href="/yargitay-kararlari/">Karar Bankasının Tamamı</a>
   </section>
   {% endif %}
   <section class="blk" style="padding-bottom:80px">{% include "iletisim-blok.njk" %}</section>
