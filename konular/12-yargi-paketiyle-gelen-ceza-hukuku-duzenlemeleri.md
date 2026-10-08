@@ -25,7 +25,7 @@ Düzenlemenin yürürlüğe girdiği tarihten önce TCK m. 157 veya m. 158 uyar�
 
 Anayasa Mahkemesi'nin iptal kararları doğrultusunda HAGB kararlarının hukuki niteliği, denetim süreleri ve bu kararlara karşı kanun yolu inceleme esasları hak arama hürriyetini kısıtlamayacak şekilde yeniden yapılandırılmıştır.
 
-4-) İnfaz Kanunu ve İnfaz Hukukunu İlgilendiren Değişiklikler :
+3. İnfaz Kanunu ve İnfaz Hukukunu İlgilendiren Değişiklikler :
 
 İnfaz Aşamasındaki Banka/Hesap Kullandırma Dosyalarında Etkin Pişmanlık (TCK m. 168):
 
