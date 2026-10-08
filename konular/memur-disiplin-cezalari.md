@@ -1,5 +1,5 @@
 ---
-baslik: Memur disiplin cezaları
+baslik: Memur Disiplin Cezaları
 grup: idari-davalar
 sira: 3
 aciklama: "Disiplin soruşturması ve ceza işlemlerine karşı dava."

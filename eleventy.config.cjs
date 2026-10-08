@@ -11,13 +11,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("*.{jpg,jpeg,png,webp}");
 
   // Yazı tipleri siteyle birlikte yayınlanır (Google'dan yüklenmez)
   eleventyConfig.on("eleventy.after", ({ dir }) => {
     const hedef = path.join(dir.output, "fonts");
     fs.mkdirSync(hedef, { recursive: true });
     const kaynaklar = [
-      ["node_modules/@fontsource/newsreader/files", /^newsreader-latin(-ext)?-(400-italic|400-normal|600-normal|700-normal)\.woff2$/],
+      ["node_modules/@fontsource/newsreader/files", /^newsreader-latin(-ext)?-(400-italic|700-italic|400-normal|600-normal|700-normal)\.woff2$/],
       ["node_modules/@fontsource/ibm-plex-sans/files", /^ibm-plex-sans-latin(-ext)?-(400|500|600)-normal\.woff2$/]
     ];
     kaynaklar.forEach(([klasor, kalip]) => {
@@ -33,6 +34,7 @@ module.exports = function (eleventyConfig) {
     return x.getUTCDate() + " " + AYLAR[x.getUTCMonth()] + " " + x.getUTCFullYear();
   });
   eleventyConfig.addFilter("isoTarih", (d) => new Date(d).toISOString().slice(0, 10));
+  eleventyConfig.addFilter("menuAd", (url, menu) => { const m = menu.find((x) => x.url === url); return m ? m.ad : ""; });
   eleventyConfig.addFilter("head", (dizi, n) => dizi.slice(0, n));
 
   // Koleksiyonlar

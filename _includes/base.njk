@@ -21,9 +21,15 @@
   <a class="brand" href="/">{{ site.ad }}</a>
   <p class="tagline">{{ site.altBaslik }}</p>
 </header>
-<div class="navwrap"><nav class="cap" aria-label="Ana menü">
+<div class="navwrap">
+<input type="checkbox" id="mt" class="mt-input" aria-label="Menüyü aç veya kapat">
+<div class="capbar">
+<label for="mt" class="mt-btn"><span class="ic" aria-hidden="true"></span>Menü<span class="cur">{{ akt | menuAd(menu) }}</span></label>
+<nav class="cap" aria-label="Ana menü">
 {%- for m in menu %}<a href="{{ m.url }}"{% if m.url == akt %} aria-current="page"{% endif %}>{{ m.ad }}</a>{% endfor -%}
-</nav></div>
+</nav>
+</div>
+</div>
 <main>
 {{ content | safe }}
 </main>

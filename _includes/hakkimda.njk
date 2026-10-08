@@ -7,12 +7,14 @@ layout: base.njk
       <h1>{{ baslik }}</h1>
       <blockquote>{{ alinti }}</blockquote>
     </div>
+    {% if foto %}
+    <figure class="portrait">
+      <div class="frame"><img src="{{ foto }}" alt="{{ baslik }}" width="600" height="750"></div>
+    </figure>
+    {% endif %}
     <div class="cvcard">
       <h2>Özgeçmiş</h2>
       {{ content | safe }}
-      <ul class="tl">
-        {% for z in zaman %}<li><b>{{ z.yil }}</b><span>{{ z.metin }}</span></li>{% endfor %}
-      </ul>
     </div>
   </div>
 </div>

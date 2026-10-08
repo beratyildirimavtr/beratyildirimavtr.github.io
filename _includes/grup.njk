@@ -17,7 +17,7 @@ layout: base.njk
     {% endfor %}
   </div>
   {% if kararlarim.length %}
-  <h2 class="sec" style="margin-top:44px">Emsal Yargıtay kararları ve değerlendirmeleri</h2>
+  <h2 class="sec" style="margin-top:44px">Emsal Yargıtay Kararları ve Hukuki Değerlendirmeleri</h2>
   <div class="dgrid">{% for d in kararlarim | head(6) %}{% include "karar-karti.njk" %}{% endfor %}</div>
   {% endif %}
 </div>
