@@ -1,16 +1,17 @@
 ---
-konu: uyusturucu-suclari
-mahkeme: Yargıtay
+konu: "uyusturucu-suclari"
+mahkeme: "Yargıtay"
 daire: "10. Ceza Dairesi"
-esas: "2017/6147 "
-karar: "2021/4558 "
+esas: "2017/6147"
+karar: "2021/4558"
 tarih: "07.04.2021"
-baslik: Tanığın beyan değiştirmesi ve kullanım sınırındaki madde
+baslik: "Tanığın beyan değiştirmesi ve kullanım sınırındaki madde"
 madde: "TCK m.188 TCK m. 191"
-ozet: "Başka bir şüphelinin/sanığın "uyuşturucuyu bana o sattı" şeklindeki, sonradan döndüğü beyanı; yan delillerle desteklenmedikçe mahkûmiyete esas alınamaz. Ele geçen miktar kullanım sınırındaysa ve sanığın kan/idrar tahlili uyuşturucu kullandığını doğruluyorsa, eylem ticaret değil kullanım kabul edilmelidir."
+ozet: "Başka bir şüphelinin/sanığın 'uyuşturucuyu bana o sattı' şeklindeki, sonradan döndüğü beyanı; yan delillerle desteklenmedikçe mahkûmiyete esas alınamaz. Ele geçen miktar kullanım sınırındaysa ve sanığın kan/idrar tahlili uyuşturucu kullandığını doğruluyorsa, eylem ticaret değil kullanım kabul edilmelidir."
 kaynak: "https://karararama.yargitay.gov.tr"
 ornek: false
 ---
+
 ***Yargıtay 10. Ceza Dairesi 2017/6147 E.  ,  2021/4558 K.***
 
 **"İçtihat Metni"**
