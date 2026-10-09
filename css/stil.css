@@ -236,3 +236,12 @@ footer p{margin:10px 0 0}
 @media (prefers-reduced-motion:no-preference){
   nav.cap a,.chip,.tile,.arch li a,.more,.psearch button,.arch .ah{transition:background-color .15s ease,filter .15s ease}
 }
+
+
+.textcard h2{font-size:26px}
+.textcard h3{font-size:21px}
+.textcard li,.fulltext li{font-family:var(--serif);font-size:18.5px;line-height:1.75;margin-bottom:6px}
+.textcard ul,.textcard ol,.fulltext ul,.fulltext ol{padding-left:26px;margin:0 0 14px}
+.textcard blockquote,.fulltext blockquote{margin:16px 0;padding:6px 0 6px 18px;border-left:3px solid var(--bar);font-style:italic}
+.textcard a,.fulltext a{color:var(--link)}
+.textcard hr{border:0;border-top:1px solid var(--line);margin:22px 0}
