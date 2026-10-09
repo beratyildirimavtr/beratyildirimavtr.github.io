@@ -4,9 +4,9 @@ grup: ceza-hukuku
 sira: 8
 aciklama: "Kamuoyunda 12. Yargı Paketi olarak bilinen 7589 sayılı Kanun ile Türk Ceza Kanunu, Ceza Muhakemesi Kanunu ve infaz hukukunu ilgilendiren alanlarda yapılan temel değişiklikleri maddeler halinde detaylıca inceleyip sizler için derledim:"
 ---
-1. 5237 Sayılı Türk Ceza Kanunu’nda Yapılan Değişiklikler :
+***1. 5237 Sayılı Türk Ceza Kanunu’nda Yapılan Değişiklikler :***
 
- Banka, Kredi Kartı ve Kripto Varlık Hesap Bilgilerini Kullandırma Suçunda Ceza İndirimi (TCK m. 158/4):
+ ***Banka, Kredi Kartı ve Kripto Varlık Hesap Bilgilerini Kullandırma Suçunda Ceza İndirimi (TCK m. 158/4):***
 
  7589 sayılı Kanun'un 13. maddesiyle TCK'nın 158. maddesine 4. fıkra eklenmiştir:
 
@@ -19,15 +19,15 @@ Devam Etmekte Olan ve İstinaf - Temyiz Kanun Yollarındaki Dosyalar İçin Geç
 
 Düzenlemenin yürürlüğe girdiği tarihten önce TCK m. 157 veya m. 158 uyarınca haklarında hüküm verilip dosyası kanun yolu incelemesinde (Yargıtay veya İstinafta) bulunan ve yeni eklenen 158/4. fıkra kapsamına giren sanıklar hakkında bozma kararı verilerek dosyalarının ilk derece mahkemelerine gönderilmesi hükme bağlanmıştır.
 
-2. 5271 Sayılı Ceza Muhakemesi Kanunu’nda Yapılan Değişiklikler :
+***2. 5271 Sayılı Ceza Muhakemesi Kanunu’nda Yapılan Değişiklikler :***
 
- Hükmün Açıklanmasının Geri Bırakılması (HAGB) Düzenlemesi (CMK m. 231):
+***Hükmün Açıklanmasının Geri Bırakılması (HAGB) Düzenlemesi (CMK m. 231):***
 
 Anayasa Mahkemesi'nin iptal kararları doğrultusunda HAGB kararlarının hukuki niteliği, denetim süreleri ve bu kararlara karşı kanun yolu inceleme esasları hak arama hürriyetini kısıtlamayacak şekilde yeniden yapılandırılmıştır.
 
-3. İnfaz Kanunu ve İnfaz Hukukunu İlgilendiren Değişiklikler :
+***3. İnfaz Kanunu ve İnfaz Hukukunu İlgilendiren Değişiklikler :***
 
-İnfaz Aşamasındaki Banka/Hesap Kullandırma Dosyalarında Etkin Pişmanlık (TCK m. 168):
+***İnfaz Aşamasındaki Banka/Hesap Kullandırma Dosyalarında Etkin Pişmanlık (TCK m. 168):***
 
 Kanunun yürürlüğe girmesinden önce TCK m. 157 veya m. 158 uyarınca cezası kesinleşmiş ve infaz aşamasında olan (ve daha önce TCK m. 168 etkin pişmanlıktan yararlanmamış) hükümlülerden, yeni 158/4 maddesi kapsamına giren kişilere lehe imkân sağlanmıştır.
 
