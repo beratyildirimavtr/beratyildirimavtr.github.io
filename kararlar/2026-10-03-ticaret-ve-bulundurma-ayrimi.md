@@ -5,7 +5,7 @@ daire: "10. Ceza Dairesi"
 esas: "2019/5732"
 karar: "2022/8738"
 tarih: "05.07.2022"
-baslik: Soyut tanık beyanıyla ceza verilemeyeceği
+baslik: Soyut tanık beyanıyla ceza verilemeyeceği ve uyuşturucunun kullanım sınırında kaldığı
 madde: "TCK m.188, 191"
 ozet: "Yargıtay bu kararında; fiziken ele geçirilemeyen uyuşturucu maddelerin hukuken uyuşturucu kabul edilemeyeceğini, somut delil bulunmaksızın sadece soyut tanık beyanıyla uyuşturucu ticareti suçundan ceza verilemeyeceğini söyleyerek yerel mahkeme kararını BOZMUŞTUR. "
 kaynak: ""
