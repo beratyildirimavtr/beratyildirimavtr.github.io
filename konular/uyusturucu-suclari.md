@@ -2,7 +2,7 @@
 baslik: Uyuşturucu Suçları
 grup: ceza-hukuku
 sira: 1
-aciklama: "Ticaret ile kullanmak için bulundurma ayrımı, delil ve cezalandırma."
+aciklama: "Uyuşturucu Suçlarının tanımları ve Kanundaki Cezai karşılıkları, ticaret suçu ile kullanmak için bulundurma suçunun ayrımı, delil ve cezalandırmaya ilişkin Yargıtay kararları"
 ---
 Uyuşturucu ve uyarıcı maddelerle ilgili fiiller, Türk Ceza Kanunu’nda ***"Kamunun Sağlığına Karşı Suçlar"*** başlığı altında düzenlenmiş olup, toplum sağlığını ve kamu düzenini korumak amacıyla yüksek yaptırımlara bağlanmıştır. Uyuşturucu maddelerle ilgili adli süreçlerde, eylemin ***"ticaret"*** mi yoksa ***"kullanım amacıyla bulundurma"*** mı olduğu hususu ceza miktarını doğrudan etkileyen en kritik hukuki ayrımdır.
 
@@ -30,7 +30,7 @@ Uyuşturucu veya uyarıcı maddelerin ruhsatsız veya ruhsata aykırı olarak im
 
 Kullanmak amacıyla uyuşturucu veya uyarıcı madde satın alan, kabul eden, bulunduran ya da uyuşturucu madde kullanan kişi, 2 yıldan 5 yıla kadar hapis cezası ile cezalandırılır.
 
-**Kamu Davasının Açılmasının Ertelenmesi (CDAE) ve Denetimli Serbestlik**
+**Kamu Davasının Açılmasının Ertelenmesi (KDAE) ve Denetimli Serbestlik**
 **5 Yıllık Erteleme:** Bu suçtan dolayı başlatılan soruşturmada Cumhuriyet savcısı, CMK m. 171’deki şartları aramadan doğrudan 5 yıl süreyle Kamu Davasının Açılmasının Ertelenmesine (CDAE) karar verir.
 
 **Denetimli Serbestlik ve Tedavi:** Şüpheli hakkında erteleme süresi zarfında en az 1 yıl süreyle denetimli serbestlik tedbiri uygulanır ve gerekli görülürse tedaviye tabi tutulur.
@@ -40,3 +40,6 @@ Kullanmak amacıyla uyuşturucu veya uyarıcı madde satın alan, kabul eden, bu
 **Sürecin Başarıyla Tamamlanması:** Şüpheli 5 yıllık erteleme süresini yükümlülüklere uygun ve ihlalsiz geçirirse hakkında Kovuşturmaya Yer Olmadığı Kararı (Takipsizlik) verilir.
 
 **Okul/Yurt Yakınlığı Artırımı:** Kullanma veya bulundurma eyleminin okul, yurt, hastane veya ibadethanelere 200 metreden yakın mesafede işlenmesi halinde verilecek ceza yarı oranında artırılır.
+
+
+***Yazar: Avukat Berat YILDIRIM***
