@@ -2,7 +2,7 @@
 baslik: Uyuşturucu Suçları
 grup: ceza-hukuku
 sira: 1
-aciklama: "Uyuşturucu Suçlarının tanımları ve Kanundaki Cezai karşılıkları, ticaret suçu ile kullanmak için bulundurma suçunun ayrımı, delil ve cezalandırmaya ilişkin Yargıtay kararları"
+aciklama: "Uyuşturucu Suçlarının tanımları ve Türk Ceza Kanunundaki cezai karşılıkları, uyuşturucu ticareti suçu ile kullanmak için uyuşturucu bulundurma suçunun ayrımı, delil ve cezalandırmaya ilişkin Yargıtay kararları"
 ---
 Uyuşturucu ve uyarıcı maddelerle ilgili fiiller, Türk Ceza Kanunu’nda ***"Kamunun Sağlığına Karşı Suçlar"*** başlığı altında düzenlenmiş olup, toplum sağlığını ve kamu düzenini korumak amacıyla yüksek yaptırımlara bağlanmıştır. Uyuşturucu maddelerle ilgili adli süreçlerde, eylemin ***"ticaret"*** mi yoksa ***"kullanım amacıyla bulundurma"*** mı olduğu hususu ceza miktarını doğrudan etkileyen en kritik hukuki ayrımdır.
 
