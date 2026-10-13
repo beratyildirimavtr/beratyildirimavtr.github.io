@@ -54,3 +54,6 @@ Cumhuriyet savcısı ve hakim kararıyla hesaptaki paraya el konulur ve mağdura
 ***"Hesap Kiralama"İlanlarına Kanmayın:*** İnternette komisyon karşılığı IBAN/kart kiralama vaadinde bulunan tüm yapılar dolandırıcılık ve bahis çeteleridir.
 
 ***Hesabınıza Tanımadığınız Bir Para Gelirse:*** Paraya kesinlikle dokunmayın, çekmeyin veya başkasına transfer etmeyin. Derhal bankanızla iletişime geçerek durumu bildirin ve gerekirse en yakın polis merkezine veya savcılığa dilekçe verin.
+
+
+   ***Yazar : Avukat Berat YILDIRIM***
