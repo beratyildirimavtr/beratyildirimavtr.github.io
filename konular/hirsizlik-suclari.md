@@ -13,9 +13,9 @@ Zilyedinin rızası olmadan başkasına ait taşınır bir malı, kendisine veya
 
 Taşınmazlar hırsızlık suçunun konusunu oluşturmaz (taşınmaz işgalleri TCK m. 154 kapsamında değerlendirilir).
 
-Maddi Unsur: Malın, zilyedinin (rızaya dayalı tasarruf yetkisi bulunan kişinin) açık veya zımnı rızası olmaksızın bulunduğu yerden alınarak mağdurun zilyetliğine son verilmesi ve fail tarafından yeni bir zilyetlik tesis edilmesidir.
+***Maddi Unsur:*** Malın, zilyedinin (rızaya dayalı tasarruf yetkisi bulunan kişinin) açık veya zımnı rızası olmaksızın bulunduğu yerden alınarak mağdurun zilyetliğine son verilmesi ve fail tarafından yeni bir zilyetlik tesis edilmesidir.
 
-Manevi Unsur: Suç kasten işlenir; genel kastın yanı sıra failin "kendisine veya başkasına bir yarar sağlamak maksadıyla" hareket etmesi şarttır.
+***Manevi Unsur:*** Suç kasten işlenir; genel kastın yanı sıra failin "kendisine veya başkasına bir yarar sağlamak maksadıyla" hareket etmesi şarttır.
 
 ***2. Nitelikli Hırsızlık Halleri (TCK m. 142)***
 
