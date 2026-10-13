@@ -39,7 +39,7 @@ Banka veya finans kuruluşlarında kendi adına fakat başkası hesabına hareke
 
 Bu düzenleme, "Ben dolandırıcılığı bilmiyordum" deseniz dahi sırf hesabınızı başkasına kullandırıp bildirimde bulunmadığınız için hakkınızda adli ceza uygulanmasına yol açabilir.
 
-***5. CMK m. 128/A Uyarınca Hesapların Askıya Alınması ve El Koyma***
+***4. CMK m. 128/A Uyarınca Hesapların Askıya Alınması ve El Koyma***
 
 Bilişim sistemlerinin kullanılması suretiyle işlenen dolandırıcılık suçlarında, suça konu paranın izi sürülürken Ceza Muhakemesi Kanunu’nun 128/A maddesi uygulanır.
 
@@ -47,7 +47,7 @@ Bilişim sistemlerinin kullanılması suretiyle işlenen dolandırıcılık suç
 
 Cumhuriyet savcısı ve hakim kararıyla hesaptaki paraya el konulur ve mağdura ait olduğu kesinleşirse para mağdura iade edilir. Ayrıca bu durumdaki tüm banka hesaplarınıza kısıtlama gelebilir.
 
-***6. Vatandaşlar İçin Altın Kurallar ve Korunma Yolları***
+***5. Vatandaşlar İçin Altın Kurallar ve Korunma Yolları***
 
 ***Akran, Arkadaş veya Akraba Dahi Olsa IBAN Vermeyin:*** "Hesabım kısıtlı, parayı senin hesabına atsınlar" diyen kişilerin ricasını kesinlikle kabul etmeyin.
 
