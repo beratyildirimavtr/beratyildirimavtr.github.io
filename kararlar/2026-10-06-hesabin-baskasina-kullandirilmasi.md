@@ -6,7 +6,7 @@ esas: "2021/16966"
 karar: "2024/7470"
 tarih: "04.06.2024"
 baslik: Hesabın başkasına kullandırılması, iyiniyet kriterinin gözetilmesi gerektiği
-madde: "TCK m.220"
+madde: "TCK"
 ozet: "Yargıtay bu kararında, kendisini polis veya savcı olarak tanıtıp vatandaşları dolandıran bir şebekeye IBAN ve banka hesabı temin eden kişilerin ceza sorumluluğunu değerlendirmiştir. Kararda; arkadaşlık veya güven ilişkisine dayanarak hesabını kullandıran, dolandırıcılık planından haberi olmayan ve bu işlemden hiçbir maddi menfaat sağlamayan kişilerin beraat etmesi gerektiği belirtilmiştir. Buna karşılık, organizasyon içinde yer alarak hesap toplayan, yatırılan paraları bankadan çekip teslim eden ve bu işten pay alan kişilerin ise dolandırıcılık suçunun doğrudan ortak faili olarak cezalandırılması gerektiği vurgulanmıştır. Böylelikle Yargıtay, IBAN kullandırma vakalarında iyiniyetle hareket eden vatandaşlar ile suçtan haksız kazanç sağlayan failler arasındaki hukuki sınırı net bir şekilde çizmiştir."
 kaynak: ""
 ornek: false
