@@ -245,3 +245,8 @@ footer p{margin:10px 0 0}
 .textcard blockquote,.fulltext blockquote{margin:16px 0;padding:6px 0 6px 18px;border-left:3px solid var(--bar);font-style:italic}
 .textcard a,.fulltext a{color:var(--link)}
 .textcard hr{border:0;border-top:1px solid var(--line);margin:22px 0}
+
+
+/* Konu açıklamaları: iki yana yaslı */
+.textcard p,.textcard li{text-align:justify;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto}
+@media (max-width:700px){.textcard p,.textcard li{text-align:left}}
