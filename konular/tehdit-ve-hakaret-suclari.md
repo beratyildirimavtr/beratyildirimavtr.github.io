@@ -82,5 +82,5 @@ Hem tehdit (TCK m. 106/1) hem de hakaret (TCK m. 125/1) suçlarının ceza üst 
 * Mahkeme, iddianamenin kabulünden sonra duruşma açmaksızın **Basit Yargılama Usulü** uygulayabilir.
 * Bu usulde taraflara yazılı beyan ve savunmalarını sunmaları için süre verilir. Dosya üzerinden verilen mahkûmiyet kararlarında sonuç ceza üzerinden **1/4 oranında indirim** yapılır. Karara itiraz edilirse genel duruşmalı yargılamaya geçilir.
 
-*** Avukat Berat YILDIRIM***
+***Avukat Berat YILDIRIM***
 ---
