@@ -1,5 +1,5 @@
 ---
-baslik: Anayasa Mahkemesi’nden Süresiz Nafaka Kararı, Ne Değişiyor, Ne Zaman Değişiyor?
+baslik: Anayasa Mahkemesi Süresiz Nafakayı Kaldırdı mı? Ne Değişiyor, Ne Zaman Değişiyor?
 grup: hukuk-davalari
 sira: 8
 aciklama: "Anayasa Mahkemesi nafaka kararının yorumlanması: E. 2025/156, K. 2026/131 – Resmî Gazete: 30 Eylül 2026"
@@ -91,11 +91,11 @@ Karara muhalif kalan üç üye, nafakanın uygulamada kadınların ekonomik koru
 Basitçe anlatmak gerekirse:
 
 - Nafaka, boşanma sonrası zor duruma düşen eşi korumak için var ve bu amaç meşru.
-- 
+  
 - Ancak nafaka ödeyen kişiye, kusuru olmasa bile ömür boyu sürebilecek bir mali yük getirmek, iki taraf arasındaki dengeyi bozabiliyor.
-- 
+  
 - Uygulamada hâkimler, "süresiz" ifadesi nedeniyle nafakanın süresini somut olaya göre belirleyemiyordu.
-- 
+  
 - Mahkeme, bu dengenin kanunda açık kriterlerle kurulması gerektiğine karar verdi.
 
 ## 2012'de aynı ibare iptal edilmemişti. Şimdi neden edildi?
