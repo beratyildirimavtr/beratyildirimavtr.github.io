@@ -110,5 +110,8 @@ Bilinmiyor. Meclis'in 9 aylık süre içinde bir düzenleme yapıp yapmayacağı
 
 Karar tek bir tarafın lehine veya aleyhine değil. Mahkeme, hem nafaka alanın korunmasını hem de nafaka ödeyenin üzerindeki yükün makul olmasını dengelemeye çalıştı. Sonuç, yeni düzenlemenin içeriğine göre şekillenecek.
 
+  > ***Dikkat:***  *Hukuk sisteminde atılacak hatalı bir adım veya kaçırılan tek bir yasal süre, haklılığınızı tamamen ortadan kaldırabilir. Haklarınızı eksiksiz korumak ve riske atmamak için sürecinizi mutlaka uzman bir avukatla takip ediniz.*
 
-***Avukat Berat YILDIRIM***
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
+---
