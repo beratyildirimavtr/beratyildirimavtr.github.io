@@ -7,4 +7,4 @@ ozet: "Alışveriş, abonelik ve finansal ürünlerde tüketici hakları."
 ---
 Tüketici hukuku, mal veya hizmeti ticari amaç dışında satın alan kişilerin haklarını korur. Ayıplı mal ve hizmet, garanti, internet alışverişi, abonelik ve kredi işlemleri başlıca konularıdır.
 
-Bu sayfada tüketici işlemlerine ilişkin konu başlıklarını ve ilgili yargı kararlarını bulabilirsiniz.
+Bu sayfada tüketici işlemlerine ilişkin konuları bulabilirsiniz.

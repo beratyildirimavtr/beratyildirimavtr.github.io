@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{% if baslik %}{{ baslik }} | {% endif %}{{ site.ad }}</title>
+<title>{% if baslik and page.url != '/' %}{{ baslik }} | {% endif %}{{ site.ad }}</title>
 <meta name="description" content="{{ aciklama or ozet or site.aciklama }}">
 {% if not site.yayinda %}<meta name="robots" content="noindex, nofollow">{% endif %}
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 <meta property="og:type" content="website">
-<meta property="og:title" content="{{ baslik or site.ad }}">
+<meta property="og:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.ad }}{% endif %}">
 <meta property="og:description" content="{{ aciklama or ozet or site.aciklama }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:locale" content="tr_TR">
@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="/css/stil.css">
 </head>
 <body>
+{% include "sprite.njk" %}
 {% set akt = aktifMenu or page.url %}
 <header class="top">
   <a class="brand" href="/">{{ site.ad }}</a>
@@ -33,6 +34,7 @@
 <main>
 {{ content | safe }}
 </main>
+<div class="steps" aria-hidden="true"><i></i><i></i><i></i></div>
 <footer class="site"><div class="wrap">
   <div class="row"><span>© {{ site.yil }} {{ iletisim.unvan }}</span><a href="/gizlilik/">Gizlilik Politikası</a><a href="/kvkk/">KVKK Aydınlatma Metni</a></div>
   <p>Bu sitedeki içerikler genel bilgilendirme amaçlıdır; somut bir olay için hukuki danışmanlık yerine geçmez.</p>

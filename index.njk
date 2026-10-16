@@ -6,36 +6,45 @@ aktifMenu: /
 ---
 <h1 class="sr">Av. Berat YILDIRIM</h1>
 <section class="hero">
-  <svg class="deco l" viewBox="0 0 200 260" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 250V100a90 90 0 0 1 180 0v150"/><path d="M34 250V104a66 66 0 0 1 132 0v146"/><path d="M58 250V108a42 42 0 0 1 84 0v142"/></svg>
-  <svg class="deco r" viewBox="0 0 200 260" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 250V100a90 90 0 0 1 180 0v150"/><path d="M34 250V104a66 66 0 0 1 132 0v146"/><path d="M58 250V108a42 42 0 0 1 84 0v142"/></svg>
+  <svg class="deco l" viewBox="0 0 60 240" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><use href="#kolon"/></svg>
+  <svg class="deco r" viewBox="0 0 60 240" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><use href="#kolon"/></svg>
   <div class="hero-in">
+    <svg class="tapinak" viewBox="0 0 320 150" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><use href="#tapinak"/></svg>
     <p class="note">{{ site.uyari }}</p>
     <form class="psearch" action="/ara/" method="get" role="search">
-      <input name="q" type="search" placeholder="Konu, karar veya kanun maddesi ara" aria-label="Sitede ara" autocomplete="off">
+      <input name="q" type="search" placeholder="Hukuki konu ara" aria-label="Sitede ara" autocomplete="off">
       <button type="submit">Ara</button>
     </form>
   </div>
 </section>
+{% if site.sozLatince %}
+<section class="epigraf" aria-label="Özdeyiş">
+  <div class="line"><i></i><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2L22 12L12 22L2 12Z" fill="currentColor"/></svg><i></i></div>
+  <p class="lat" lang="la">{{ site.sozLatince }}</p>
+  <p class="trk">{{ site.sozTurkce }}{% if site.sozKaynak %} <span>— {{ site.sozKaynak }}</span>{% endif %}</p>
+</section>
+{% endif %}
 <div class="wrap">
   <p class="lead-line">{{ site.anaSayfaAlt }}</p>
   <div class="arcade">
   {% for g in collections.gruplarSirali %}
     {% set liste = collections.konularSirali | grubunKonulari(g.fileSlug) %}
     <div class="arch g" style="--gc-l:{{ g.data.renk }};--gc-d:{{ g.data.renkKoyu }}">
-      <a class="ah" href="{{ g.url }}"><b>{{ g.data.baslik }}</b></a>
+      <a class="ah" href="{{ g.url }}"><span class="ks" aria-hidden="true"></span><b>{{ g.data.baslik }}</b></a>
+      <div class="rule" aria-hidden="true"><i></i></div>
       <ul>
-        {% for k in liste | head(10) %}<li><a href="{{ k.url }}">{{ k.data.baslik }}</a></li>{% endfor %}
+        {% for k in liste | head(10) %}<li><a href="{{ k.url }}">{{ k.data.baslik }}</a></li>{% else %}<li class="soon">Konular hazırlanıyor</li>{% endfor %}
       </ul>
-      {% if liste.length > 10 %}<a class="all" href="{{ g.url }}">Tüm konular</a>{% endif %}
+      {% if liste.length > 10 %}<a class="all" href="{{ g.url }}">Tüm konular <span aria-hidden="true">→</span></a>{% endif %}
     </div>
   {% endfor %}
   </div>
-  {% set son = collections.kararSirali | head(4) %}
-  {% if son.length %}
+  {% set yeniler = collections.konularSirali %}
+  {% if yeniler.length %}
   <section class="blk">
-    <h2 class="sec">Emsal Yargıtay Kararları ve Hukuki Değerlendirmeler</h2>
-    <div class="dgrid">{% for d in son %}{% include "karar-karti.njk" %}{% endfor %}</div>
-    <a class="more" href="/yargitay-kararlari/">Karar Bankasının Tamamı</a>
+    <h2 class="sec">Yeni Eklenen Konular</h2>
+    <div class="tlist">{% for k in yeniler | head(12) %}{% include "konu-satiri.njk" %}{% endfor %}</div>
+    {% if yeniler.length > 12 %}<a class="more" href="/konular/">Tüm Konular</a>{% endif %}
   </section>
   {% endif %}
   <section class="blk" style="padding-bottom:80px">{% include "iletisim-blok.njk" %}</section>

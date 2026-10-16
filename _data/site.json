@@ -1,9 +1,12 @@
 {
   "ad": "Avukat Berat YILDIRIM",
   "altBaslik": "Avukatlık & Arabuluculuk & Danışmanlık Hizmetleri",
-  "aciklama": "Avukat Berat YILDIRIM. Yargıtay kararları ve hukuki bilgilendirmeler.",
+  "aciklama": "Avukat Berat YILDIRIM. Güncel hukuki konular ve bilgilendirmeler.",
   "uyari": "Bu sayfadaki bilgiler genel bilgilendirme niteliğindedir; hak kaybı yaşamamak için dava süreçlerinizi mutlaka bir avukatla yürütünüz.",
-  "anaSayfaAlt": "Konu başlıklarını seçerek ilgili Yargıtay kararlarına ve hukuki bilgilendirmelere ulaşabilirsiniz.",
+  "anaSayfaAlt": "Konu başlıklarını seçerek ilgili hukuki bilgilendirmelere ulaşabilirsiniz.",
+  "sozLatince": "Iustitia est constans et perpetua voluntas ius suum cuique tribuendi.",
+  "sozTurkce": "Adalet, herkese hakkını vermeye yönelik sürekli ve değişmez iradedir.",
+  "sozKaynak": "Ulpianus",
   "url": "https://beratyildirimavtr.github.io",
   "yayinda": false,
   "yil": 2026

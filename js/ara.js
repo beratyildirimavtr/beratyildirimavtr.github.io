@@ -9,19 +9,21 @@
   var terim = kucuk(q);
   fetch('/arama.json').then(function (r) { return r.json(); }).then(function (dizin) {
     var bulunan = dizin.filter(function (x) {
-      return kucuk([x.baslik, x.etiket, x.metin, x.madde].join(' ')).indexOf(terim) > -1;
+      return kucuk([x.baslik, x.grup, x.aciklama, x.metin].join(' ')).indexOf(terim) > -1;
     });
     if (!bulunan.length) { durum.textContent = '“' + q + '” için sonuç bulunamadı.'; return; }
     durum.textContent = bulunan.length + ' sonuç bulundu.';
     bulunan.forEach(function (x) {
-      var kart = document.createElement('article'); kart.className = 'dcard';
-      var ust = document.createElement('div'); ust.className = 'top';
-      var pill = document.createElement('span'); pill.className = 'gpill'; pill.textContent = x.tur + (x.etiket ? ' · ' + x.etiket : '');
-      ust.appendChild(pill);
-      var h = document.createElement('h3'); var a = document.createElement('a'); a.href = x.url; a.textContent = x.baslik; h.appendChild(a);
-      var p = document.createElement('p'); p.textContent = x.metin.slice(0, 180) + (x.metin.length > 180 ? '…' : '');
-      kart.appendChild(ust); kart.appendChild(h); kart.appendChild(p);
-      kutu.appendChild(kart);
+      var a = document.createElement('a'); a.className = 'trow'; a.href = x.url;
+      a.style.setProperty('--gc', 'var(--dark)');
+      var tb = document.createElement('span'); tb.className = 'tb';
+      var meta = document.createElement('span'); meta.className = 'tmeta';
+      if (x.grup) { var p = document.createElement('span'); p.className = 'gpill'; p.textContent = x.grup; meta.appendChild(p); }
+      var s = document.createElement('strong'); s.textContent = x.baslik;
+      var d = document.createElement('span'); d.className = 'tdesc'; d.textContent = x.aciklama || (x.metin.slice(0, 160) + '…');
+      tb.appendChild(meta); tb.appendChild(s); tb.appendChild(d);
+      var go = document.createElement('i'); go.className = 'go'; go.textContent = '→';
+      a.appendChild(tb); a.appendChild(go); kutu.appendChild(a);
     });
   }).catch(function () { durum.textContent = 'Arama şu an yapılamıyor. Lütfen sayfayı yenileyin.'; });
 })();

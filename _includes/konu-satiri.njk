@@ -1,0 +1,10 @@
+{% set gr = collections.gruplar | grupBul(k.data.grup) %}
+<a class="trow g" style="{{ gr | gstil }}" href="{{ k.url }}">
+  <svg class="mk" viewBox="0 0 24 56" fill="currentColor" aria-hidden="true"><use href="#kolon-dolu"/></svg>
+  <span class="tb">
+    <span class="tmeta">{% if gr %}<span class="gpill">{{ gr.data.baslik }}</span>{% endif %}<time datetime="{{ k.date | isoTarih }}">{{ k.date | tarihTR }}</time></span>
+    <strong>{{ k.data.baslik }}</strong>
+    {% if k.data.aciklama %}<span class="tdesc">{{ k.data.aciklama }}</span>{% endif %}
+  </span>
+  <i class="go" aria-hidden="true">→</i>
+</a>

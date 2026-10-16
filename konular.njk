@@ -1,0 +1,17 @@
+---
+layout: base.njk
+baslik: Tüm Konular
+aciklama: Sitedeki bütün hukuki konular, ana başlıklara göre.
+permalink: /konular/
+sitemapDisi: true
+---
+<div class="wrap pad">
+  <div class="pagehead"><h1>Tüm Konular</h1></div>
+  {% for g in collections.gruplarSirali %}
+    {% set liste = collections.konularSirali | grubunKonulari(g.fileSlug) %}
+    {% if liste.length %}
+    <h2 class="sec" style="margin-top:34px">{{ g.data.baslik }}</h2>
+    <div class="tlist">{% for k in liste %}{% include "konu-satiri.njk" %}{% endfor %}</div>
+    {% endif %}
+  {% endfor %}
+</div>
