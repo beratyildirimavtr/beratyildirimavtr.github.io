@@ -104,4 +104,10 @@ Memurların derece/kademe intibakları, ek gösterge hesaplamaları, özel hizme
 
 > **Örnek:** Mühendislik fakültesini bitiren bir kamu görevlisi, öğrenim durumuna uygun derece/kademe intibakının yapılması ve zam/tazminat farklarının ödenmesi için kurumuna başvurmuştur. İdare 30 gün içinde cevap vermeyerek talebi zımnen reddetmiştir. Memur, 30 günlük sürenin bittiği tarihten itibaren **60 gün içinde** İdare Mahkemesinde dava açarak intibakının yapılmasını ve geriye dönük eksik ödenen mali haklarının yasal faiziyle tahsilini sağlayabilir.
 
+  > ***Dikkat:***  *Hukuk sisteminde atılacak hatalı bir adım veya kaçırılan tek bir yasal süre, haklılığınızı tamamen ortadan kaldırabilir. Haklarınızı eksiksiz korumak ve riske atmamak için sürecinizi mutlaka uzman bir avukatla takip ediniz.*
+
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
+---
+
 ---
