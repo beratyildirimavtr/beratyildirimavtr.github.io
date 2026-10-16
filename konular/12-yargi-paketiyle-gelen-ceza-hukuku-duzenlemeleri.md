@@ -1,7 +1,7 @@
 ---
 baslik: 12. Yargı Paketiyle Gelen Ceza Hukuku Düzenlemeleri
 grup: ceza-hukuku
-sira: 0
+sira: 01
 aciklama: "Kamuoyunda 12. Yargı Paketi olarak bilinen 7589 sayılı Kanun ile Türk Ceza Kanunu, Ceza Muhakemesi Kanunu ve infaz hukukunu ilgilendiren alanlarda yapılan temel değişiklikleri maddeler halinde detaylıca inceleyip sizler için derledim:"
 ---
 ***1. 5237 Sayılı Türk Ceza Kanunu’nda Yapılan Değişiklikler :***
