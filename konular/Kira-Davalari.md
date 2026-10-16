@@ -139,4 +139,8 @@ Kira bedelini ödemeyen kiracıya karşı uygulanabilecek en hızlı ve etkili i
 
 > **Örnek:** Kiracı, 2024 yılı içinde Ocak ayı kirasını ödememiş ve ev sahibi noterden ihtar çekmiştir. Aynı kiracı Mart ayı kirasını da ödememiş ve ev sahibi ikinci kez noter ihtarı çekmiştir (aynı kira yılında 2 haklı ihtar). Ev sahibi, kira yılının bittiği tarihten itibaren 1 ay içinde Sulh Hukuk Mahkemesi'nde davasını açarak kiracıyı borcunu sonradan ödese dahi tahliye ettirebilir.
 
+   > ***Uyarı!*** *Tüm hukuki süreçler kanuni bilgi ve pratik bilgi gerektirir. Haklarınızı mutlaka bir avukat yardımı ile arayınız!*
+
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
 ---
