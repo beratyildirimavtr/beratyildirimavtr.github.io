@@ -71,5 +71,5 @@ Tüketici haklarının gerçekte nasıl işlediğini günlük hayattan 3 farklı
    > ***Uyarı!*** ***Tüm hukuki süreçler kanuni bilgi ve pratik bilgi gerektirir. Haklarınızı mutlaka bir avukat yardımı ile arayınız!***
 
 ---
-***Yazar : Avukat Berat YILDIRIM***
+   > ***Yazar : Avukat Berat YILDIRIM***
 ---
