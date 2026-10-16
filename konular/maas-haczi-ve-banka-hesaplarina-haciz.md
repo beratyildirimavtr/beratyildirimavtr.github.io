@@ -84,5 +84,9 @@ Borçlunun ve ailesinin asgari yaşam kalitesini korumak amacıyla 2004 sayılı
 
 > **Örnek:** Bir borçlunun evine hacze gidildiğinde; evde bulunan buzdolabı, çamaşır makinesi, TV, koltuk takımı ve yataklar ailenin ortak ev eşyası niteliğinde olduğundan haczedilip evden muhafaza altına alınamaz. Ancak evde 2 adet buzdolabı varsa ikinci buzdolabı veya kasadaki ziynet eşyaları haczedilebilir.
 
+   > ***Uyarı!*** ***Tüm hukuki süreçler kanuni bilgi ve pratik bilgi gerektirir. Haklarınızı mutlaka bir avukat yardımı ile arayınız!***
+
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
 ---
 
