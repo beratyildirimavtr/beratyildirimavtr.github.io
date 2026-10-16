@@ -44,8 +44,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("konularSirali", (c) =>
     c.getFilteredByTag("konular").sort((a, b) => (b.date - a.date) || a.data.baslik.localeCompare(b.data.baslik, "tr")));
 
-  eleventyConfig.addFilter("grubunKonulari", (konular, g) => konular.filter((k) => k.data.grup === g));
-  eleventyConfig.addFilter("digerKonular", (konular, g, url) => konular.filter((k) => k.data.grup === g && k.url !== url));
+  // Bir ana başlığın altındaki konular: önce "sira" numarasına göre (küçük olan önce), numarası olmayanlar sona, sonra en yeni önce
+  const sirala = (liste) => liste.slice().sort((a, b) =>
+    (Number(a.data.sira) || 9999) - (Number(b.data.sira) || 9999) ||
+    (b.date - a.date) ||
+    a.data.baslik.localeCompare(b.data.baslik, "tr"));
+  eleventyConfig.addFilter("grubunKonulari", (konular, g) => sirala(konular.filter((k) => k.data.grup === g)));
+  eleventyConfig.addFilter("digerKonular", (konular, g, url) => sirala(konular.filter((k) => k.data.grup === g && k.url !== url)));
   eleventyConfig.addFilter("gstil", (gr) => gr ? "--gc-l:" + gr.data.renk + ";--gc-d:" + (gr.data.renkKoyu || gr.data.renk) : "");
   eleventyConfig.addFilter("grupBul", (gruplar, slug) => gruplar.find((g) => g.fileSlug === slug) || null);
 
