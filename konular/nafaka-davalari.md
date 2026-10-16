@@ -1,7 +1,7 @@
 ---
 baslik: Nafaka Davaları
 grup: hukuk-davalari
-sira: 1
+sira: 02
 aciklama: "Nafaka davaları; boşanma öncesi veya sonrasında eşlerin ve çocukların bakım ile geçim ihtiyaçlarının temini ve yoksulluğa düşecek hısımlara yardım edilmesi amacıyla açılan, tarafların mali güçleri oranında belirlenen aile hukuku talepleridir."
 ---
 Nafaka; boşanma sürecinde veya boşanma sonrasında ekonomik olarak güç duruma düşecek olan eşe, bakıma muhtaç çocuklara ya da geçim sıkıntısı çeken yakın akrabalara ödenen **yasal geçim katkısıdır**.
