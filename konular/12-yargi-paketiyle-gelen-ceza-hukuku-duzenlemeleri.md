@@ -36,3 +36,10 @@ Bu durumdaki hükümlüler, mahkemece yapılacak ihtardan itibaren 6 ay içinde 
 
 
 Bu yasal değişiklikler çerçevesinde kendi dava dosyanız, derdest bir dava veya infaz aşamasındaki bir mahkûmiyet yönünden lehe kanun başvurusu yapılması hususunda bir avukattan profesyonel destek alınız.
+
+
+  > ***Dikkat:***  *Hukuk sisteminde atılacak hatalı bir adım veya kaçırılan tek bir yasal süre, haklılığınızı tamamen ortadan kaldırabilir. Haklarınızı eksiksiz korumak ve riske atmamak için sürecinizi mutlaka uzman bir avukatla takip ediniz.*
+
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
+---
