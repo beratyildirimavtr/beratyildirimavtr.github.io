@@ -1,0 +1,42 @@
+name: Temizlik (tek seferlik)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  temizle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Yeni site yuklendi mi kontrol et
+        run: |
+          test -f _includes/sprite.njk || { echo "HATA: Once guncelleme paketini yukleyin, sonra bu temizligi calistirin."; exit 1; }
+
+      - name: Gereksiz dosyalari sil
+        run: |
+          git rm -rq --ignore-unmatch kararlar SABLONLAR KULLANIM.md README.md arsiv.njk .eleventyignore \
+            2026-10-14-basit-dolandiricilik-sucu js/kararlar.js js/kategori.js _includes/karar.njk _includes/karar-karti.njk \
+            konular/nafaka.md konular/ihtiyac-nedeniyle-tahliye.md konular/uyusturucu-ticareti.md
+          for f in konular/*.md; do
+            govde=$(awk 'BEGIN{c=0} /^---[[:space:]]*$/{c++; next} c>=2{print}' "$f" | tr -d '[:space:]')
+            if [ -z "$govde" ]; then git rm -q "$f"; echo "silindi (icerigi bos): $f"; fi
+          done
+
+      - name: Kaydet ve siteyi yeniden yayinla
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          if git diff --cached --quiet; then
+            echo "Silinecek dosya kalmamis."
+          else
+            git commit -m "Gereksiz dosyalar temizlendi"
+            git push
+            gh workflow run yayinla.yml
+          fi
