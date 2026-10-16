@@ -53,4 +53,8 @@ Hukukumuzda temel olarak **4 farklı nafaka türü** bulunmaktadır:
    * Düzenli ödenmesi gereken aylık nafaka borcunu ödemeyen kişi hakkında şikayet üzerine **3 aya kadar tazyik hapsi (hapis cezası)** verilir. Borçlu birikmiş nafaka borcunu öderse hapisten çıkar.
    * Maaş haczi işlemlerinde nafaka alacakları kanunen **birinci sırada** yer alır.
 
-***Avukat Berat YILDIRIM***
+  > ***Dikkat:***  *Hukuk sisteminde atılacak hatalı bir adım veya kaçırılan tek bir yasal süre, haklılığınızı tamamen ortadan kaldırabilir. Haklarınızı eksiksiz korumak ve riske atmamak için sürecinizi mutlaka uzman bir avukatla takip ediniz.*
+
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
+---
