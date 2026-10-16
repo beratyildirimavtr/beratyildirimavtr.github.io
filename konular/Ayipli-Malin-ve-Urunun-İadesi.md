@@ -68,7 +68,7 @@ Tüketici haklarının gerçekte nasıl işlediğini günlük hayattan 3 farklı
 2. **Servis Raporlarını Saklayın:** Ürün yetkili servise gittiyse servis formuna mutlaka *"Tüketici bedel iadesi seçimlik hakkını talep etmektedir"* şerhini düşürün.
 3. **Tüketici Hakem Heyetine Başvurun:** Satıcı iade talebinizi reddeder veya yanıtsız bırakırsa; faturanız, ürün fotoğraflarınız ve yazışmalarınızla birlikte e-Devlet üzerinden **TÜBİS (Tüketici Bilgi Sistemi)** aracılığıyla oturduğunuz yerdeki **Tüketici Hakem Heyeti'ne** ücretsiz olarak başvurabilirsiniz.
 
-   > ***Uyarı!*** ***Tüm hukuki süreçler kanuni bilgi ve pratik bilgi gerektirir. Haklarınızı mutlaka bir avukat yardımı ile arayınız!***
+   > ***Uyarı!*** *Tüm hukuki süreçler kanuni bilgi ve pratik bilgi gerektirir. Haklarınızı mutlaka bir avukat yardımı ile arayınız!*
 
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
