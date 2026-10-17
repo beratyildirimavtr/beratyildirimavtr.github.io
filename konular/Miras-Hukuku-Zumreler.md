@@ -1,5 +1,5 @@
 ---
-baslik: Miras Davaları ve Miras Pay Oranları
+baslik: Miras Hukukunda Pay Oranları ve Zümreler
 grup: hukuk-davalari
 sira: 05
 aciklama: "Türk Miras Hukukunda bir kimsenin vefatı (mirasbırakan/müteveffa) halinde mirasının kimlere ve hangi oranlarda kalacağı, 4721 sayılı Türk Medeni Kanunu’nun 495 ila 501. maddeleri arasında düzenlenen Kanuni Mirasçılık ve Zümre Sistemi esaslarına göre belirlenir"
