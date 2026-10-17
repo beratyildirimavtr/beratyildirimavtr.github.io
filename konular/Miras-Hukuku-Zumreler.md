@@ -72,22 +72,6 @@ Altsoyu, anası, babası ve onların altsoyu (kardeşleri/yeğenleri) bulunmayan
 
 Sağ kalan eş, zümre mirasçısı değildir; ancak **birlikte bulunduğu zümreye göre kanunen sabitleşmiş bir miras payına sahiptir**.
 
-Sağ kalan eşin miras oranları TMK m. 499 uyarınca şu şekildedir:
-
-```
-┌───────────────────────────────────────────────┬──────────────────────┐
-│ BİRLİKTE MİRASÇI OLDUĞU ZÜMRE                 │ SAĞ KALAN EŞİN PAYI  │
-├───────────────────────────────────────────────┼──────────────────────┤
-│ 1. Zümre (Mirasbırakanın Altsoyu / Çocukları) │        1/4 (%25)     │
-├───────────────────────────────────────────────┼──────────────────────┤
-│ 2. Zümre (Ana - Baba ve Kardeşler Zümresi)    │        1/2 (%50)     │
-├───────────────────────────────────────────────┼──────────────────────┤
-│ 3. Zümre (Büyük Ana - Büyük Baba ve Çocukları)│        3/4 (%75)     │
-├───────────────────────────────────────────────┼──────────────────────┤
-│ Zümrelerde Hiç Mirasçı Yoksa                  │     Tamamı (%100)    │
-└───────────────────────────────────────────────┴──────────────────────┘
-```
-
 > #### **Örnekler:**
 
 > * **Örnek 1 (Eş ve 2 Çocuk Mirasçı İse):**  
