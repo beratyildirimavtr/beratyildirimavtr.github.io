@@ -120,7 +120,7 @@ Kararın tebliğinden itibaren iki hafta içinde tüketici mahkemesine itiraz ed
 
 **Hakem heyeti kararını satıcı uygulamazsa yeniden başvuru mu yapmalıyım?**
 
-Aynı kararın uygulanmaması hâlinde kural olarak yeni bir hakem heyeti başvurusu yerine kararın icra yoluyla yerine getirilmesi değerlendirilmelidir.
+Hayır. Kararın satıcı tarafından uygulanmaması hâlinde yeni bir hakem heyeti başvurusu yapmayın. *Bunun yerine kararın icra yoluyla yerine getirilmesi için bir avukatla  görüşün.*
 
 **Sonuç:** Tüketici hakem heyeti, tüketici uyuşmazlıklarında başvurulabilecek önemli bir hak arama yoludur. Başvuru yapılmadan önce parasal sınırın kontrol edilmesi, delillerin hazırlanması ve talebin açıkça yazılması; karar sonrasında ise tebliğ tarihinin, itiraz süresinin ve kararın uygulanmasına ilişkin işlemlerin takip edilmesi gerekir.
 
