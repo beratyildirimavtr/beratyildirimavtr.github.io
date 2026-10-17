@@ -67,10 +67,12 @@ Tüketici hakem heyeti kararları tarafları bağlar. Kararın gereğini yerine 
 
 Genel olarak izlenecek yol şöyledir:
 
-1. Tüketici hakem heyeti kararını ve tebliğ bilgilerini temin edin.
-2. Kararda belirtilen yükümlülüğün yerine getirilmediğini belirleyin.
-3. Kararın niteliğine uygun icra işlemleri için icra dairesine başvurun.
-4. Gerekli takip işlemlerini yürütün ve ilgili tebligatları takip edin.
+1. Tüketici hakem heyeti kararını ve tebliğ bilgilerini temin edilir.
+2. Kararda belirtilen yükümlülüğün yerine getirilmediğini belirlenir.
+3. Kararın niteliğine uygun icra işlemleri için icra dairesine başvurulur.
+4. Gerekli takip işlemlerini yürütün ve ilgili tebligatlar takip edilir.
+
+> ***Bu sürecin alanında uzman bir avukat aracılığıyla yerine getirilmesi hak kaybının önüne geçmek adına önemlidir.***
 
 Tüketici hakem heyeti kararları, 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 70. maddesi uyarınca İcra ve İflas Kanunu'nun ilamların yerine getirilmesine ilişkin hükümlerine göre yerine getirilir.
 
