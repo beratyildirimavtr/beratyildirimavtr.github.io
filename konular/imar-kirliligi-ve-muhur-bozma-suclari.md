@@ -6,7 +6,7 @@ aciklama: "gayrimenkul, inşaat ve imar uygulamasında vatandaşların en sık k
 ---
 ---
 
-# İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları Rehberi: Nedir, Cezaları Nelerdir ve Uygulamada Nasıl Karşımıza Çıkar?
+# İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları Nedir, Cezaları Nelerdir ve Uygulamada Nasıl Karşımıza Çıkar?
 
 Ülkemizde arsa veya binası üzerinde izinsiz yapılaşmaya giden ya da belediye ekiplerince yapılan denetimlerde kaçak yapısı mühürlendiği halde inşaata devam eden pek çok vatandaş, idari süreçlerin yanı sıra Türk Ceza Kanunu kapsamında ağır ceza yaptırımlarıyla karşı karşıya kalmaktadır. 
 
