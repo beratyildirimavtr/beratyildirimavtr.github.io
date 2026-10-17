@@ -2,8 +2,7 @@
 baslik: İmar ve Belediye İşlemlerinin İptali
 grup: idari-davalar
 sira: 04
-aciklama: "İmar ve Belediye İşlemleri Rehberi:
-Belediyeler tarafından taşınmazlar hakkında tesis edilen imar cezaları, yıkım kararları veya plan değişiklikleri vatandaşların mülkiyet haklarını doğrudan etkileyen idari işlemlerdir. Bu tür durumlarla karşılaştığınızda kanunların vatandaşlara tanıdığı hakları ve izlenmesi gereken hukuki yolları bilmek büyük önem taşır."
+aciklama: "Belediyeler tarafından taşınmazlar hakkında tesis edilen imar cezaları, yıkım kararları veya plan değişiklikleri vatandaşların mülkiyet haklarını doğrudan etkileyen idari işlemlerdir. Bu tür durumlarla karşılaştığınızda kanunların vatandaşlara tanıdığı hakları ve izlenmesi gereken hukuki yolları bilmek büyük önem taşır."
 ---
 
 ### 1. Kaçak Yapı Nedeniyle Verilen Yıkım Kararı Nasıl İptal Edilir?
