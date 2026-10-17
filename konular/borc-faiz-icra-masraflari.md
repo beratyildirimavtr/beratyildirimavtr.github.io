@@ -1,5 +1,5 @@
 ---
-baslik: İCRA BORCU, FAİZİ VE İCRA MASRAFLARI
+baslik: İcra Borcu, Faizi ve İcra Masrafları
 grup: icra-takipleri
 sira: 03
 aciklama: "2004 sayılı İcra ve İflas Kanunu, 492 sayılı Harçlar Kanunu ve 6098 sayılı Türk Borçlar Kanunu  hükümleri uyarınca, kesinleşen veya başlatılan bir icra takibinde borçlunun ödemekle yükümlü olduğu toplam dosya borcu; asıl alacak, faiz, takip giderleri, vekalet ücreti ve devlet harçlarının birleşiminden oluşur"
