@@ -1,5 +1,5 @@
 ---
-baslik: İmar Kirliliği ve Mühür Bozma Suçları
+baslik: İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları
 grup: ceza-hukuku
 sira: 09
 aciklama: "gayrimenkul, inşaat ve imar uygulamasında vatandaşların en sık karşılaştığı ve genellikle sadece idari para cezası öderim zannetiği ancak hapis cezası yaptırımı bulunan İmar Kirliliğine Neden Olma (TCK m. 184) ve Mühür Bozma (TCK m. 203) suçlarını sizler için inceledik"
