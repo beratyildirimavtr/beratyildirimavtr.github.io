@@ -63,7 +63,7 @@ Belirsiz süreli iş sözleşmesini feshetmek isteyen taraf, durumu diğer taraf
 
 ---
 
-### IV. FAZLA ÇALIŞMA (FAZLA MESAYİ) VE TATİL ÜCRETLERİ
+### IV. FAZLA ÇALIŞMA (FAZLA MESAİ) VE TATİL ÜCRETLERİ
 
 * **Fazla Çalışma Ücreti (İş K. m. 41):** Kanuna göre haftalık 45 saati aşan çalışmalar **fazla çalışmadır**. Her bir saat fazla çalışma için verilecek ücret, normal çalışma ücretinin saat başına düşen miktarının **%50 yükseltilmesi (%150 oranında)** suretiyle ödenir.
 
