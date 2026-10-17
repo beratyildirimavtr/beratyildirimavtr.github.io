@@ -99,27 +99,9 @@ Belirsiz süreli iş sözleşmesini feshetmek isteyen taraf, durumu diğer taraf
 
 ### VI. İŞE İADE DAVASI VE ZORUNLU ARABULUCULUK SÜRECİ
 
-İş güvencesi kapsamında haksız ve geçersiz sebeple işten çıkarılan işçilerin işe iadesini sağlayan hukuki mekanizmadır.
+İşe iade davası, işveren tarafından geçerli bir neden gösterilmeden veya yasal usullere uyulmadan işten çıkarılan bir işçinin, işine geri dönmek amacıyla açtığı bir iş hukuku davasıdır.
 
-```
-                     İŞE İADE SÜREÇ ŞEMASI
-                               │
-                               ▼
-        İş Sözleşmesinin Feshi Tebliği (Geçersiz Sebep)
-                               │
-                               ▼
-             1 AY İÇİNDE ZORUNLU ARABULUCULUK BAŞVURUSU
-                      (7036 s.K. m. 3 / İş K. m. 20)
-                               │
-         ┌─────────────────────┴─────────────────────┐
-         ▼                                           ▼
- ANLAŞMA SAĞLANDI                           ANLAŞMA SAĞLANAMADI
-(İşe başlama tarihi,                        (Son tutanak tutulur)
- tazminat ve boşta geçen                           │
- süre ücreti belirlenir)                           ▼
-                                          2 HAFTA İÇİNDE İŞ MAHKEMESİNDE
-                                              İŞE İADE DAVASI AÇILIR
-```
+İş güvencesi kapsamında haksız ve geçersiz sebeple işten çıkarılan işçilerin işe iadesini sağlayan hukuki mekanizmadır.
 
 #### 1. İş Güvencesinden Yararlanma Şartları (İş K. m. 18):
 * İşyerinde **30 veya daha fazla işçi** çalışıyor olması,
