@@ -51,3 +51,9 @@ Kamuoyunda 12. Yargı Paketi (7589 sayılı Kanun) olarak bilinen düzenlemeyle,
 **Etkin Pişmanlık (TCK m. 168):** Suç tamamlandıktan sonra, hakkında dava açılmadan önce failin mağdurun uğradığı zararı tamamen gidermesi halinde cezasında üçte ikiye kadarı; dava açıldıktan sonra hüküm verilmeden önce zararı gidermesi halinde ise yarısına kadarı indirilir.
 
 **Uzlaşma Kapsamı:** Basit dolandırıcılık suçu (TCK m. 157) uzlaştırma kapsamındayken, ***nitelikli dolandırıcılık halleri (TCK m. 158) uzlaşmaya tabi değildir.***
+
+  > ***Dikkat:***  *Hukuk sisteminde atılacak hatalı bir adım veya kaçırılan tek bir yasal süre, haklılığınızı tamamen ortadan kaldırabilir. Haklarınızı eksiksiz korumak ve riske atmamak için sürecinizi mutlaka uzman bir avukatla takip ediniz.*
+
+---
+   > ***Yazar : Avukat Berat YILDIRIM***
+---
