@@ -5,6 +5,7 @@ sira: 2
 aciklama: "Türk Ceza Kanunu’nun Malvarlığına Karşı Suçlar başlıklı onuncu bölümünde düzenlenen Hırsızlık Suçunun; kanuni tanımı, maddi ve manevi unsurları, cezada artırım ve indirim gerektiren nitelikli halleri ile muhakeme usulü bakımından şu şekilde kategorize edilmiştir:"
 ---
 ***1. Hırsızlık Suçunun Kanuni Tanımı ve Temel Cezası (TCK m. 141)***
+
 Zilyedinin rızası olmadan başkasına ait taşınır bir malı, kendisine veya başkasına bir yarar sağlamak maksadıyla bulunduğu yerden alan kimseye bir yıldan üç yıla kadar hapis cezası verilir.
 
 ***Suçun Temel Kriterleri ve Unsur Analizi:***
