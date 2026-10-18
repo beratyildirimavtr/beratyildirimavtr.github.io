@@ -1,7 +1,7 @@
 {
   "ad": "Avukat Berat YILDIRIM",
   "altBaslik": "Avukatlık & Arabuluculuk & Danışmanlık Hizmetleri",
-  "aciklama": "Avukat Berat YILDIRIM. Güncel hukuki konular ve bilgilendirmeler.",
+  "aciklama": "Avukat Berat YILDIRIM. Ceza, hukuk, idari yargı, icra ve tüketici hukukunda güncel konular ve anlaşılır hukuki bilgilendirmeler.",
   "uyari": "Bu sayfadaki bilgiler genel bilgilendirme niteliğindedir; hak kaybı yaşamamak için dava süreçlerinizi mutlaka bir avukatla yürütünüz.",
   "anaSayfaAlt": "Konu başlıklarını seçerek ilgili hukuki bilgilendirmelere ulaşabilirsiniz.",
   "sozLatince": "Iustitia est constans et perpetua voluntas ius suum cuique tribuendi.",
@@ -9,5 +9,8 @@
   "sozKaynak": "Ulpianus",
   "url": "https://beratyildirimavtr.github.io",
   "yayinda": false,
-  "yil": 2026
+  "yil": 2026,
+  "yazar": "Arabulucu & Avukat Berat YILDIRIM",
+  "googleDogrulama": "",
+  "cloudflareToken": ""
 }

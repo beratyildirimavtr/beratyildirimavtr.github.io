@@ -30,6 +30,34 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  // Meta açıklaması için: en fazla n karakter, kelime ortasında kesmeden
+  eleventyConfig.addFilter("kisalt", (s, n) => {
+    const t = String(s || "").replace(/\s+/g, " ").trim();
+    if (t.length <= n) return t;
+    return t.slice(0, n - 1).replace(/\s+\S*$/, "") + "…";
+  });
+  // RSS tarih biçimi
+  eleventyConfig.addFilter("rfc822", (d) => new Date(d).toUTCString());
+  // Arama motorları için yapılandırılmış veri (JSON-LD); "<" karakteri güvenli hâle getirilir
+  const jsonld = (o) => JSON.stringify(o).replace(/</g, "\\u003c");
+  eleventyConfig.addFilter("jsonldMakale", (v, site) => jsonld({
+    "@context": "https://schema.org", "@type": "Article", inLanguage: "tr",
+    headline: v.baslik, description: v.aciklama,
+    datePublished: new Date(v.tarih).toISOString(), dateModified: new Date(v.guncelleme || v.tarih).toISOString(),
+    mainEntityOfPage: site.url + v.url, image: site.url + "/paylasim.jpg",
+    author: { "@type": "Person", name: site.yazar, url: site.url + "/hakkimda/" },
+    publisher: { "@type": "Person", name: site.yazar }
+  }));
+  eleventyConfig.addFilter("jsonldYol", (v, site) => jsonld({
+    "@context": "https://schema.org", "@type": "BreadcrumbList",
+    itemListElement: v.map((x, i) => ({ "@type": "ListItem", position: i + 1, name: x.ad, item: site.url + x.url }))
+  }));
+  eleventyConfig.addFilter("jsonldKisi", (site) => jsonld({
+    "@context": "https://schema.org", "@type": "Person", name: site.yazar,
+    jobTitle: "Avukat, Arabulucu", url: site.url + "/", image: site.url + "/berat-yildirim.jpg",
+    memberOf: { "@type": "Organization", name: "Osmaniye Barosu" }, knowsLanguage: "tr"
+  }));
+
   eleventyConfig.addFilter("tarihTR", (d) => {
     const x = new Date(d);
     return x.getUTCDate() + " " + AYLAR[x.getUTCMonth()] + " " + x.getUTCFullYear();
@@ -54,17 +82,28 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("gstil", (gr) => gr ? "--gc-l:" + gr.data.renk + ";--gc-d:" + (gr.data.renkKoyu || gr.data.renk) : "");
   eleventyConfig.addFilter("grupBul", (gruplar, slug) => gruplar.find((g) => g.fileSlug === slug) || null);
 
-  // İçindekiler: ## ve ### başlıklarına bağlantı kimliği ekler, 3 veya daha fazla başlık varsa içindekiler listesi kurar
+  // İçindekiler: ## ve ### başlıklarına, ayrıca "1. Başlık" biçiminde numaralı kalın/italik tek satırlık başlıklara
+  // bağlantı kimliği ekler; 3 veya daha fazla başlık varsa içindekiler listesi kurar.
   eleventyConfig.addTransform("icindekiler", function (icerik) {
     if (!(this.page.outputPath || "").endsWith(".html") || !icerik.includes("<!--TOC-->")) return icerik;
     const basliklar = [];
     const kullanilan = {};
-    icerik = icerik.replace(/<h([23])>([\s\S]*?)<\/h\1>/g, (m, seviye, ic) => {
+    const idUret = (ic) => {
       let id = slugla(ic) || "baslik";
       kullanilan[id] = (kullanilan[id] || 0) + 1;
       if (kullanilan[id] > 1) id += "-" + kullanilan[id];
-      basliklar.push({ seviye: Number(seviye), id, metin: ic.replace(/<[^>]+>/g, "") });
-      return `<h${seviye} id="${id}">${ic}</h${seviye}>`;
+      return id;
+    };
+    const kalip = /<h([23])>([\s\S]*?)<\/h\1>|<p>((?:<(?:em|strong)>)+)(\d{1,2}[.)]\s[^<]*?)((?:<\/(?:em|strong)>)+)<\/p>/g;
+    icerik = icerik.replace(kalip, (m, seviye, ic, ac, metin, kapa) => {
+      if (seviye) {
+        const id = idUret(ic);
+        basliklar.push({ seviye: Number(seviye), id, metin: ic.replace(/<[^>]+>/g, "") });
+        return `<h${seviye} id="${id}">${ic}</h${seviye}>`;
+      }
+      const id = idUret(metin);
+      basliklar.push({ seviye: 2, id, metin: metin.trim() });
+      return `<p id="${id}">${ac}${metin}${kapa}</p>`;
     });
     let toc = "";
     if (basliklar.length >= 3) {

@@ -3,17 +3,32 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{% if baslik and page.url != '/' %}{{ baslik }} | {% endif %}{{ site.ad }}</title>
-<meta name="description" content="{{ aciklama or ozet or site.aciklama }}">
-{% if not site.yayinda %}<meta name="robots" content="noindex, nofollow">{% endif %}
+{% set sayfaBaslik = (baslik + " | " + site.ad) if (baslik and page.url != "/") else (site.ad + " | Güncel Hukuki Konular ve Bilgilendirmeler") %}
+{% set sayfaAciklama = (aciklama or ozet or site.aciklama) | kisalt(160) %}
+<title>{{ sayfaBaslik }}</title>
+<meta name="description" content="{{ sayfaAciklama }}">
+<meta name="author" content="{{ site.yazar }}">
+<meta name="theme-color" content="#10171E">
+{% if site.yayinda %}<meta name="robots" content="index, follow, max-image-preview:large">{% else %}<meta name="robots" content="noindex, nofollow">{% endif %}
+{% if site.googleDogrulama %}<meta name="google-site-verification" content="{{ site.googleDogrulama }}">{% endif %}
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-<meta property="og:type" content="website">
+<link rel="alternate" type="application/rss+xml" title="{{ site.ad }}" href="/feed.xml">
+<meta property="og:type" content="{{ 'article' if sayfaTuru == 'konu' else 'website' }}">
+<meta property="og:site_name" content="{{ site.ad }}">
 <meta property="og:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.ad }}{% endif %}">
-<meta property="og:description" content="{{ aciklama or ozet or site.aciklama }}">
+<meta property="og:description" content="{{ sayfaAciklama }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:locale" content="tr_TR">
+<meta property="og:image" content="{{ site.url }}/paylasim.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.ad }}{% endif %}">
+<meta name="twitter:description" content="{{ sayfaAciklama }}">
+<meta name="twitter:image" content="{{ site.url }}/paylasim.jpg">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E⚖️%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="/css/stil.css">
+{% if page.url == "/" or page.url == "/hakkimda/" %}<script type="application/ld+json">{{ site | jsonldKisi | safe }}</script>{% endif %}
 </head>
 <body>
 {% include "sprite.njk" %}
@@ -39,5 +54,6 @@
   <div class="row"><span>© {{ site.yil }} {{ iletisim.unvan }}</span><a href="/gizlilik/">Gizlilik Politikası</a><a href="/kvkk/">KVKK Aydınlatma Metni</a></div>
   <p>Bu sitedeki içerikler genel bilgilendirme amaçlıdır; somut bir olay için hukuki danışmanlık yerine geçmez.</p>
 </div></footer>
+{% if site.cloudflareToken %}<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflareToken }}"}'></script>{% endif %}
 </body>
 </html>

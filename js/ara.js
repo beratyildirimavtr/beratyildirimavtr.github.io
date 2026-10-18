@@ -16,6 +16,9 @@
     bulunan.forEach(function (x) {
       var a = document.createElement('a'); a.className = 'trow'; a.href = x.url;
       a.style.setProperty('--gc', 'var(--dark)');
+      var mk = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      mk.setAttribute('class', 'mk'); mk.setAttribute('viewBox', '0 0 24 56'); mk.setAttribute('fill', 'currentColor'); mk.setAttribute('aria-hidden', 'true');
+      var use = document.createElementNS('http://www.w3.org/2000/svg', 'use'); use.setAttribute('href', '#kolon-dolu'); mk.appendChild(use);
       var tb = document.createElement('span'); tb.className = 'tb';
       var meta = document.createElement('span'); meta.className = 'tmeta';
       if (x.grup) { var p = document.createElement('span'); p.className = 'gpill'; p.textContent = x.grup; meta.appendChild(p); }
@@ -23,7 +26,7 @@
       var d = document.createElement('span'); d.className = 'tdesc'; d.textContent = x.aciklama || (x.metin.slice(0, 160) + '…');
       tb.appendChild(meta); tb.appendChild(s); tb.appendChild(d);
       var go = document.createElement('i'); go.className = 'go'; go.textContent = '→';
-      a.appendChild(tb); a.appendChild(go); kutu.appendChild(a);
+      a.appendChild(mk); a.appendChild(tb); a.appendChild(go); kutu.appendChild(a);
     });
   }).catch(function () { durum.textContent = 'Arama şu an yapılamıyor. Lütfen sayfayı yenileyin.'; });
 })();

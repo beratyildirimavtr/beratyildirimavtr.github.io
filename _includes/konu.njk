@@ -1,14 +1,19 @@
 ---
 layout: base.njk
+sayfaTuru: konu
 ---
 {% set gr = collections.gruplar | grupBul(grup) %}
 {% set digerleri = collections.konularSirali | digerKonular(grup, page.url) %}
+{% set yol = [{ ad: "Ana Sayfa", url: "/" }] %}
+{% if gr %}{% set yol = [{ ad: "Ana Sayfa", url: "/" }, { ad: gr.data.baslik, url: gr.url }, { ad: baslik, url: page.url }] %}{% endif %}
+<script type="application/ld+json">{{ { baslik: baslik, aciklama: (aciklama or site.aciklama) | kisalt(200), url: page.url, tarih: page.date, guncelleme: guncelleme } | jsonldMakale(site) | safe }}</script>
+<script type="application/ld+json">{{ yol | jsonldYol(site) | safe }}</script>
 <div class="wrap pad">
   <div class="hubhead g" style="{{ gr | gstil }}">
     <p class="crumb"><a href="/">Ana Sayfa</a> / {% if gr %}<a href="{{ gr.url }}">{{ gr.data.baslik }}</a>{% endif %}</p>
     <h1>{{ baslik }}</h1>
     {% if aciklama %}<p>{{ aciklama }}</p>{% endif %}
-    <p class="meta"><time datetime="{{ page.date | isoTarih }}">{{ page.date | tarihTR }}</time></p>
+    <p class="meta"><a href="/hakkimda/">{{ site.yazar }}</a><span>·</span><time datetime="{{ page.date | isoTarih }}">{{ page.date | tarihTR }}</time>{% if guncelleme and (guncelleme | isoTarih) != (page.date | isoTarih) %}<span>·</span>Son güncelleme: <time datetime="{{ guncelleme | isoTarih }}">{{ guncelleme | tarihTR }}</time>{% endif %}</p>
   </div>
   <div class="tgrid">
     <article class="textcard">

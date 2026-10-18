@@ -150,7 +150,8 @@ section.blk{padding:52px 0 8px}
 .hubhead h1{font-family:var(--serif);font-size:clamp(30px,4.6vw,48px);line-height:1.1;margin:0 0 10px;position:relative;max-width:17em}
 .hubhead p{margin:0;max-width:34em;font-size:17.5px;color:rgba(243,238,228,.9);position:relative}
 .hubhead p.crumb{font-size:14.5px;margin-bottom:16px}
-.hubhead p.meta{margin-top:14px;font-size:14px;color:rgba(243,238,228,.75);display:flex;gap:8px}
+.hubhead p.meta{margin-top:14px;font-size:14px;color:rgba(243,238,228,.78);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.hubhead p.meta a{color:var(--dark-ink);font-weight:600;text-decoration:none;border-bottom:1px solid rgba(243,238,228,.45)}
 
 /* Konu sayfası: metin + yan sütun */
 .tgrid{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:28px;align-items:start}
