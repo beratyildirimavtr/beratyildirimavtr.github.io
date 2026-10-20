@@ -10,4 +10,4 @@ Ziyaret sayısını ölçmek için çerez kullanmayan ve ziyaretçileri tanımla
 
 Sitede yayımlanan içeriklerde kişisel veriler yer almaz; örnek olaylar ve açıklamalar kişisel veriler anonimleştirilerek ya da hiç yer verilmeyerek paylaşılır.
 
-Veri sorumlusu: Arabulucu & Avukat Berat YILDIRIM. İletişim bilgileri için [İletişim](/iletisim/) sayfasına bakınız.
+İletişim bilgileri için [İletişim](/iletisim/) sayfasına bakınız.
