@@ -1,7 +1,7 @@
 {
   "name": "beratyildirim-site",
   "version": "1.0.0",
-  "description": "Av. Berat Yıldırım - Yargıtay kararları sitesi",
+  "description": "Av. Berat Yıldırım",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve"
