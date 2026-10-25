@@ -1,5 +1,5 @@
 ---
-baslik: Anayasa Mahkemesi Süresiz Nafakayı Kaldırdı mı? Ne Değişiyor, Ne Zaman Değişiyor?
+baslik: Anayasa Mahkemesi Süresiz Nafakayı Kaldırdı mı?
 grup: hukuk-davalari
 sira: 01
 aciklama: "Anayasa Mahkemesi nafaka kararının yorumlanması: E. 2025/156, K. 2026/131 – Resmî Gazete: 30 Eylül 2026"
