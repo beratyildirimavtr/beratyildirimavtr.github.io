@@ -1,5 +1,5 @@
 ---
-baslik: Ayıplı Mal ve Ürün İadesi
+baslik: Ayıplı Mal ve Kusurlu Ürün İadesi
 grup: tuketici-islemleri
 sira: 02
 aciklama: "Günlük yaşamda satın aldığımız bir ürünün bozuk, kusurlu veya vaat edilen özelliklere sahip olmaması durumunda kanunen ayıplı mal söz konusu olur. Tüketicilerin mağduriyet yaşamaması adına 6502 sayılı Tüketicinin Korunması Hakkında Kanun, ayıplı malın iadesi ve ödenen bedelin geri alınması hususunda tüketiciye çok güçlü yasal haklar tanımıştır"
