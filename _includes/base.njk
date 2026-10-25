@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-{% set sayfaBaslik = (baslik + " | " + site.ad) if (baslik and page.url != "/") else (site.ad + " | Osmaniye Avukat") %}
+{% set tamBaslik = (baslik + " | " + site.ad) if baslik else site.ad %}
+{% set sayfaBaslik = (baslik if tamBaslik.length > 62 else tamBaslik) if (baslik and page.url != "/") else (site.ad + " | Osmaniye Avukat") %}
 {% set sayfaAciklama = (aciklama or ozet or site.aciklama) | kisalt(160) %}
 <title>{{ sayfaBaslik }}</title>
 <meta name="description" content="{{ sayfaAciklama }}">
