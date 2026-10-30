@@ -11,9 +11,10 @@ module.exports = function (eleventyConfig) {
    "2026-10-14-basit-dolandiricilik-sucu", "konular/nafaka.md", "konular/ihtiyac-nedeniyle-tahliye.md",
    "konular/uyusturucu-ticareti.md"].forEach((p) => eleventyConfig.ignores.add(p));
 
+  eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("*.{jpg,jpeg,png,webp,ico}");
+  eleventyConfig.addPassthroughCopy("*.{jpg,jpeg,png,webp}");
   eleventyConfig.addPassthroughCopy({ "CNAME": "CNAME" });
 
   // Yazı tipleri siteyle birlikte yayınlanır (Google'dan yüklenmez)
@@ -51,29 +52,6 @@ module.exports = function (eleventyConfig) {
     "@context": "https://schema.org", "@type": "BreadcrumbList",
     itemListElement: v.map((x, i) => ({ "@type": "ListItem", position: i + 1, name: x.ad, item: site.url + x.url }))
   }));
-  eleventyConfig.addFilter("jsonldAna", (site, il) => {
-    const u = site.url;
-    return jsonld({
-      "@context": "https://schema.org",
-      "@graph": [
-        { "@type": "WebSite", "@id": u + "/#website", url: u + "/", name: site.siteAdi,
-          alternateName: ["Av. Berat YILDIRIM", "Osmaniye Avukat Berat YILDIRIM"], inLanguage: "tr",
-          publisher: { "@id": u + "/#avukat" } },
-        { "@type": "Attorney", "@id": u + "/#avukat", name: il.unvan, url: u + "/",
-          image: u + "/berat-yildirim.jpg", logo: u + "/icon-192.png",
-          description: site.aciklama, telephone: il.telefonLink, email: il.eposta,
-          address: { "@type": "PostalAddress", streetAddress: "Raufbey Mahallesi 9546 Sk. No:63 Zengin İş Merkezi Kat:1 Daire:1 (Vakıfbank Üzeri)",
-            addressLocality: "Merkez", addressRegion: "Osmaniye", addressCountry: "TR" },
-          geo: { "@type": "GeoCoordinates", latitude: 37.064982, longitude: 36.236458 },
-          hasMap: il.haritaLink, areaServed: { "@type": "City", name: "Osmaniye" },
-          knowsAbout: ["Ceza hukuku", "Aile hukuku", "İcra ve iflas hukuku", "İdare hukuku", "Tüketici hukuku", "Arabuluculuk"],
-          employee: { "@id": u + "/#kisi" } },
-        { "@type": "Person", "@id": u + "/#kisi", name: "Berat YILDIRIM", jobTitle: "Avukat, Arabulucu",
-          url: u + "/hakkimda/", image: u + "/berat-yildirim.jpg", worksFor: { "@id": u + "/#avukat" },
-          memberOf: { "@type": "Organization", name: "Osmaniye Barosu" } }
-      ]
-    });
-  });
   eleventyConfig.addFilter("jsonldKisi", (site) => jsonld({
     "@context": "https://schema.org", "@type": "Person", name: site.yazar,
     jobTitle: "Avukat, Arabulucu", url: site.url + "/", image: site.url + "/berat-yildirim.jpg",
