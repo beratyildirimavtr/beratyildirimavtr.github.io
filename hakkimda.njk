@@ -1,0 +1,20 @@
+---
+layout: base.njk
+---
+<div class="wrap pad">
+  <div class="about">
+    <div class="who">
+      <h1>{{ baslik }}</h1>
+      <blockquote>{{ alinti }}</blockquote>
+    </div>
+    {% if foto %}
+    <figure class="portrait">
+      <div class="frame"><img src="{{ foto }}" alt="{{ baslik }}" width="640" height="783" decoding="async"></div>
+    </figure>
+    {% endif %}
+    <div class="cvcard">
+      <h2>Özgeçmiş</h2>
+      {{ content | safe }}
+    </div>
+  </div>
+</div>

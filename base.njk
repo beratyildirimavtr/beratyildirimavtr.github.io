@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+{% set tamBaslik = (baslik + " | " + site.ad) if baslik else site.ad %}
+{% set sayfaBaslik = (baslik if tamBaslik.length > 62 else tamBaslik) if (baslik and page.url != "/") else site.siteAdi %}
+{% set sayfaAciklama = (aciklama or ozet or site.aciklama) | kisalt(160) %}
+<title>{{ sayfaBaslik }}</title>
+<meta name="description" content="{{ sayfaAciklama }}">
+<meta name="author" content="{{ site.yazar }}">
+<meta name="theme-color" content="#10171E">
+{% if site.yayinda %}<meta name="robots" content="index, follow, max-image-preview:large">{% else %}<meta name="robots" content="noindex, nofollow">{% endif %}
+{% if site.googleDogrulama %}<meta name="google-site-verification" content="{{ site.googleDogrulama }}">{% endif %}
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.ad }}" href="/feed.xml">
+<meta property="og:type" content="{{ 'article' if sayfaTuru == 'konu' else 'website' }}">
+<meta property="og:site_name" content="{{ site.siteAdi }}">
+<meta property="og:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.siteAdi }}{% endif %}">
+<meta property="og:description" content="{{ sayfaAciklama }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:image" content="{{ site.url }}/paylasim.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.siteAdi }}{% endif %}">
+<meta name="twitter:description" content="{{ sayfaAciklama }}">
+<meta name="twitter:image" content="{{ site.url }}/paylasim.jpg">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/fonts/newsreader-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/newsreader-latin-400-italic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/ibm-plex-sans-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/ibm-plex-sans-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>{{ inlineCss | safe }}</style>
+{% if page.url == "/" or page.url == "/iletisim/" %}<script type="application/ld+json">{{ site | jsonldAna(iletisim) | safe }}</script>{% elif page.url == "/hakkimda/" %}<script type="application/ld+json">{{ site | jsonldKisi | safe }}</script>{% endif %}
+</head>
+<body>
+{% include "sprite.njk" %}
+{% set akt = aktifMenu or page.url %}
+<header class="top">
+  <a class="brand" href="/">{{ site.ad }}</a>
+  <p class="tagline">{{ site.altBaslik }}</p>
+</header>
+<div class="navwrap">
+<input type="checkbox" id="mt" class="mt-input" aria-label="Menüyü aç veya kapat">
+<div class="capbar">
+<label for="mt" class="mt-btn"><span class="ic" aria-hidden="true"></span>Menü<span class="cur">{{ akt | menuAd(menu) }}</span></label>
+<nav class="cap" aria-label="Ana menü">
+{%- for m in menu %}<a href="{{ m.url }}"{% if m.url == akt %} aria-current="page"{% endif %}>{{ m.ad }}</a>{% endfor -%}
+</nav>
+</div>
+</div>
+<main>
+{{ content | safe }}
+</main>
+<div class="steps" aria-hidden="true"><i></i><i></i><i></i></div>
+<footer class="site"><div class="wrap">
+  <div class="row"><span>© {{ site.yil }} {{ iletisim.unvan }}</span><a href="/gizlilik/">Gizlilik Politikası</a><a href="/kvkk/">KVKK Aydınlatma Metni</a></div>
+  <p>Bu sitedeki içerikler genel bilgilendirme amaçlıdır; somut bir olay için hukuki danışmanlık yerine geçmez.</p>
+</div></footer>
+{% if site.cloudflareToken %}<script>(function(){var d=0;function y(){if(d)return;d=1;var s=document.createElement("script");s.defer=true;s.src="https://static.cloudflareinsights.com/beacon.min.js";s.setAttribute("data-cf-beacon",'{"token": "{{ site.cloudflareToken }}"}');document.body.appendChild(s)}["pointerdown","keydown","scroll","touchstart"].forEach(function(e){addEventListener(e,y,{once:true,passive:true})});setTimeout(y,8000)})();</script>{% endif %}
+</body>
+</html>

@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+{% set konularim = collections.konularSirali | grubunKonulari(page.fileSlug) %}
+<div class="wrap pad">
+  <div class="hubhead g" style="--gc-l:{{ renk }};--gc-d:{{ renkKoyu }}">
+    <p class="crumb"><a href="/">Ana Sayfa</a> / {{ baslik }}</p>
+    <h1>{{ baslik }}</h1>
+    {% if ozet %}<p>{{ ozet }}</p>{% endif %}
+  </div>
+  {% if content | trim %}<div class="textcard intro">{{ content | safe }}</div>{% endif %}
+  <h2 class="sec">Konular</h2>
+  {% if konularim.length %}
+  <div class="tlist">{% for k in konularim %}{% include "konu-satiri.njk" %}{% endfor %}</div>
+  {% else %}
+  <div class="soon-card"><svg viewBox="0 0 60 240" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><use href="#kolon"/></svg><p>Bu başlık altındaki konular hazırlanıyor. Çok yakında burada olacak.</p></div>
+  {% endif %}
+</div>
