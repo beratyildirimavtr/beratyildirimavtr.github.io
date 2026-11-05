@@ -1,0 +1,42 @@
+name: Temizlik (tek seferlik)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  temizle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Yeni dosyalar yuklendi mi kontrol et
+        run: |
+          test -f eleventy.config.cjs || { echo "HATA: Once yeni paketi yukleyin, sonra bu temizligi calistirin."; exit 1; }
+
+      - name: Kok dizindeki yanlis yerdeki dosyalari sil
+        run: |
+          # 'konular' ve 'gruplar' klasorlerindeki dosyalarin kok dizindeki (hatali) kopyalarini sil
+          for f in konular/*.md; do b=$(basename "$f"); [ -f "$b" ] && git rm -q "$b" || true; done
+          for f in gruplar/*.md; do b=$(basename "$f"); [ -f "$b" ] && git rm -q "$b" || true; done
+          # _includes icindeki dosyalarin kok dizindeki (hatali) kopyalarini sil
+          for f in _includes/*.njk; do b=$(basename "$f"); [ -f "$b" ] && git rm -q "$b" || true; done
+          # kullanilmayan dosya ve klasorler
+          git rm -rq --ignore-unmatch download inlineCss.js
+
+      - name: Kaydet ve siteyi yeniden yayinla
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          if git diff --cached --quiet; then
+            echo "Silinecek dosya kalmamis."
+          else
+            git commit -m "Yanlis yerdeki kopya dosyalar temizlendi"
+            git push
+            gh workflow run yayinla.yml
+          fi
