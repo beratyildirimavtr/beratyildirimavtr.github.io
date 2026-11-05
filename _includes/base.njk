@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 {% set tamBaslik = (baslik + " | " + site.ad) if baslik else site.ad %}
-{% set sayfaBaslik = (baslik if tamBaslik.length > 62 else tamBaslik) if (baslik and page.url != "/") else (site.ad + " | Osmaniye Avukat") %}
+{% set sayfaBaslik = (baslik if tamBaslik.length > 62 else tamBaslik) if (baslik and page.url != "/") else (site.ad + " - " + site.sloganKisa) %}
 {% set sayfaAciklama = (aciklama or ozet or site.aciklama) | kisalt(160) %}
 <title>{{ sayfaBaslik }}</title>
 <meta name="description" content="{{ sayfaAciklama }}">
@@ -27,9 +27,27 @@
 <meta name="twitter:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.ad }}{% endif %}">
 <meta name="twitter:description" content="{{ sayfaAciklama }}">
 <meta name="twitter:image" content="{{ site.url }}/paylasim.jpg">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E⚖️%3C/text%3E%3C/svg%3E">
-<link rel="stylesheet" href="/css/stil.css">
-{% if page.url == "/" or page.url == "/hakkimda/" %}<script type="application/ld+json">{{ site | jsonldKisi | safe }}</script>{% endif %}
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/fonts/newsreader-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/plex-400.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/newsreader-400.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+2013-2014,U+2018-201E,U+2022,U+2026,U+20AC,U+20BA,U+2212}
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/newsreader-400-ext.woff2) format("woff2");unicode-range:U+011E-011F,U+0130,U+015E-015F}
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/newsreader-700.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+2013-2014,U+2018-201E,U+2022,U+2026,U+20AC,U+20BA,U+2212}
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/newsreader-700-ext.woff2) format("woff2");unicode-range:U+011E-011F,U+0130,U+015E-015F}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:400;font-display:swap;src:url(/fonts/newsreader-400i.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+2013-2014,U+2018-201E,U+2022,U+2026,U+20AC,U+20BA,U+2212}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:400;font-display:swap;src:url(/fonts/newsreader-400i-ext.woff2) format("woff2");unicode-range:U+011E-011F,U+0130,U+015E-015F}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:700;font-display:swap;src:url(/fonts/newsreader-700i.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+2013-2014,U+2018-201E,U+2022,U+2026,U+20AC,U+20BA,U+2212}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:700;font-display:swap;src:url(/fonts/newsreader-700i-ext.woff2) format("woff2");unicode-range:U+011E-011F,U+0130,U+015E-015F}
+@font-face{font-family:"IBM Plex Sans";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/plex-400.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+2013-2014,U+2018-201E,U+2022,U+2026,U+20AC,U+20BA,U+2212}
+@font-face{font-family:"IBM Plex Sans";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/plex-400-ext.woff2) format("woff2");unicode-range:U+011E-011F,U+0130,U+015E-015F}
+@font-face{font-family:"IBM Plex Sans";font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/plex-600.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+2013-2014,U+2018-201E,U+2022,U+2026,U+20AC,U+20BA,U+2212}
+@font-face{font-family:"IBM Plex Sans";font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/plex-600-ext.woff2) format("woff2");unicode-range:U+011E-011F,U+0130,U+015E-015F}
+{{ inlineCss | safe }}
+</style>
+{% if page.url == "/" or page.url == "/iletisim/" %}<script type="application/ld+json">{{ site | jsonldAna(iletisim) | safe }}</script>{% elif page.url == "/hakkimda/" %}<script type="application/ld+json">{{ site | jsonldKisi | safe }}</script>{% endif %}
 </head>
 <body>
 {% include "sprite.njk" %}
@@ -55,6 +73,6 @@
   <div class="row"><span>© {{ site.yil }} {{ iletisim.unvan }}</span><a href="/gizlilik/">Gizlilik Politikası</a><a href="/kvkk/">KVKK Aydınlatma Metni</a></div>
   <p>Bu sitedeki içerikler genel bilgilendirme amaçlıdır; somut bir olay için hukuki danışmanlık yerine geçmez.</p>
 </div></footer>
-{% if site.cloudflareToken %}<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflareToken }}"}'></script>{% endif %}
+{% if site.cloudflareToken %}<script>(function(){var d=0;function y(){if(d)return;d=1;var s=document.createElement("script");s.defer=true;s.src="https://static.cloudflareinsights.com/beacon.min.js";s.setAttribute("data-cf-beacon",'{"token": "{{ site.cloudflareToken }}"}');document.body.appendChild(s)}["pointerdown","keydown","scroll","touchstart"].forEach(function(e){addEventListener(e,y,{once:true,passive:true})});setTimeout(y,6000)})();</script>{% endif %}
 </body>
 </html>
