@@ -1,5 +1,5 @@
 ---
-baslik: Suçtan Kaynaklanan Malvarlığı Değerlerini Aklama Suçu
+baslik: Suçtan Kaynaklanan Malvarlığı Değerlerini Aklama Suçu - TCK 282
 grup: ceza-hukuku
 sira: 16
 aciklama: "Bir eylemin TCK m. 282 anlamında aklama suçu oluşturabilmesi için aşağıdaki hukuki unsurların ve şartların bir arada bulunması gerekmektedir:"
