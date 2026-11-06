@@ -7,7 +7,7 @@ aciklama: "Tüketicinin Seçimlik Hakları 6502 sayılı Tüketicinin Korunması
 
 # TÜKETİCİNİN AYIPLI MAL VE HİZMETLERDEN DOĞAN SEÇİMLİK HAKLARI
 
-Tüketici hukukunun temel dayanağını oluşturan 6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKHK) uyarınca, piyasaya sunulan mal ve hizmetlerin ayıpsız olması ve sözleşmeye uygun teslim edilmesi esastır. Satın alınan mal veya hizmetin ayıplı çıkması halinde kanun koyucu, tüketicinin ekonomik çıkarlarını ve hukuki dengesini korumak amacıyla satıcı, sağlayıcı, üretici ve ithalatçıya karşı doğrudan kullanabileceği **seçimlik haklar** tanımıştır.
+Tüketici hukukunun temel dayanağını oluşturan 6502 sayılı Tüketicinin Korunması Hakkında Kanun uyarınca, piyasaya sunulan mal ve hizmetlerin ayıpsız olması ve sözleşmeye uygun teslim edilmesi esastır. Satın alınan mal veya hizmetin ayıplı çıkması halinde kanun koyucu, tüketicinin ekonomik çıkarlarını ve hukuki dengesini korumak amacıyla satıcı, sağlayıcı, üretici ve ithalatçıya karşı doğrudan kullanabileceği **seçimlik haklar** tanımıştır.
 
 Aşağıda ayıplı mal ve hizmet kavramı, tüketicinin kanuni 4 seçimlik hakkı, ilk 6 ay kuralı, zamanaşımı süreleri ve hak arama mercileri başlıklar halinde detaylandırılmıştır:
 
