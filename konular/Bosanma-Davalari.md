@@ -144,3 +144,9 @@ Türk Medeni Kanunu’nda boşanma sebepleri **Genel Boşanma Sebepleri** ve **�
 > *Boşanma davaları usuli bilgi birikimi ve hukuki destek gerektirir. Mutlaka bir avukattan yardım alınız.*
 >
 > ***Yazar: Avukat Berat YILDIRIM***
+
+
+## İlginizi Çekebilir
+- [Nafaka Davaları](/konu/nafaka-davalari/)
+- [Anayasa Mahkemesi Süresiz Nafakayı Kaldırdı mı?](/konu/anayasa-mahkemesi-nafaka-karari/)
+- [Karşı Vekalet Ücreti Nedir?](/konu/karsi-vekalet-ucreti/)
