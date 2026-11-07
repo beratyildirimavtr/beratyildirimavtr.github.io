@@ -43,3 +43,9 @@ Bu yasal değişiklikler çerçevesinde kendi dava dosyanız, derdest bir dava v
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+
+## İlginizi Çekebilir
+- [Dolandırıcılık Suçları](/konu/dolandiricilik-suclari/)
+- [IBAN Kullandırma Suçları](/konu/iban-kullandirma-suclari/)
+- [Karşılıksız Çek Cezası](/konu/karsiliksiz-cek-cezasi/)
