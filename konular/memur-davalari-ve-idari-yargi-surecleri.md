@@ -1,11 +1,12 @@
 ---
-baslik: Memur Davaları ve İdari Yargı Süreçleri
+baslik: "Memur Davaları ve İdari Yargı Süreçleri"
 grup: idari-davalar
 sira: 01
-aciklama: "Kamu görevlilerinin idari eylem ve işlemler nedeniyle hak kaybına uğramamaları için izlemeleri gereken hukuki yollar, kanuni süreler ve uygulamadaki esaslar 5 temel başlık altında aşağıda detaylandırılmıştır:"
+aciklama: "Kamu görevlilerinin idari eylem ve işlemler nedeniyle hak kaybına uğramamaları için izlemeleri gereken hukuki yollar, kanuni süreler ve uygulamadaki…"
 ---
+Kamu görevlilerinin idari eylem ve işlemler nedeniyle hak kaybına uğramamaları için izlemeleri gereken hukuki yollar, kanuni süreler ve uygulamadaki esaslar 5 temel başlık altında aşağıda detaylandırılmıştır:
 
-# MEMUR DAVALARI VE İDARİ YARGI SÜREÇLERİ
+## MEMUR DAVALARI VE İDARİ YARGI SÜREÇLERİ
 ---
 
 ### 1. Memur Disiplin Cezasına Nasıl İtiraz Edilir?
@@ -111,3 +112,8 @@ Memurların derece/kademe intibakları, ek gösterge hesaplamaları, özel hizme
 ---
 
 ---
+
+## İlginizi Çekebilir
+- [Memur Disiplin Cezaları](/konu/memur-disiplin-cezalari/)
+- [İdari İşlemin İptali Davası](/konu/idari-islemin-iptali-davasi/)
+- [Üniversite Disiplin Cezası ve Okuldan Uzaklaştırma İptali](/konu/universite-disiplin-cezalari/)

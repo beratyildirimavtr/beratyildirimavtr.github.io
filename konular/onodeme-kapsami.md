@@ -1,11 +1,11 @@
 ---
-baslik: Önödeme Nedir?
+baslik: "Önödeme Nedir?"
 grup: ceza-hukuku
 sira: 11
 aciklama: "Önödeme bir mahkûmiyet veya ceza değildir; bir edim ödemesi karşılığında devletin cezalandırma hakkından vazgeçmesidir."
 ---
 
-# TÜRK CEZA HUKUKUNDA ÖNÖDEME KURUMU VE ÖNÖDEME KAPSAMINDAKİ SUÇLAR REHBERİ
+## TÜRK CEZA HUKUKUNDA ÖNÖDEME KURUMU VE ÖNÖDEME KAPSAMINDAKİ SUÇLAR REHBERİ
 
 Ceza muhakemesi hukukumuzda toplumsal barışı hızlı biçimde sağlamak, yargının iş yükünü hafifletmek ve hafif nitelikteki suçlarda kişilerin adli süreçlerde yıpranmasının ya da hapis cezası ile karşı karşıya kalmasının önüne geçmek amacıyla birtakım **cezayı alternatif çözüm yolları** düzenlenmiştir. Bu kurumların başında gelen **"Önödeme" (TCK m. 75)**, kanunda sayılan hafif suçlarda failin belirlenen miktardaki parayı devlete ödemesi halinde hakkında **kamu davası açılmamasını** veya açılmış olan **kamu davasının düşmesini** sağlayan bir kurumdur.
 
@@ -121,3 +121,7 @@ Hâkim duruşmada sanığa önödeme ihtaratında bulunur. Sanık öngörülen m
 
 
 > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Alkollü Araç Kullanma Cezası ve Promil Sınırları](/konu/alkollu-arac-kullanma-cezasi/)
+- [Karşılıksız Çek Cezası Nedir?](/konu/karsiliksiz-cek-cezasi/)

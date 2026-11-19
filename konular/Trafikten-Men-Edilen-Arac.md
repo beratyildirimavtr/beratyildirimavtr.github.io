@@ -1,10 +1,12 @@
 ---
-baslik: Trafikten Men ve İdari Para Cezası
+baslik: "Trafikten Men ve İdari Para Cezası"
 grup: idari-davalar
 sira: 05
-aciklama: "Sürücüler ve araç sahipleri açısından trafikte karşılaşılan en ağır idari yaptırımlardan biri, idari para cezası verilmesi ile birlikte aracın trafikten menedilerek (muhafaza altına alınarak) yediemin otoparkına çekilmesidir"
+aciklama: "Sürücüler ve araç sahipleri açısından trafikte karşılaşılan en ağır idari yaptırımlardan biri, idari para cezası verilmesi ile birlikte aracın trafikten…"
 ---
-# TRAFİKTEN MEN VE İDARİ PARA CEZASI: KANUNİ DÜZENLEMELER, GÖREVLİ MAHKEME VE DAVA SÜREÇLERİ
+Sürücüler ve araç sahipleri açısından trafikte karşılaşılan en ağır idari yaptırımlardan biri, idari para cezası verilmesi ile birlikte aracın trafikten menedilerek (muhafaza altına alınarak) yediemin otoparkına çekilmesidir
+
+## TRAFİKTEN MEN VE İDARİ PARA CEZASI: KANUNİ DÜZENLEMELER, GÖREVLİ MAHKEME VE DAVA SÜREÇLERİ
 
 Karayolları Trafik Kanunu, Kabahatler Kanunu ve İdari Yargılama Usulü Kanunu kapsamında trafikten men ve idari para cezalarının kanuni dayanakları, hukuki itiraz yolları, görevli mahkeme karmaşası ve **T.C. Uyuşmazlık Mahkemesi’nin konuya ilişkin emsal kararı** aşağıda detaylı ve anlaşılır şekilde açıklanmıştır.
 
@@ -54,7 +56,7 @@ Trafikten men ve idari para cezasının birlikte uygulandığı durumlarda davan
 
 ### IV. T.C. UYUŞMAZLIK MAHKEMESİ'NİN EMSAL KARARI İNCELEMESİ
 
-**(Esas No: 2025/634, Karar No: 2025/786, Karar Tarihi: 22/12/2025)**
+### (Esas No: 2025/634, Karar No: 2025/786, Karar Tarihi: 22/12/2025)
 
 Bu konudaki görev karmaşasını netleştiren en güncel ve bağlayıcı emsal karar **T.C. Uyuşmazlık Mahkemesi’nin 22/12/2025 tarihli kararıdır**.
 
@@ -95,3 +97,7 @@ gerekçeleriyle; 5326 sayılı Kabahatler Kanunu’nun 3 ve 27/1. maddeleri uyar
 > Dava dilekçesinde taleplerin eksik yazılması, görevli mahkemenin hatalı seçilmesi veya görev uyuşmazlığı süreçlerinin doğru yönetilememesi durumunda davanız usulden reddedilebilir ve **telafisi imkansız hak kayıpları ile yüksek mahkeme masraflarıyla karşılaşabilirsiniz.** Haklarınızın eksiksiz korunması ve davaların doğru yargı merciinde takibi için tüm süreçlerinizi **mutlaka alanında uzman bir avukatın profesyonel hukuki desteği ile yürütmeniz hayati önem taşımaktadır.**
 > 
 > *Yazar:Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Alkollü Araç Kullanma Cezası ve Promil Sınırları](/konu/alkollu-arac-kullanma-cezasi/)
+- [Yürütmenin Durdurulması Nedir?](/konu/yurutmenin-durdurulmasi/)

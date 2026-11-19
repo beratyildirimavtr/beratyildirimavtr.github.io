@@ -1,11 +1,12 @@
 ---
-baslik: İdari İşlemin İptali Davası
+baslik: "İdari İşlemin İptali Davası"
 grup: idari-davalar
 sira: 02
-aciklama: "İdari işlemin iptali davası; idarenin hukuka aykırı, tek taraflı ve icrai nitelikteki eylem ve işlemlerine karşı, menfaati ihlal edilen kişilerin haklarını ve hukuk devleti ilkesini korumak amacıyla açtıkları idari yargıya özgü bir dava türüdür "
+aciklama: "İdari işlemin iptali davası; idarenin hukuka aykırı, tek taraflı ve icrai nitelikteki eylem ve işlemlerine karşı, menfaati ihlal edilen kişilerin…"
 ---
+İdari işlemin iptali davası; idarenin hukuka aykırı, tek taraflı ve icrai nitelikteki eylem ve işlemlerine karşı, menfaati ihlal edilen kişilerin haklarını ve hukuk devleti ilkesini korumak amacıyla açtıkları idari yargıya özgü bir dava türüdür
 
-# İDARİ İŞLEMİN İPTALİ VE İDARİ YARGILAMA SÜREÇLERİ
+## İDARİ İŞLEMİN İPTALİ VE İDARİ YARGILAMA SÜREÇLERİ
 
 2577 sayılı **İdari Yargılama Usulü Kanunu (İYUK)** ve **Türkiye Cumhuriyeti Anayasası’nın 125. maddesi** çerçevesinde idari işlemin iptali davasına ilişkin temel aşamalar, kanuni süreler ve uygulamadaki esaslar aşağıda 5 başlık altında detaylandırılmıştır:
 
@@ -136,3 +137,8 @@ Kendisine hukuka aykırı bir idari işlem tebliğ edilen bir vatandaşın veya 
 
 ---
 > ***Yazar: Avukat Berat YILDIRIM***
+
+## İlginizi Çekebilir
+- [Yürütmenin Durdurulması Nedir?](/konu/yurutmenin-durdurulmasi/)
+- [İvedi Yargılama Usulü Nedir?](/konu/ivedi-yargilama/)
+- [Memur Davaları ve İdari Yargı Süreçleri](/konu/memur-davalari-ve-idari-yargi-surecleri/)

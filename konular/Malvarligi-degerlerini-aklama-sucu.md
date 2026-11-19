@@ -1,11 +1,11 @@
 ---
-baslik: Suçtan Kaynaklanan Malvarlığı Değerlerini Aklama Suçu - TCK 282
+baslik: "Malvarlığı Değerlerini Aklama Suçu (TCK 282)"
 grup: ceza-hukuku
 sira: 16
 aciklama: "Bir eylemin TCK m. 282 anlamında aklama suçu oluşturabilmesi için aşağıdaki hukuki unsurların ve şartların bir arada bulunması gerekmektedir:"
 ---
 
-# Türk Ceza Kanunu m. 282 ve 5549 Sayılı Kanun Kapsamında Suçtan Kaynaklanan Malvarlığı Değerlerini Aklama Suçu: Şartları, Kriterleri ve Cezası
+## Türk Ceza Kanunu m. 282 ve 5549 Sayılı Kanun Kapsamında Suçtan Kaynaklanan Malvarlığı Değerlerini Aklama Suçu: Şartları, Kriterleri ve Cezası
 
 Günümüz finansal sisteminde suçtan elde edilen gayrimeşru kazançların yasal ekonomiye sokulması ve kaynağının gizlenmesi, hem ulusal hem de uluslararası düzeyde en ağır ceza yaptırımlarına tabi tutulan fiillerden biridir. Türk ceza mevzuatında bu eylem, **Türk Ceza Kanunu’nun (TCK) 282. maddesinde** müstakil bir suç olarak düzenlenmiş; idari ve önleyici boyutu ise **5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun** ile denetim altına alınmıştır.
 
@@ -84,3 +84,8 @@ Aklama suçuna konu olan malvarlığı değerleri veya bu değerlerin dönüşt�
 >*Yazar: Avukat Berat YILDIRIM*
 
 ---
+
+## İlginizi Çekebilir
+- [Suç İşlemek Amacıyla Örgüt Kurma Suçu - TCK 220](/konu/orgutlu-suclar/)
+- [Zimmet Suçu Nedir? Cezası ve Unsurları](/konu/zimmet-sucu/)
+- [Dolandırıcılık Suçu Nedir? Cezası ve Unsurları](/konu/dolandiricilik-suclari/)

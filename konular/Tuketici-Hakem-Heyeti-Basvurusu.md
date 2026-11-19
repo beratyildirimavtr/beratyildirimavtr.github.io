@@ -1,12 +1,12 @@
 ---
-baslik: Tüketici Hakem Heyeti Başvurusu
+baslik: "Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)"
 grup: tuketici-islemleri
 sira: 03
-aciklama: "Tüketiciler, satın aldıkları ürünün ayıplı çıkması, ücret iadesinin yapılmaması, garanti kapsamındaki ürünün onarılmaması veya satın alınan hizmetin gereği gibi sunulmaması gibi durumlarda haklarını arayabilir. Bu uyuşmazlıkların belirli bir parasal sınırın altında kalan kısmında tüketici hakem heyetlerine başvurulabilir.
-Tüketici hakem heyeti, tüketici ile satıcı veya sağlayıcı arasındaki uyuşmazlıkları inceleyen ve tarafları bağlayan kararlar veren bir mercidir. Başvurunun doğru yapılması, gerekli belgelerin sunulması ve yasal sürelerin takip edilmesi hak kaybı yaşanmaması açısından önemlidir."
+aciklama: "Tüketici hakem heyetine (THH) başvuru nasıl yapılır? Başvuru şartları, parasal sınırlar, e-Devlet adımları ve karara itiraz süreci."
 ---
+Tüketiciler, satın aldıkları ürünün ayıplı çıkması, ücret iadesinin yapılmaması, garanti kapsamındaki ürünün onarılmaması veya satın alınan hizmetin gereği gibi sunulmaması gibi durumlarda haklarını arayabilir. Bu uyuşmazlıkların belirli bir parasal sınırın altında kalan kısmında tüketici hakem heyetlerine başvurulabilir. Tüketici hakem heyeti, tüketici ile satıcı veya sağlayıcı arasındaki uyuşmazlıkları inceleyen ve tarafları bağlayan kararlar veren bir mercidir. Başvurunun doğru yapılması, gerekli belgelerin sunulması ve yasal sürelerin takip edilmesi hak kaybı yaşanmaması açısından önemlidir.
 
-# Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? Süre, Ücret, İtiraz ve Kararın Uygulanması
+## Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? Süre, Ücret, İtiraz ve Kararın Uygulanması
 
 
 ## 1. Tüketici hakem heyetine nasıl başvurulur?
@@ -53,7 +53,7 @@ Bu nedenle her başvurunun altı ay içinde kesin olarak sonuçlanacağı söyle
 
 Tüketici hakem heyeti, inceleme sırasında taraflardan veya ilgili kurum ve kuruluşlardan uyuşmazlığa ilişkin bilgi ve belge isteyebilir. Bu taleplere süresi içinde cevap verilmesi önemlidir.
 
-**Başvurumun hangi aşamada olduğunu nasıl öğrenebilirim?**
+### Başvurumun hangi aşamada olduğunu nasıl öğrenebilirim?
 
 Başvuru e-Devlet veya TÜBİS üzerinden yapılmışsa ilgili sistemden başvuru durumu takip edilebilir. Başvuru numarasının saklanması ve sisteme kayıtlı iletişim bilgilerinin güncel tutulması yararlı olacaktır.
 
@@ -110,15 +110,15 @@ Başvurudan önce belgelerin eksiksiz hazırlanması, talebin açıkça belirtil
 
 ## Sık sorulan sorular
 
-**Başvuruyu telefonla yapabilir miyim?**
+### Başvuruyu telefonla yapabilir miyim?
 
 Hayır. Sözlü başvuru yapılamaz. Başvuru, öngörülen yazılı veya elektronik yöntemlerle gerçekleştirilmelidir.
 
-**Hakem heyeti kararına itiraz etmek için ne kadar sürem var?**
+### Hakem heyeti kararına itiraz etmek için ne kadar sürem var?
 
 Kararın tebliğinden itibaren iki hafta içinde tüketici mahkemesine itiraz edilebilir.
 
-**Hakem heyeti kararını satıcı uygulamazsa yeniden başvuru mu yapmalıyım?**
+### Hakem heyeti kararını satıcı uygulamazsa yeniden başvuru mu yapmalıyım?
 
 Hayır. Kararın satıcı tarafından uygulanmaması hâlinde yeni bir hakem heyeti başvurusu yapmayın. *Bunun yerine kararın icra yoluyla yerine getirilmesi için bir avukatla  görüşün.*
 
@@ -131,3 +131,7 @@ Hayır. Kararın satıcı tarafından uygulanmaması hâlinde yeni bir hakem hey
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+## İlginizi Çekebilir
+- [Ayıplı Mal ve Kusurlu Ürün İadesi Nasıl Yapılır?](/konu/ayipli-malin-ve-urunun-iadesi/)
+- [Tüketicinin Seçimlik Hakları Nelerdir?](/konu/tuketicininn-secimlik-haklari/)

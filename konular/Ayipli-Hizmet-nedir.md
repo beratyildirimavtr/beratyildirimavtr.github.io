@@ -1,11 +1,11 @@
 ---
-baslik: Ayıplı Hizmet Nedir? 
+baslik: "Ayıplı Hizmet Nedir?"
 grup: tuketici-islemleri
 sira: 06
-aciklama: "Günlük hayatta yaptığımız pek çok işlem hukuken hizmet sözleşmesi niteliğindedir."
+aciklama: "Ayıplı hizmet nedir? Verilen hizmetin ayıplı olması hâlinde tüketicinin hakları ve başvuru yolları."
 ---
 
-# AYIPLI HİZMET UYUŞMAZLIKLARI VE TÜKETİCİNİN HUKUKİ HAKLARI
+## AYIPLI HİZMET UYUŞMAZLIKLARI VE TÜKETİCİNİN HUKUKİ HAKLARI
 
 Günlük hayatımızda bir ustaya ev yaptırmaktan otel rezervasyonuna, özel okul veya kurs kayıtlarından araç bakım servislerine, estetik ve tıbbi uygulamalardan internet ve GSM aboneliklerine kadar aldığımız pek çok edim hukuken **"hizmet sözleşmesi"** niteliğindedir. Alınan bu hizmetin vaat edilen nitelikleri taşımaması, eksik veya hatalı sunulması durumunda **6502 sayılı Tüketicinin Korunması Hakkında Kanun** tüketiciye çok geniş koruma ve haklar sağlamaktadır.
 
@@ -15,7 +15,7 @@ Günlük hayatımızda bir ustaya ev yaptırmaktan otel rezervasyonuna, özel ok
 
 Tüketici Kanunu uyarınca hizmet; bir ücret veya menfaat karşılığında yapılan ya da yapılması taahhüt edilen, mal sağlama dışındaki her türlü tüketici işleminin konusudur.
 
-**Ayıplı hizmet ise şu hallerde ortaya çıkar:**
+### Ayıplı hizmet ise şu hallerde ortaya çıkar
 
 1. **Sözleşmeye Aykırılık:** Hizmetin sözleşmede belirlenen süre içinde başlamaması veya taraflarca kararlaştırılmış olan ve objektif olarak sahip olması gereken özellikleri taşımaması.
 
@@ -97,3 +97,8 @@ Tüketiciler ayıplı hizmet nedeniyle yaşadıkları uyuşmazlıklarda parasal 
 > Sürelerin kaçırılması, hizmetteki ayıbın zamanında ve usulüne uygun şekilde belgelenememesi veya yetkili mercilere yanlış başvurulması durumunda haklı olsanız dahi başvurunuz usulden reddedilebilir ve **telafisi imkânsız maddi kayıplarla karşılaşabilirsiniz.** Haklarınızın eksiksiz korunması için tüm hukuki adımlarınızı **mutlaka alanında uzman bir avukatın profesyonel desteği ve rehberliği ile atmanız hayati önem taşımaktadır.**
 
 ---
+
+## İlginizi Çekebilir
+- [Gizli Ayıp Nedir?](/konu/gizli-ayip-nedir/)
+- [Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)](/konu/tuketici-hakem-heyeti-basvurusu/)
+- [Tüketicinin Seçimlik Hakları Nelerdir?](/konu/tuketicininn-secimlik-haklari/)

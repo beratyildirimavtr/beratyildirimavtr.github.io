@@ -1,19 +1,19 @@
 ---
-baslik: Tehdit ve Hakaret Suçları
+baslik: "Tehdit ve Hakaret Suçları ve Cezaları"
 grup: ceza-hukuku
 sira: 6
-aciklama: "Tehdit ve Hakaret suçlarının genel olarak incelemesi bu başlık altında sunulmuştur;"
+aciklama: "Tehdit ve hakaret suçlarının unsurları, cezaları ve sık karşılaşılan durumlar hakkında genel bilgilendirme."
 ---
 
 
 ---
 
-### 1. TEHDİT SUÇU (TCK m. 106)
+## 1. TEHDİT SUÇU (TCK m. 106)
 
-#### A) Suçun İşleniş Biçimleri (Nasıl İşlenebilir?)
+### A) Suçun İşleniş Biçimleri (Nasıl İşlenebilir?)
 Tehdit suçu; sözlü, yazılı, görsel veya davranışsal yöntemlerle (söz, mektup, mesaj, işaret veya hareketlerle) gelecekte gerçekleşecek haksız bir kötülüğün mağdura bildirilmesiyle işlenir. Suçun oluşması için failin, mağdurun veya yakınının haksız bir saldırıya uğrayacağını beyan ederek mağdur üzerinde korku, kaygı veya irade baskısı oluşturmaya elverişli bir eylemde bulunması yeterlidir.
 
-#### B) Kanuni Karşılıkları ve Cezaları
+### B) Kanuni Karşılıkları ve Cezaları
 * **Temel Tehdit (Hayat, Vücut veya Cinsel Dokunulmazlığa Yönelik):** Bir başkasını kendisinin veya yakınının hayatına, vücut veya cinsel dokunulmazlığına yönelik bir saldırı gerçekleştireceğinden bahisle tehdit eden kişi **altı aydan iki yıla kadar hapis cezası** ile cezalandırılır; suçun kadına karşı işlenmesi hâlinde cezanın alt sınırı **dokuz aydan az olamaz**.
 * **Malvarlığına Yönelik veya Sair Tehdit:** Mağdurun malvarlığı itibarıyla büyük bir zarara uğratılacağından veya sair bir kötülük edileceğinden bahisle tehdit edilmesi durumunda, mağdurun şikayeti üzerine **iki aydan altı aya kadar hapis veya adli para cezasına** hükmolunur.
 * **Nitelikli Tehdit Halleri:** Tehdidin;
@@ -26,14 +26,14 @@ Tehdit suçu; sözlü, yazılı, görsel veya davranışsal yöntemlerle (söz, 
 
 ---
 
-### 2. HAKARET SUÇU (TCK m. 125)
+## 2. HAKARET SUÇU (TCK m. 125)
 
-#### A) Suçun İşleniş Biçimleri (Nasıl İşlenebilir?)
+### A) Suçun İşleniş Biçimleri (Nasıl İşlenebilir?)
 Hakaret suçu, bir kimseye onur, şeref ve saygınlığını rencide edebilecek nitelikte somut bir fiil veya olgu isnat etmek ya da sövmek suretiyle işlenir.
 * **Huzurda veya İletiyle İşlenme:** Mağdurun yüzüne karşı doğrudan işlenebileceği gibi; mağduru muhatap alan sesli, yazılı veya görüntülü bir iletiyle (SMS, WhatsApp, e-posta, sosyal medya mesajı vb.) de gerçekleştirilebilir.
 * **Gıyapta İşlenme:** Mağdurun bulunmadığı bir ortamda arkasından yapılan hakaretin cezalandırılabilmesi için fiilin **en az üç kişiyle ihtilat ederek** (üç kişiye söylenerek veya gösterilerek) işlenmesi şarttır.
 
-#### B) Kanuni Karşılıkları ve Cezaları
+### B) Kanuni Karşılıkları ve Cezaları
 * **Basit Hakaret:** Hakaret suçunun temel halini işleyen kişiye **üç aydan iki yıla kadar hapis veya adli para cezası** verilir.
 * **Nitelikli Hakaret Halleri:** Hakaret suçunun;
   a) Kamu görevlisine karşı görevinden dolayı,
@@ -45,7 +45,7 @@ Hakaret suçu, bir kimseye onur, şeref ve saygınlığını rencide edebilecek 
 
 ---
 
-### 1. HAKARET SUÇUNDA ÖN ÖDEME VE GÜNCEL USUL HÜKÜMLERİ
+## 1. HAKARET SUÇUNDA ÖN ÖDEME VE GÜNCEL USUL HÜKÜMLERİ
 
 Hakaret suçu (TCK m. 125), mevzuatta yapılan son yasal değişikliklerle (7531 ve 7571 sayılı Kanunlar) muhakeme usulü bakımından köklü bir değişime uğramıştır:
 
@@ -61,7 +61,7 @@ Hakaret suçu (TCK m. 125), mevzuatta yapılan son yasal değişikliklerle (7531
 
 ---
 
-### 2. TEHDİT SUÇUNDA UZLAŞTIRMA USULÜ VE ŞİKAYET ŞARTLARI
+## 2. TEHDİT SUÇUNDA UZLAŞTIRMA USULÜ VE ŞİKAYET ŞARTLARI
 
 Tehdit suçunda (TCK m. 106) ön ödeme hükümleri uygulanmaz; ancak suçun türüne göre **Uzlaştırma** müessesi devrededir:
 
@@ -76,11 +76,16 @@ Tehdit suçunda (TCK m. 106) ön ödeme hükümleri uygulanmaz; ancak suçun tü
 
 ---
 
-### 3. BASİT YARGILAMA USULÜ (CMK m. 251)
+## 3. BASİT YARGILAMA USULÜ (CMK m. 251)
 
 Hem tehdit (TCK m. 106/1) hem de hakaret (TCK m. 125/1) suçlarının ceza üst sınırları 2 yıl veya daha az süreli hapis cezasını gerektirdiğinden:
 * Mahkeme, iddianamenin kabulünden sonra duruşma açmaksızın **Basit Yargılama Usulü** uygulayabilir.
 * Bu usulde taraflara yazılı beyan ve savunmalarını sunmaları için süre verilir. Dosya üzerinden verilen mahkûmiyet kararlarında sonuç ceza üzerinden **1/4 oranında indirim** yapılır. Karara itiraz edilirse genel duruşmalı yargılamaya geçilir.
 
-***Avukat Berat YILDIRIM***
+## Avukat Berat YILDIRIM
 ---
+
+## İlginizi Çekebilir
+- [Halkı Kin ve Düşmanlığa Tahrik Suçu (TCK 216)](/konu/halki-kin-ve-dusmanliga-tahrik-sucu/)
+- [Hırsızlık Suçu Nedir? Cezası ve Unsurları](/konu/hirsizlik-suclari/)
+- [Yaralama Suçu Nedir? Kasten ve Taksirle Yaralama](/konu/yaralama-suclari/)

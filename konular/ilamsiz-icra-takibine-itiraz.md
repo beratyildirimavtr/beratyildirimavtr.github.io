@@ -1,10 +1,12 @@
 ---
-baslik: İlamsız İcra Takibine İtiraz
+baslik: "İlamsız İcra Takibine İtiraz Nasıl Yapılır?"
 grup: icra-takipleri
 sira: 01
-aciklama: "İcra takibine itiraz; aleyhine ilamsız icra takibi başlatılan bir borçlunun, ödeme emrinde belirtilen borcun tamamına veya bir kısmına, faiz oranına, takip konusu senede, imzaya ya da icra dairesinin yetkisine karşı yasal süresi içinde icra merciine başvurarak takibin devam etmesini engellemesidir. İcra takibine yapılan usulüne uygun itiraz, kural olarak icra işlemlerini kendiliğinden durdurur."
+aciklama: "İcra takibine itiraz; aleyhine ilamsız icra takibi başlatılan bir borçlunun, ödeme emrinde belirtilen borcun tamamına veya bir kısmına, faiz oranına…"
 ---
-# İCRA TAKİBİNE İTİRAZ
+İcra takibine itiraz; aleyhine ilamsız icra takibi başlatılan bir borçlunun, ödeme emrinde belirtilen borcun tamamına veya bir kısmına, faiz oranına, takip konusu senede, imzaya ya da icra dairesinin yetkisine karşı yasal süresi içinde icra merciine başvurarak takibin devam etmesini engellemesidir. İcra takibine yapılan usulüne uygun itiraz, kural olarak icra işlemlerini kendiliğinden durdurur.
+
+## İCRA TAKİBİNE İTİRAZ
 
 ### I. İCRA TAKİBİNE İTİRAZIN HUKUKİ NİTELİĞİ VE SÜRELERİ
 
@@ -72,7 +74,7 @@ Borçlunun takibe itiraz etmesi üzerine takip durduktan sonra, alacaklının ta
 
 ### VI. İLAMSIZ İCRA TAKİBİNE İTİRAZ DİLEKÇESİ ÖRNEĞİ :
 
-**....... İCRA MÜDÜRLÜĞÜNE***
+### ....... İCRA MÜDÜRLÜĞÜNE*
 
 Dosya No           : 2026/XXXX
 
@@ -96,6 +98,11 @@ Haksız ve hukuki dayanaktan yoksun ilamsız icra takibine, borca, faize ve tüm
 
 
 
-***Yazar : Avukat Berat YILDIRIM***
+### Yazar : Avukat Berat YILDIRIM
  
 ---
+
+## İlginizi Çekebilir
+- [İlamlı İcra Takibi Nasıl Yapılır?](/konu/ilamli-icra-takibi/)
+- [İcra Borcu, Faizi ve İcra Masrafları](/konu/borc-faiz-icra-masraflari/)
+- [İhtiyati Haciz Nedir?](/konu/ihtiyati-haciz/)

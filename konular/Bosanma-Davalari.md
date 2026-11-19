@@ -1,11 +1,12 @@
 ---
-baslik: Boşanma Davaları
+baslik: "Boşanma Davası Nasıl Açılır? Sebepleri ve Süreci"
 grup: hukuk-davalari
 sira: 04
-aciklama: "Türk Aile Hukukunda boşanma; geçerli olarak kurulmuş bir evlilik birliğinin, kanunda öngörülen durum ve şartların gerçekleşmesi halinde mahkeme kararı ile sona erdirilmesidir. 4721 sayılı Türk Medeni Kanunu (TMK), 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) ve ilgili mevzuat çerçevesinde boşanma davalarına ilişkin tüm merak edilen hususları sizler için derledik "
+aciklama: "Türk Aile Hukukunda boşanma; geçerli olarak kurulmuş bir evlilik birliğinin, kanunda öngörülen durum ve şartların gerçekleşmesi halinde mahkeme kararı ile…"
 ---
+Türk Aile Hukukunda boşanma; geçerli olarak kurulmuş bir evlilik birliğinin, kanunda öngörülen durum ve şartların gerçekleşmesi halinde mahkeme kararı ile sona erdirilmesidir. 4721 sayılı Türk Medeni Kanunu (TMK), 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) ve ilgili mevzuat çerçevesinde boşanma davalarına ilişkin tüm merak edilen hususları sizler için derledik
 
-# BOŞANMA DAVALARI VE HUKUKİ REHBERİ
+## BOŞANMA DAVALARI VE HUKUKİ REHBERİ
 
 ### I. BOŞANMA DAVASI NEDİR?
 
@@ -39,7 +40,7 @@ Türk Medeni Kanunu uyarınca boşanma davası açma hakkı **kişiye sıkı sı
 
 Anlaşmalı boşanma; eşlerin boşanmanın tüm hukuki ve mali sonuçları ile çocukların durumu üzerinde tam bir uzlaşıya vararak evliliği sona erdirmeleridir.
 
-**TMK m. 166/3 Uyarınca Anlaşmalı Boşanmanın 5 Temel Şartı:**
+### TMK m. 166/3 Uyarınca Anlaşmalı Boşanmanın 5 Temel Şartı
 
 1. **Evliliğin En Az 1 Yıl Sürmüş Olması:** Resmi nikah tarihinden itibaren en az **1 tam yılın geçmiş olması** şarttır. 1 yıldan kısa süren evliliklerde anlaşmalı boşanma davası açılamaz; dava ancak çekişmeli olarak yürütülebilir.
 

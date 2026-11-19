@@ -1,10 +1,10 @@
 ---
-baslik: Sıra Cetveli Nedir?
+baslik: "Sıra Cetveli Nedir?"
 grup: icra-takipleri
 sira: 09
-aciklama: "Cebri icra takibinde haczedilen veya satılan malın bedelinin, takibe katılan tüm alacaklıların alacağını karşılamaya yetmemesi durumunda icra dairesince tanzim edilen resmi belgeye Sıra Cetveli denir."
+aciklama: "Cebri icra takibinde haczedilen veya satılan malın bedelinin, takibe katılan tüm alacaklıların alacağını karşılamaya yetmemesi durumunda icra dairesince…"
 ---
-# İCRA VE İFLAS HUKUKUNDA SIRA CETVELİ HAZIRLANMASI, İTİRAZ VE ŞİKÂYET SÜREÇLERİ
+## İCRA VE İFLAS HUKUKUNDA SIRA CETVELİ HAZIRLANMASI, İTİRAZ VE ŞİKÂYET SÜREÇLERİ
 
 Cebri icra takibinde haczedilen veya satılan malın bedelinin, takibe katılan tüm alacaklıların alacağını karşılamaya yetmemesi durumunda icra dairesince tanzim edilen resmi belgeye **Sıra Cetveli** denir. 2004 sayılı İcra ve İflas Kanunu'nun (İİK) 140. maddesi uyarınca; satış tutarı bütün alacaklıların alacağını tamamen ödemeye yetmezse icra dairesi alacaklıların bir sıra cetvelini tanzim eder.
 
@@ -109,3 +109,7 @@ Sıra cetveline karşı başvurulacak hukuki yol, itirazın **alacağın esasın
 > Hak kaybına uğramamak ve alacağınızı tahsil edebilmek adına tüm süreçlerinizi **mutlaka bir avukatın profesyonel hukuki desteği ile yürütmeniz tavsiye olunur.**
 
 ---
+
+## İlginizi Çekebilir
+- [İflas Masası ve İflas Tasfiye Süreci](/konu/iflas-masasi-nedir/)
+- [İstihkak Davası Nedir? Şartları ve Süreci](/konu/istihkak-davasi/)

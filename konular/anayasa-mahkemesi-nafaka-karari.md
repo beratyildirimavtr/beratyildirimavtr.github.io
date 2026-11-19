@@ -1,8 +1,8 @@
 ---
-baslik: Anayasa Mahkemesi Süresiz Nafakayı Kaldırdı mı?
+baslik: "Anayasa Mahkemesi Süresiz Nafakayı Kaldırdı mı?"
 grup: hukuk-davalari
 sira: 01
-aciklama: "Anayasa Mahkemesi nafaka kararının yorumlanması: E. 2025/156, K. 2026/131 – Resmî Gazete: 30 Eylül 2026"
+aciklama: "Anayasa Mahkemesi süresiz nafaka kuralını iptal etti mi? Kararın yürürlük tarihi ve mevcut nafakalara etkisi (E.2025/156, K.2026/131)."
 ---
 
 *Anayasa Mahkemesi kararı: E. 2025/156, K. 2026/131 – Resmî Gazete: 30 Eylül 2026*
@@ -115,3 +115,8 @@ Karar tek bir tarafın lehine veya aleyhine değil. Mahkeme, hem nafaka alanın 
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+## İlginizi Çekebilir
+- [Nafaka Davaları: Türleri ve Şartları](/konu/nafaka-davalari/)
+- [Boşanma Davası Nasıl Açılır? Sebepleri ve Süreci](/konu/bosanma-davalari/)
+- [Nafaka İcra Takibi Nasıl Yapılır?](/konu/nafaka-icra-takipleri/)

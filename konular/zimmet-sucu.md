@@ -1,17 +1,17 @@
 ---
-baslik: Zimmet Suçu
+baslik: "Zimmet Suçu Nedir? Cezası ve Unsurları"
 grup: ceza-hukuku
 sira: 10
 aciklama: "Kamu görevlilerinin sadakat ve dürüstlük yükümlülüklerini ihlal etmelerini yaptırıma bağlayan en ağır kamu emniyeti suçlarından biridir."
 ---
 
-### **TÜRK CEZA HUKUKUNDA ZİMMET SUÇU (TCK m. 247-251 & CMK UYGULAMALARI)**  
+## **TÜRK CEZA HUKUKUNDA ZİMMET SUÇU (TCK m. 247-251 & CMK UYGULAMALARI)**
 
 Zimmet suçu, Türk Ceza Kanunu’nun "Kamu İdaresinin Güvenilirliğine ve İşleyişine Karşı Suçlar" başlıklı bölümünde düzenlenen, kamu görevlilerinin sadakat ve dürüstlük yükümlülüklerini ihlal etmelerini yaptırıma bağlayan en ağır kamu emniyeti suçlarından biridir.
 
 ---
 
-### **1. ZİMMET SUÇU NEDİR? (TCK m. 247)**
+## **1. ZİMMET SUÇU NEDİR? (TCK m. 247)**
 
 Zimmet suçu; bir kamu görevlisinin, **görevi nedeniyle** zilyetliği (zilyetlik: bir malı elinde bulundurma/yönetme yetkisi) kendisine devredilmiş olan veya koruma ve gözetimiyle yükümlü olduğu para, eşya veya malvarlığı değerini kendisinin veya bir başkasının mülkiyetine geçirmesi ya da faydasına kullanmasıdır.
 
@@ -24,45 +24,45 @@ Zimmet suçu; bir kamu görevlisinin, **görevi nedeniyle** zilyetliği (zilyetl
 
 ---
 
-### **2. ZİMMET SUÇUNUN UNSURLARI**
+## **2. ZİMMET SUÇUNUN UNSURLARI**
 
 Bir fiilin zimmet suçunu oluşturabilmesi için kanunda aranan unsurların eksiksiz gerçekleşmesi gerekir:
 
-#### **A. Fail Açısından (Özgü Suç Niteliği)**
+### **A. Fail Açısından (Özgü Suç Niteliği)**
 *   **Kamu Görevlisi Olma Şartı:** Zimmet suçu "özgü suç" niteliğindedir. Yani bu suçun faili yalnızca bir **kamu görevlisi** olabilir. Vatandaşların veya kamu görevi üstlenmeyen özel sektör çalışanlarının doğrudan zimmet suçunun faili olması mümkün değildir. (Özel sektörde benzer eylemler "Güveni Kötüye Kullanma" TCK m. 155 veya "Özel Hukuk Tüzel Kişilerinde Dolandırıcılık" kapsamına girer).
 *   **Görev İlişkisi:** Malın faile devredilmiş olması tek başına yeterli değildir; devrin **kamu görevi nedeniyle** gerçekleşmiş olması zorunludur. Kamu görevlisine şahsi arkadaşlığı nedeniyle teslim edilen eşyanın mülkiyete geçirilmesi zimmet değil, güveni kötüye kullanma suçunu oluşturur.
 
-#### **B. Suçun Konusu (Malvarlığı Değeri)**
+### **B. Suçun Konusu (Malvarlığı Değeri)**
 *   Suçun konusu; taşınır veya taşınmaz mallar, para, senet, kıymetli evrak veya ekonomik değeri olan her türlü malvarlığı unsurudur.
 *   Bu malın zilyetliğinin faile **devredilmiş olması** ya da failin bu mal üzerinde **koruma ve gözetim yükümlülüğünün** bulunması gerekir.
 
-#### **C. Fiil (Zimmete Geçirme Hareketi)**
+### **C. Fiil (Zimmete Geçirme Hareketi)**
 *   Zimmete geçirme; kamu görevlisinin mal üzerinde mülkiyet hakkı sahibiymiş gibi tasarrufta bulunmasıdır. Malı satmak, bağışlamak, kendi şahsi borcu için harcamak, gizlemek veya tüketmek bu kapsama girer.
 
-#### **D. Manevi Unsur**
+### **D. Manevi Unsur**
 *   Suç ancak **kasten** işlenebilir; taksirle (dikkatsizlik/tedbirsizlikle) zimmet suçu işlenemez. Kamu görevlisinin malı kendisinin veya başkasının yararına geçirme bilinci ve iradesiyle hareket etmesi gerekir.
 
 ---
 
-### **3. ZİMMET SUÇUNUN TÜRLERİ VE NİTELİKLİ HALELERİ**
+## **3. ZİMMET SUÇUNUN TÜRLERİ VE NİTELİKLİ HALELERİ**
 
 Kanun koyucu zimmet suçunu işleniş biçimine göre üç farklı kategoride değerlendirmiştir:
 
-#### **1. Basit (Adi) Zimmet (TCK m. 247/1)**
+### **1. Basit (Adi) Zimmet (TCK m. 247/1)**
 Kamu görevlisinin, görev gereği teslim edilen malı hileye başvurmadan doğrudan kendi veya başkasının zimmetine geçirmesidir.  
 *   **Cezası:** **5 yıldan 12 yıla kadar hapis cezasıdır**.
 
-#### **2. Nitelikli (Hileli) Zimmet (TCK m. 247/2)**
+### **2. Nitelikli (Hileli) Zimmet (TCK m. 247/2)**
 Eğer kamu görevlisi, işlediği zimmetin ve oluşturduğu kurum açığının ortaya çıkmasını engellemek amacıyla **hileli davranışlar** sergilemişse (örneğin sahte evrak düzenleme, muhasebe kayıtlarını değiştirme, çift defter tutma vb.) suçun nitelikli hali oluşur.  
 *   **Cezası:** Basit zimmet cezasının **yarı oranında artırılmasıdır** (Örn: Alt sınırdan verildiğinde 5 yıl hapis cezası 7 yıl 6 ay hapise yükselir).
 
-#### **3. Kullanma Zimmeti (TCK m. 247/3)**
+### **3. Kullanma Zimmeti (TCK m. 247/3)**
 Kamu görevlisinin malın mülkiyetini temelli üzerine geçirme kastı olmaksızın, malı sırf **geçici bir süre kullanıp ardından aynen iade etmek** amacıyla almasıdır.  
 *   **Cezası:** Verilecek ceza **yarı oranına kadar indirilebilir**.
 
 ---
 
-### **4. GÜNLÜK HAYATTAN SOMUT ÖRNEKLER**
+## **4. GÜNLÜK HAYATTAN SOMUT ÖRNEKLER**
 
 Konunun vatandaş nezdinde net anlaşılabilmesi için pratik örnekler:
 
@@ -72,27 +72,27 @@ Konunun vatandaş nezdinde net anlaşılabilmesi için pratik örnekler:
 
 ---
 
-### **5. CEZAYI İNDİREN VEYA KALDIRAN ÖZEL DURUMLAR**
+## **5. CEZAYI İNDİREN VEYA KALDIRAN ÖZEL DURUMLAR**
 
-#### **A. Etkin Pişmanlık (TCK m. 248)**
+### **A. Etkin Pişmanlık (TCK m. 248)**
 Zimmet suçunda failin pişmanlık duyarak zararı gidermesi halinde ciddi ceza indirimleri uygulanır:
 
 *   **Soruşturma Başlamadan Önce:** Zimmete geçirilen malın aynen iade edilmesi veya zararın tamamen tazmin edilmesi halinde cezanın **üçte iki (2/3) oranı indirilir**.
 *   **Kovuşturma (Dava) Başlamadan Önce:** Mahkeme aşamasına geçilmeden savcılık safhasında gönüllü iade/tazmin halinde cezanın **yarısı (1/2) indirilir**.
 *   **Hüküm Verilmeden Önce:** Mahkeme kararı açıklanmadan önce gerçekleşen iade/tazmin halinde cezanın **üçte biri (1/3) indirilir**.
 
-#### **B. Malın Değerinin Azlığı (TCK m. 249)**
+### **B. Malın Değerinin Azlığı (TCK m. 249)**
 Zimmete konu malın ekonomik değerinin çok düşük olması halinde hakim takdir yetkisini kullanarak cezada indirime gider.  
 *   **Cezası:** Verilecek ceza **üçte birden yarıya kadar indirilir**. (Örn: Bir memurun görevi gereği elinde bulunan 100 TL değerindeki kırtasiye malzemesini şahsi işinde kullanması).
 
-#### **C. Denetim Görevinin İhmali (TCK m. 251)**
+### **C. Denetim Görevinin İhmali (TCK m. 251)**
 Kamu kurumunda denetimle yükümlü olan amir veya müfettişin durumu:
 *   Zimmet suçunun işlenmesine **kasten göz yuman** denetçi, suçun **müşterek faili** sayılır ve aynı cezayı alır.
 *   Denetim görevini **ihmal ederek** zimmet işlenmesine imkan sağlayan kamu görevlisi ise **3 aydan 3 yıla kadar hapis** ile cezalandırılır.
 
 ---
 
-### **6. CEZA MUHAKEMESİ KANUNU (CMK) BAKIMINDAN ZİMMET SUÇU**
+## **6. CEZA MUHAKEMESİ KANUNU (CMK) BAKIMINDAN ZİMMET SUÇU**
 
 Zimmet suçu, usul hukuku bakımından da Ceza Muhakemesi Kanunu'nda özel koruma tedbirlerine ve katalog düzenlemelere tabi tutulmuştur:
 
@@ -106,7 +106,7 @@ Zimmet suçu, usul hukuku bakımından da Ceza Muhakemesi Kanunu'nda özel korum
 
 ---
 
-### **ÖZET CEZA TABLOSU**
+## **ÖZET CEZA TABLOSU**
 
 | Suç Tipi / Hal | Kanun Maddesi | Öngörülen Ceza / İndirim Oranı |
 | :--- | :--- | :--- |
@@ -122,3 +122,7 @@ Zimmet suçu, usul hukuku bakımından da Ceza Muhakemesi Kanunu'nda özel korum
 > Zimmet Suçu ağır cezai yaptırımı olan bir suç tipi olup, mutlaka bir avukattan hukuki yardım almanız önerilir.
 > 
 > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Malvarlığı Değerlerini Aklama Suçu (TCK 282)](/konu/malvarligi-degerlerini-aklama-sucu/)
+- [Suç İşlemek Amacıyla Örgüt Kurma Suçu - TCK 220](/konu/orgutlu-suclar/)

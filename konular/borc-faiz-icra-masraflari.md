@@ -1,10 +1,12 @@
 ---
-baslik: İcra Borcu, Faizi ve İcra Masrafları
+baslik: "İcra Borcu, Faizi ve İcra Masrafları"
 grup: icra-takipleri
 sira: 03
-aciklama: "2004 sayılı İcra ve İflas Kanunu, 492 sayılı Harçlar Kanunu ve 6098 sayılı Türk Borçlar Kanunu  hükümleri uyarınca, kesinleşen veya başlatılan bir icra takibinde borçlunun ödemekle yükümlü olduğu toplam dosya borcu; asıl alacak, faiz, takip giderleri, vekalet ücreti ve devlet harçlarının birleşiminden oluşur"
+aciklama: "2004 sayılı İcra ve İflas Kanunu, 492 sayılı Harçlar Kanunu ve 6098 sayılı Türk Borçlar Kanunu hükümleri uyarınca, kesinleşen veya başlatılan bir icra…"
 ---
-# BORÇ, FAİZ VE İCRA MASRAFLARI
+2004 sayılı İcra ve İflas Kanunu, 492 sayılı Harçlar Kanunu ve 6098 sayılı Türk Borçlar Kanunu  hükümleri uyarınca, kesinleşen veya başlatılan bir icra takibinde borçlunun ödemekle yükümlü olduğu toplam dosya borcu; asıl alacak, faiz, takip giderleri, vekalet ücreti ve devlet harçlarının birleşiminden oluşur
+
+## BORÇ, FAİZ VE İCRA MASRAFLARI
 ---
 
 ### I. İCRA BORCU NASIL HESAPLANIR?
@@ -71,3 +73,8 @@ Alacaklının kabulü veya muvafakati aranmaksızın, borçlunun Kanun'un 111. m
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+## İlginizi Çekebilir
+- [İlamsız İcra Takibine İtiraz Nasıl Yapılır?](/konu/ilamsiz-icra-takibine-itiraz/)
+- [İlamlı İcra Takibi Nasıl Yapılır?](/konu/ilamli-icra-takibi/)
+- [Karşılıksız Çek Cezası Nedir?](/konu/karsiliksiz-cek-cezasi/)

@@ -1,11 +1,11 @@
 ---
-baslik: Yürütmenin Durdurulması Nedir?
+baslik: "Yürütmenin Durdurulması Nedir?"
 grup: idari-davalar
 sira: 06
 aciklama: "Yürütmenin durdurulması, idari işlemin uygulanmasını dava sonuna kadar erteleyen ve telafisi güç zararları önleyen geçici bir hukuki güvencedir."
 ---
 
-# YÜRÜTMENİN DURDURULMASI (YD) KARARI VE HUKUKİ REHBERİ
+## YÜRÜTMENİN DURDURULMASI (YD) KARARI VE HUKUKİ REHBERİ
 
 İdari yargılama hukukunda vatandaşların haklarını idarenin hukuka aykırı eylem ve işlemlerine karşı koruyan en hayati ve geçici hukuki koruma müessesesi **Yürütmenin Durdurulması (YD)** kararıdır. İdari eylem ve işlemler doğası gereği idare tarafından tek taraflı olarak tesis edilir ve doğrudan uygulanma (icrailik) niteliğine sahiptir. Bu durum, idarenin hatalı veya hukuka aykırı bir kararı karşısında bireylerin telafisi imkansız zararlarla karşılaşma riskini doğurur.
 
@@ -79,3 +79,7 @@ Yürütmenin durdurulması talebi hakkında mahkemece verilen kabul veya ret kar
 > **Önemli Uyarı:** İdari yargıda yürütmenin durdurulması talepleri; 7 günlük hak düşürücü itiraz süreleri, dilekçedeki teknik usul kuralları, telafisi imkansız zarar ve hukuka aykırılık unsurlarının somut delillerle ispatı bakımından son derece yüksek teknik uzmanlık gerektiren süreçlerdir. 
 > 
 > Dava dilekçesinde yürütmenin durdurulması talebinin yanlış kurgulanması, 7 günlük itiraz süresinin kaçırılması veya usul hataları yapılması durumunda telafisi imkânsız hak ve maddi kayıplarla karşılaşabilirsiniz. Haklarınızın eksiksiz korunması ve hukuka aykırı idari işlemlerin derhal durdurulması için tüm süreçlerinizi **mutlaka idare hukuku alanında uzman bir avukatın profesyonel desteği ile yürütmeniz hayati önem taşımaktadır.**
+
+## İlginizi Çekebilir
+- [İdari İşlemin İptali Davası](/konu/idari-islemin-iptali-davasi/)
+- [İvedi Yargılama Usulü Nedir?](/konu/ivedi-yargilama/)

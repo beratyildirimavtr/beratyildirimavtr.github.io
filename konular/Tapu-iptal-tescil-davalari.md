@@ -1,11 +1,11 @@
 ---
-baslik: Tapu İptal ve Tescil Davası
+baslik: "Tapu İptal ve Tescil Davası Nedir? (Yolsuz Tescil)"
 grup: hukuk-davalari
 sira: 09
-aciklama: "Tapu kaydının hukuka uygun hale getirilmesi ve mülkiyet hakkının gerçek sahibine kazandırılması amacıyla açılan davaya Tapu İptal ve Tescil Davası denir"
+aciklama: "Yolsuz tescil nedir, tapu iptal ve tescil davası hangi hâllerde açılır? Davanın şartları, görevli mahkeme ve süreç hakkında bilgiler."
 ---
 
-# TAPU İPTAL VE TESCİL DAVASI
+## TAPU İPTAL VE TESCİL DAVASI
 
 Türk mülkiyet hukukunun temel taşı olan tapu sicili, taşınmazlar üzerindeki hak durumunu alenice gösteren resmi bir sicildir. Ancak tapu kütüğündeki bir kaydın gerçek hukuki durumu yansıtmaması, hukuka aykırı veya sakat bir işleme dayanması halinde **yolsuz tescil** meydana gelir. İşte bu tür durumlarda, tapu kaydının hukuka uygun hale getirilmesi ve mülkiyet hakkının gerçek sahibine kazandırılması amacıyla açılan davaya **Tapu İptal ve Tescil Davası** denir.
 
@@ -103,3 +103,6 @@ Tapu sicilinde yolsuz bir tescil bulunsa dahi hukuk düzeni iyiniyetli kişileri
 
 ---
 
+## İlginizi Çekebilir
+- [Önalım Hakkı ve Önalım Davası Nedir?](/konu/onalim-davasi/)
+- [Ortaklığın Giderilmesi Davası](/konu/ortakligin-giderilmesi/)

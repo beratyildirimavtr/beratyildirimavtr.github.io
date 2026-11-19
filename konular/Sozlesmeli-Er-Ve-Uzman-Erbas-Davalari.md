@@ -1,10 +1,12 @@
 ---
-baslik: Sözleşmeli Er ve Uzman Erbaş Davaları
+baslik: "Sözleşmeli Er ve Uzman Erbaş Davaları"
 grup: idari-davalar
 sira: 01
-aciklama: "Sözleşmeli er ve Uzman Erbaşlar hakkında açılan ceza dosyaları kesinleşmeden görevden ihraç edilmeleri ve atılmaları hukuka aykırıdır. Bu konuda; Danıştayın verdiği bir karar dorğultusunda aşağıda genel değerlendirme yapılmıştır. "
+aciklama: "Sözleşmeli er ve Uzman Erbaşlar hakkında açılan ceza dosyaları kesinleşmeden görevden ihraç edilmeleri ve atılmaları hukuka aykırıdır."
 ---
-# Kesinleşmemiş Ceza Kararı Nedeniyle Görevden Çıkarılabilir misiniz? Danıştay'dan Önemli Karar
+Sözleşmeli er ve Uzman Erbaşlar hakkında açılan ceza dosyaları kesinleşmeden görevden ihraç edilmeleri ve atılmaları hukuka aykırıdır. Bu konuda; Danıştayın verdiği bir karar dorğultusunda aşağıda genel değerlendirme yapılmıştır.
+
+## Kesinleşmemiş Ceza Kararı Nedeniyle Görevden Çıkarılabilir misiniz? Danıştay'dan Önemli Karar
 
 Hakkınızda bir ceza davası açılmış veya hapis cezasına hükmedilmiş olması, kamu görevinden çıkarılmanızın her durumda hukuka uygun olduğu anlamına gelmez. Özellikle idarenin görevden çıkarma işlemine dayanak aldığı mahkûmiyet kararının henüz kesinleşmemiş olması, işlemin hukuka uygunluğu bakımından önem taşıyabilir.
 
@@ -44,13 +46,13 @@ Bu sorunun cevabı, görev yapılan statüye, uygulanan mevzuata ve görevden ç
 
 Öncelikle iki durum birbirinden ayrılmalıdır:
 
-**Birinci durum: Görevden çıkarma işleminin doğrudan mahkûmiyet kararına dayandırılması**
+### Birinci durum: Görevden çıkarma işleminin doğrudan mahkûmiyet kararına dayandırılması
 
 İdare, ilgili mevzuat uyarınca belirli bir mahkûmiyet kararının varlığını görev veya sözleşme şartlarının kaybedilmesi için gerekçe gösteriyorsa, o kararın kesinleşip kesinleşmediği önem kazanabilir.
 
 İncelediğimiz Danıştay kararında, sözleşme feshi işleminin dayanağı olan mahkûmiyet kararının usulsüz tebligat nedeniyle hukuka uygun biçimde kesinleşmediği belirlenmiştir. Danıştay, bu somut olayda henüz kesinleşmemiş mahkûmiyet kararına dayanılarak sözleşmenin feshedilmesini hukuka aykırı bulmuştur.
 
-**İkinci durum: Ceza davasından bağımsız bir idari veya disiplin işlemi uygulanması**
+### İkinci durum: Ceza davasından bağımsız bir idari veya disiplin işlemi uygulanması
 
 Bir ceza davasının devam ediyor olması, idarenin her durumda hiçbir işlem yapamayacağı anlamına gelmez. İdari veya disiplin işleminin dayanağı farklı olabilir ve ilgili mevzuat çerçevesinde ayrıca değerlendirilmesi gerekebilir.
 
@@ -106,3 +108,7 @@ Bununla birlikte karar, ceza yargılaması devam eden her kamu görevlisinin mut
 
  
 > ***Yazar : Avukat Berat YILDIRIM***
+
+## İlginizi Çekebilir
+- [İdari İşlemin İptali Davası](/konu/idari-islemin-iptali-davasi/)
+- [Yürütmenin Durdurulması Nedir?](/konu/yurutmenin-durdurulmasi/)

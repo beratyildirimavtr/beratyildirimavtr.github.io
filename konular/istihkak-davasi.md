@@ -1,8 +1,8 @@
 ---
-baslik: İstihkak Davası
+baslik: "İstihkak Davası Nedir? Şartları ve Süreci"
 grup: icra-takipleri
 sira: 06
-aciklama: "İstihkak, kelime anlamıyla hak isteme, hakkı olanı talep etme demektir."
+aciklama: "İstihkak davası nedir? Haczedilen mal üzerinde hak iddia eden üçüncü kişinin başvuru yolu, şartları ve davanın süreci."
 ---
 
 Bir başkasının icra borcu yüzünden sizin öz malınıza veya eşyanıza haksız yere haciz konulduysa, hukuken başvurmanız gereken en temel yol **İstihkak Davası**dır.
@@ -79,3 +79,7 @@ Dava açıldıktan sonra yargılama şu kurallarla işler:
 4. **Uzman Desteği Alın:** İstihkak davaları sıkı hak düşürücü sürelere ve teknik usul kurallarına tabi olduğundan, sürecin bir avukat vasıtasıyla yürütülmesi hak kaybını önleyecektir.
 
 > *Yazar: Avukat Berat YILDIRIM* - *Osmaniye*
+
+## İlginizi Çekebilir
+- [Evdeki Eşyaların Haczedilmesi ve Malvarlığının Haczedilmesi](/konu/evdeki-esyalarin-haczi/)
+- [Sıra Cetveli Nedir?](/konu/sira-cetveli/)

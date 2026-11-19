@@ -1,12 +1,11 @@
 ---
-baslik: Önalım Hakkı ve Önalım Davası Nedir?
+baslik: "Önalım Hakkı ve Önalım Davası Nedir?"
 grup: hukuk-davalari
 sira: 07
-aciklama: "Hisseli bir tapunuz varsa veya hisseli bir taşınmazdan pay satın almayı düşünüyorsanız, önalım hakkının ne olduğunu ve son yapılan yasal değişiklikleri mutlaka bilmeniz gerekir.
-Sizler için önalım hakkını, şartlarını, nasıl kullanılacağını ve son kanun değişikliklerini en sade haliyle bir araya getirdik."
+aciklama: "Hisseli bir tapunuz varsa veya hisseli bir taşınmazdan pay satın almayı düşünüyorsanız, önalım hakkının ne olduğunu ve son yapılan yasal değişiklikleri…"
 ---
 
-# Önalım (Şufa) Hakkı Nedir? Nasıl Kullanılır? (2026 Güncel Rehber)
+## Önalım (Şufa) Hakkı Nedir? Nasıl Kullanılır? (2026 Güncel Rehber)
 
 Gayrimenkul (taşınmaz) mülkiyetinde en sık karşılaşılan ve mağduriyetlere ya da ciddi hak kayıplarına yol açabilen hukuki konulardan biri **Önalım (Şufa) Hakkı**dır. Hisseli bir tapunuz varsa veya hisseli bir taşınmazdan pay satın almayı düşünüyorsanız, önalım hakkının ne olduğunu ve son yapılan yasal değişiklikleri mutlaka bilmeniz gerekir.
 
@@ -96,3 +95,8 @@ Son dönemde yapılan **7571 sayılı Kanun** düzenlemesi ile Türk Medeni Kanu
 
 ---
 > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Anayasa Mahkemesi Önalım (Şufa) Hakkı İptal Kararı](/konu/anayasa-mahkemesi-onalim-iptal-karari/)
+- [Ortaklığın Giderilmesi Davası](/konu/ortakligin-giderilmesi/)
+- [Tapu İptal ve Tescil Davası Nedir? (Yolsuz Tescil)](/konu/tapu-iptal-tescil-davalari/)

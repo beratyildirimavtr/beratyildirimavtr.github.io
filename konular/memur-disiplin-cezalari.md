@@ -1,11 +1,11 @@
 ---
-baslik: Memur Disiplin Cezaları
+baslik: "Memur Disiplin Cezaları"
 grup: idari-davalar
 sira: 09
-aciklama: "657 sayılı Kanun’un 125. maddesi uyarınca Devlet memurlarına verilebilecek disiplin cezaları beş ana grupta toplanmıştır "
+aciklama: "657 sayılı Kanun’un 125. maddesi uyarınca Devlet memurlarına verilebilecek disiplin cezaları beş ana grupta toplanmıştır"
 ---
 
-# DEVLET MEMURLARI DİSİPLİN CEZALARI, SORUŞTURMA SÜREÇLERİ VE İPTAL DAVASI
+## DEVLET MEMURLARI DİSİPLİN CEZALARI, SORUŞTURMA SÜREÇLERİ VE İPTAL DAVASI
 
 Kamu hizmetlerinin gereği gibi, nitelikli ve kesintisiz yürütülmesini sağlamak amacıyla 657 sayılı **Devlet Memurları Kanunu**, kamu görevlilerinin uymakla yükümlü olduğu ödevleri, yasakları ve bunlara aykırı hareket edilmesi halinde uygulanacak disiplin yaptırımlarını düzenlemiştir. Anayasa'nın 125. ve 129. maddeleri uyarınca idarenin disiplin cezasına ilişkin tüm işlemleri yargı denetimine tabi olup, savunma hakkı tanınmadan disiplin cezası verilemez.
 
@@ -113,3 +113,8 @@ atamaya yetkili amire başvurularak verilen disiplin cezasının özlük dosyas�
 > Savunma hakkının kısıtlanması, zamanaşımı aşımı veya orantısız ceza verilmesi durumlarında hak kaybına uğramamak ve memuriyet güvencenizi korumak adına tüm süreçlerinizi **mutlaka bir idare hukuku avukatının profesyonel desteği ile yürütmeniz tavsiye olunur.**
 
 ---
+
+## İlginizi Çekebilir
+- [Memur Davaları ve İdari Yargı Süreçleri](/konu/memur-davalari-ve-idari-yargi-surecleri/)
+- [Üniversite Disiplin Cezası ve Okuldan Uzaklaştırma İptali](/konu/universite-disiplin-cezalari/)
+- [Memurların İcra Borçları Disiplin Cezası Gerektirir mi?](/konu/devlet-memuru-icra-borclari-sorun-olur-mu/)

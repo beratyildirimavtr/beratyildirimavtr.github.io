@@ -1,12 +1,14 @@
 ---
-baslik: İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları
+baslik: "İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları"
 grup: ceza-hukuku
 sira: 09
-aciklama: "gayrimenkul, inşaat ve imar uygulamasında vatandaşların en sık karşılaştığı ve genellikle sadece idari para cezası öderim zannetiği ancak hapis cezası yaptırımı bulunan İmar Kirliliğine Neden Olma (TCK m. 184) ve Mühür Bozma (TCK m. 203) suçlarını sizler için inceledik"
+aciklama: "gayrimenkul, inşaat ve imar uygulamasında vatandaşların en sık karşılaştığı ve genellikle sadece idari para cezası öderim zannetiği ancak hapis cezası…"
 ---
+gayrimenkul, inşaat ve imar uygulamasında vatandaşların en sık karşılaştığı ve genellikle sadece idari para cezası öderim zannetiği ancak hapis cezası yaptırımı bulunan İmar Kirliliğine Neden Olma (TCK m. 184) ve Mühür Bozma (TCK m. 203) suçlarını sizler için inceledik
+
 ---
 
-# İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları Nedir, Cezaları Nelerdir ve Uygulamada Nasıl Karşımıza Çıkar?
+## İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları Nedir, Cezaları Nelerdir ve Uygulamada Nasıl Karşımıza Çıkar?
 
 Ülkemizde arsa veya binası üzerinde izinsiz yapılaşmaya giden ya da belediye ekiplerince yapılan denetimlerde kaçak yapısı mühürlendiği halde inşaata devam eden pek çok vatandaş, idari süreçlerin yanı sıra Türk Ceza Kanunu kapsamında ağır ceza yaptırımlarıyla karşı karşıya kalmaktadır. 
 
@@ -73,7 +75,7 @@ Kanun veya yetkili makamların emri uyarınca bir şeyin saklanmasını veya var
 
 ---
 
-### B) Mühür Bozma Suçu Nasıl İşlenir? 
+### B) Mühür Bozma Suçu Nasıl İşlenir?
 
 Uygulamada yapılan en büyük yanlış, suçun oluşması için illa fiziki mührün sökülmesi veya kırılması gerektiği zannıdır. Oysa kanun iki farklı eylemi de suç saymıştır:
 
@@ -119,3 +121,6 @@ Uygulamada yapılan en büyük yanlış, suçun oluşması için illa fiziki mü
 
 ---
  > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [İmar ve Belediye İşlemlerinin İptali](/konu/imar-ve-belediye-islemlerinin-iptali/)

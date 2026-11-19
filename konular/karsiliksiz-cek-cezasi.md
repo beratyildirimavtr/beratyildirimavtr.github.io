@@ -1,11 +1,11 @@
 ---
-baslik: Karşılıksız Çek Cezası
+baslik: "Karşılıksız Çek Cezası Nedir?"
 grup: ceza-hukuku
 sira: 13
-aciklama: "Karşılıksız çek düzenlemek Çek Kanununa göre suç teşkil eder."
+aciklama: "Karşılıksız çek düzenlemenin hukuki sonuçları ve cezası nedir? Suçun unsurları ve sürecin nasıl işlediği hakkında genel bilgilendirme."
 ---
 
-# KARŞILIKSIZ ÇEKİN CEZASI VE HUKUKİ SÜREÇLERİ
+## KARŞILIKSIZ ÇEKİN CEZASI VE HUKUKİ SÜREÇLERİ
 
 Ticari hayatta ödeme aracı olarak yaygın şekilde kullanılan çek, 5941 sayılı **Çek Kanunu** ile özel olarak düzenlenmiş ve güvence altına alınmıştır. Çekin ibraz süresi içinde bankaya sunulduğunda karşılığının bulunmaması durumu, alacaklı bakımından ciddi mağduriyetlere yol açtığı gibi borçlu/keşideci açısından da ağır cezai ve hukuki yaptırımlar doğurmaktadır.
 
@@ -115,3 +115,7 @@ Süresinde bankaya ibraz edilen bir çekin karşılığının hiç bulunmaması 
 > *Yazar: Avukat Berat YILDIRIM*
 
 ---
+
+## İlginizi Çekebilir
+- [İcra Borcu, Faizi ve İcra Masrafları](/konu/borc-faiz-icra-masraflari/)
+- [12. Yargı Paketiyle Gelen Ceza Hukuku Düzenlemeleri](/konu/12-yargi-paketiyle-gelen-ceza-hukuku-duzenlemeleri/)

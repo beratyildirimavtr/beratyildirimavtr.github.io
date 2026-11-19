@@ -1,11 +1,11 @@
 ---
-baslik: Karşı Vekalet Ücreti Nedir?
+baslik: "Karşı Vekalet Ücreti Nedir?"
 grup: hukuk-davalari
 sira: 08
 aciklama: "Karşı vekâlet ücretine ilişkin tüm merak edilenler, hesaplama yöntemleri ve somut örnekler bu başlıkta detaylandırılmıştır."
 ---
 
-# KARŞI VEKÂLET ÜCRETİ (YASAL VEKÂLET ÜCRETİ) KAPSAMLI HUKUKİ REHBERİ
+## KARŞI VEKÂLET ÜCRETİ (YASAL VEKÂLET ÜCRETİ) KAPSAMLI HUKUKİ REHBERİ
 
 Türk hukuk sisteminde bir dava açıldığında veya icra takibi başlatıldığında en sık karşılaşılan ve vatandaşlar tarafından zaman zaman kafa karışıklığına yol açan konulardan biri **Karşı Vekâlet Ücreti** (veya idari/adli yargıdaki adıyla *İlam Vekâlet Ücreti*) müessesesidir.
 
@@ -82,3 +82,7 @@ Bir davada davacının taleplerinin bir kısmı kabul edilip bir kısmı reddedi
 > Hak kaybına uğramamak, yüksek yargılama giderleri riskinden korunmak ve davanızı güvenle yürütmek adına tüm hukuki süreçlerinizi **mutlaka alanında uzman bir avukatın profesyonel hukuki desteği ve rehberliği altında takip etmeniz hayati önem taşımaktadır.**
 >
 > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [İş Hukuku ve İşçi Hakları](/konu/is-hukuku-isci-davalari/)
+- [Boşanma Davası Nasıl Açılır? Sebepleri ve Süreci](/konu/bosanma-davalari/)

@@ -1,10 +1,12 @@
 ---
-baslik: İhtiyati Haciz Nedir?
+baslik: "İhtiyati Haciz Nedir?"
 grup: icra-takipleri
 sira: 08
-aciklama: "İhtiyati Haciz,İcra ve iflas hukukunda para alacaklarının zamanında ve eksiksiz tahsil edilmesini güvence altına almak amacıyla kabul edilen en etkili geçici hukuki koruma müesseselerinden biridir."
+aciklama: "İhtiyati Haciz,İcra ve iflas hukukunda para alacaklarının zamanında ve eksiksiz tahsil edilmesini güvence altına almak amacıyla kabul edilen en etkili…"
 ---
-# İHTİYATİ HACİZ KARARI VE SÜREÇLERİ
+İhtiyati Haciz,İcra ve iflas hukukunda para alacaklarının zamanında ve eksiksiz tahsil edilmesini güvence altına almak amacıyla kabul edilen en etkili geçici hukuki koruma müesseselerinden biridir.
+
+## İHTİYATİ HACİZ KARARI VE SÜREÇLERİ
 
 İcra ve iflas hukukunda para alacaklarının zamanında ve eksiksiz tahsil edilmesini güvence altına almak amacıyla kabul edilen en etkili geçici hukuki koruma müesseselerinden biri **İhtiyati Haciz**dir. Alacaklının, henüz icra takibine başlamadan veya dava açmadan önce borçlunun malvarlığına geçici olarak el koymasını sağlayan bu idari/yargısal tedbir, borçlunun mal kaçırma veya gizleme girişimlerini önlemede hayati role sahiptir.
 
@@ -106,3 +108,7 @@ Borçlu, haczolunan malların serbest bırakılmasını sağlamak amacıyla güv
 İhtiyati haciz, hak kaybını ve borçlunun mal kaçırma riskini bertaraf eden son derece pratik fakat **7 ve 10 günlük hak düşürücü sürelere** tabi hassas bir hukuki süreçtir. Sürelerin veya usul işlemlerinin eksik yapılması halinde tedbir düşmekte ve alacaklının tazminat sorumluluğu doğabilmektedir. Bu nedenle mutlaka alanında uzman bir avukattan hukuki destek alınması tavsiye olunur.
 
 ---
+
+## İlginizi Çekebilir
+- [Taşkın Haciz Nedir?](/konu/taskin-haciz-nedir/)
+- [İlamsız İcra Takibine İtiraz Nasıl Yapılır?](/konu/ilamsiz-icra-takibine-itiraz/)

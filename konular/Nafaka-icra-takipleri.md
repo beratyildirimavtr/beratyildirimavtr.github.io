@@ -1,11 +1,11 @@
 ---
-baslik: Nafaka İcra Takipleri
+baslik: "Nafaka İcra Takibi Nasıl Yapılır?"
 grup: icra-takipleri
 sira: 07
-aciklama: "Nafaka alacaklarının icrası hakkındaki bilgileri aşağıda sizlere sunduk"
+aciklama: "Nafaka alacağı için icra takibi nasıl başlatılır? Nafaka ödenmediğinde başvurulacak yollar ve süreç hakkında bilgiler."
 ---
 
-# Nafaka İcra Takiplerinin Hukuki Boyutları, Süreç, İstisnalar ve Tazyik Hapsi
+## Nafaka İcra Takiplerinin Hukuki Boyutları, Süreç, İstisnalar ve Tazyik Hapsi
 
 Nafaka, Türk Aile Hukuku bünyesinde zayıf olan tarafın, çocukların veya darlığa düşecek yakınların korunması amacıyla ihdas edilmiş, kamu düzenini yakından ilgilendiren amir bir yükümlülüktür. Bu hukuki niteliği sebebiyle, borçlunun nafaka borcunu rızasıyla ödememesi halinde işletilecek **icra takip mekanizması**, genel para alacaklarının takibinden çok daha katı, ayrıcalıklı ve cezai yaptırımlarla donatılmış özel bir rejim sunar.
 
@@ -93,3 +93,7 @@ Nafaka borcu, icra hukukunda borçlunun şahsına yönelik hapis yaptırımı ö
 3. **Asgari Ücret Sınırı Muafiyeti (İİK m. 354/son):** İcra hukukunda genel kural olarak, takip konusu alacak brüt asgari ücretin altında kaldığında tazyik hapsi verilmez. **Ancak nafaka alacakları bu kuralın tek istisnasıdır!** Miktar ne kadar küçük olursa olsun nafaka borcunda tazyik hapsi uygulanır.
 
 4. > *Yazar: Berat YILDIRIM - Osmaniye*
+
+## İlginizi Çekebilir
+- [Nafaka Davaları: Türleri ve Şartları](/konu/nafaka-davalari/)
+- [İlamlı İcra Takibi Nasıl Yapılır?](/konu/ilamli-icra-takibi/)

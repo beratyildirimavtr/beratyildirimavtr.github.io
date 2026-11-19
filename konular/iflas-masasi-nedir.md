@@ -1,11 +1,12 @@
 ---
-baslik: İflas Masası ve İflas Tasfiye Süreci
+baslik: "İflas Masası ve İflas Tasfiye Süreci"
 grup: icra-takipleri
 sira: 10
-aciklama: "İflas masası, borçlu (müflis) hakkında yetkili Asliye Ticaret Mahkemesi tarafından iflas kararı verilmesiyle birlikte kendiliğinden kurulan, müflisin haczi kabil tüm malvarlığı değerlerinin toplandığı hukuki ve mali bir mal topluluğudur"
+aciklama: "İflas masası, borçlu (müflis) hakkında yetkili Asliye Ticaret Mahkemesi tarafından iflas kararı verilmesiyle birlikte kendiliğinden kurulan, müflisin…"
 ---
+İflas masası, borçlu (müflis) hakkında yetkili Asliye Ticaret Mahkemesi tarafından iflas kararı verilmesiyle birlikte kendiliğinden kurulan, müflisin haczi kabil tüm malvarlığı değerlerinin toplandığı hukuki ve mali bir mal topluluğudur
 
-# İFLAS MASASI VE İFLAS TASFİYE SÜRECİ
+## İFLAS MASASI VE İFLAS TASFİYE SÜRECİ
 
 İcra ve İflas Hukukunda borçlunun haczedilebilir tüm malvarlığının cebri icra yoluyla tasfiye edilerek alacaklılar arasında paylaştırılmasını sağlayan toplu icra kurumuna **İflas** denir. İflas kararının verilmesiyle birlikte borçlunun malvarlığının yönetimi ve tasfiyesi amacıyla hukuken **İflas Masası** kurulur.
 
@@ -25,13 +26,13 @@ aciklama: "İflas masası, borçlu (müflis) hakkında yetkili Asliye Ticaret Ma
 
 ### 2. İFLAS MASASINA GİREN VE GİRMEYEN MALVARLIKLARI
 
-**A) İflas Masasına Giren Mallar:**
+### A) İflas Masasına Giren Mallar
 * **Haczi Mümkün Taşınır ve Taşınmazlar:** Müflise ait ev, arsa, araç, nakit para, banka hesapları ve hisse senetleri.
 * **Rehinli Mallar (İİK m. 185):** Üzerinde ipotek veya taşınır rehni bulunan mallar, rehinli alacaklının öncelik hakkı saklı kalmak kaydıyla masaya girer.
 * **Hacizli Mallar (İİK m. 186):** İflastan önce icraya konulup henüz satılmamış mallar masaya devrolur.
 * **Tasarrufun İptali Hakları (İİK m. 187):** Müflisin iflastan önce mal kaçırma kastıyla yaptığı hukuken geçersiz işlemlerin iptali hakları masaya aittir.
 
-**B) İflas Masasına Girmeyen Mallar:**
+### B) İflas Masasına Girmeyen Mallar
 * **Haczedilemeyen Mallar (İİK m. 82, 211):** Borçlunun mesleğini icra etmesi için gerekli araçlar ile zaruri kişisel ve ev eşyaları masaya katılmaz.
 * **Üçüncü Kişilere Ait Mallar (İİK m. 212):** Müflisin zilyetliğinde bulunan ancak mülkiyeti başkasına ait olan mallar, hak sahipliği kanıtlandığında masadan çıkarılarak iade edilir.
 
@@ -62,7 +63,7 @@ aciklama: "İflas masası, borçlu (müflis) hakkında yetkili Asliye Ticaret Ma
 * **Alacak Kayıt Çağrısı (İİK m. 219):** Tasfiye ilanından itibaren **1 ay içinde** alacaklılar alacaklarını iflas dairesine kaydettirmek zorundadır.
 * **Sıra Cetveli (İİK m. 206, 232):** İflas idaresi kayıt süresinin bitiminden itibaren 2 ay içinde alacakların kabul veya reddine ilişkin **Sıra Cetveli** hazırlar.
 
-**Alacaklıların Paylaşım Sırası (İİK m. 206):**
+### Alacaklıların Paylaşım Sırası (İİK m. 206)
 * **Öncelikli Kısım:** Rehinli alacaklar (Satış bedelinden ilk olarak ödenir).
 * **Birinci Sıra:** İşçilerin son 1 yıla ait kıdem, ihbar ve ücret alacakları ile nafaka alacakları.
 * **İkinci Sıra:** Velayet ve vesayet hukukundan doğan alacaklar.
@@ -86,3 +87,7 @@ aciklama: "İflas masası, borçlu (müflis) hakkında yetkili Asliye Ticaret Ma
 > İflas masası süreçlerinde; **1 aylık alacak kayıt süresi** ve **15 günlük sıra cetveline itiraz hak düşürücü süreleri** hayati önem taşır. Sürelerin kaçırılması halinde alacağın tahsili imkansız hale gelebilir. Tüm işlemlerin bir avukat hukuki desteğiyle yürütülmesi tavsiye olunur.
 
 ---
+
+## İlginizi Çekebilir
+- [Sıra Cetveli Nedir?](/konu/sira-cetveli/)
+- [İstihkak Davası Nedir? Şartları ve Süreci](/konu/istihkak-davasi/)

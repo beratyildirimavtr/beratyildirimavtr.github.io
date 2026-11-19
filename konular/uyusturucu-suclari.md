@@ -1,12 +1,12 @@
 ---
-baslik: Uyuşturucu Suçları
+baslik: "Uyuşturucu Suçları: Kullanma ve Ticaret Ayrımı"
 grup: ceza-hukuku
 sira: 1
-aciklama: "Uyuşturucu Suçlarının tanımları ve Türk Ceza Kanunundaki cezai karşılıkları"
+aciklama: "Uyuşturucu madde kullanma, bulundurma ve ticaret suçlarının tanımı ve cezaları; kullanmak için bulundurma ile ticaret arasındaki ayrım."
 ---
 Uyuşturucu ve uyarıcı maddelerle ilgili fiiller, Türk Ceza Kanunu’nda ***"Kamunun Sağlığına Karşı Suçlar"*** başlığı altında düzenlenmiş olup, toplum sağlığını ve kamu düzenini korumak amacıyla yüksek yaptırımlara bağlanmıştır. Uyuşturucu maddelerle ilgili adli süreçlerde, eylemin ***"ticaret"*** mi yoksa ***"kullanım amacıyla bulundurma"*** mı olduğu hususu ceza miktarını doğrudan etkileyen en kritik hukuki ayrımdır.
 
-# UYUŞTURUCU VEYA UYARICI MADDE SUÇLARI VE CEZALARI
+## UYUŞTURUCU VEYA UYARICI MADDE SUÇLARI VE CEZALARI
 
 Türk Ceza Hukukunda toplum sağlığını, kamu düzenini ve bireylerin beden ile ruh sağlığını korumak amacıyla uyuşturucu ve uyarıcı maddelerle ilgili eylemler 5237 sayılı **Türk Ceza Kanunu (TCK)** kapsamında ağır yaptırımlara tabi tutulmuştur. Kanun koyucu, uyuşturucu maddelerin ticareti ile bireysel kullanımını birbirinden kesin hatlarla ayırmış ve her iki durum için farklı hukuki rejimler öngörmüştür.
 
@@ -111,4 +111,6 @@ Uyuşturucu maddelerle ilgili suçlarda failin adli makamlara yardımcı olması
 
 ---
 
-
+## İlginizi Çekebilir
+- [Hırsızlık Suçu Nedir? Cezası ve Unsurları](/konu/hirsizlik-suclari/)
+- [12. Yargı Paketiyle Gelen Ceza Hukuku Düzenlemeleri](/konu/12-yargi-paketiyle-gelen-ceza-hukuku-duzenlemeleri/)

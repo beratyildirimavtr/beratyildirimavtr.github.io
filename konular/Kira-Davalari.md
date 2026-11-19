@@ -1,11 +1,12 @@
 ---
-baslik: Kira Davaları ve Tahliye
+baslik: "Kira Davaları ve Tahliye"
 grup: hukuk-davalari
 sira: 03
-aciklama: "Türk Borçlar Hukukunda konut ve çatılı işyeri kiraları, kiracıyı koruma emredici ilkesi gereğince özel hükümlere tabi tutulmuştur. Bu konuyla ilgili merak edilen bazı konuları aşağıda bilgilerinize sunuyorum:"
+aciklama: "Türk Borçlar Hukukunda konut ve çatılı işyeri kiraları, kiracıyı koruma emredici ilkesi gereğince özel hükümlere tabi tutulmuştur."
 ---
+Türk Borçlar Hukukunda konut ve çatılı işyeri kiraları, kiracıyı koruma emredici ilkesi gereğince özel hükümlere tabi tutulmuştur. Bu konuyla ilgili merak edilen bazı konuları aşağıda bilgilerinize sunuyorum:
 
-# KİRA DAVALARI VE TAHLİYE
+## KİRA DAVALARI VE TAHLİYE
 
 
 ### I. EV SAHİBİ KİRACIYI NASIL TAHLİYE EDEBİLİR?
@@ -144,3 +145,7 @@ Kira bedelini ödemeyen kiracıya karşı uygulanabilecek en hızlı ve etkili i
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+## İlginizi Çekebilir
+- [Tapu İptal ve Tescil Davası Nedir? (Yolsuz Tescil)](/konu/tapu-iptal-tescil-davalari/)
+- [Ortaklığın Giderilmesi Davası](/konu/ortakligin-giderilmesi/)

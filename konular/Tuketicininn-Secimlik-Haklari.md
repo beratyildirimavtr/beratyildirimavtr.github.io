@@ -1,11 +1,11 @@
 ---
-baslik: Tüketicinin Seçimlik Hakları Nelerdir?
+baslik: "Tüketicinin Seçimlik Hakları Nelerdir?"
 grup: tuketici-islemleri
 sira: 07
-aciklama: "Tüketicinin Seçimlik Hakları 6502 sayılı Tüketicinin Korunması Hakkında Kanunda sayılmıştır ve aşağıda açıklanmıştır"
+aciklama: "Tüketicinin ayıplı mal karşısındaki seçimlik hakları: sözleşmeden dönme, bedel indirimi, ücretsiz onarım ve ürün değişimi."
 ---
 
-# TÜKETİCİNİN AYIPLI MAL VE HİZMETLERDEN DOĞAN SEÇİMLİK HAKLARI
+## TÜKETİCİNİN AYIPLI MAL VE HİZMETLERDEN DOĞAN SEÇİMLİK HAKLARI
 
 Tüketici hukukunun temel dayanağını oluşturan 6502 sayılı Tüketicinin Korunması Hakkında Kanun uyarınca, piyasaya sunulan mal ve hizmetlerin ayıpsız olması ve sözleşmeye uygun teslim edilmesi esastır. Satın alınan mal veya hizmetin ayıplı çıkması halinde kanun koyucu, tüketicinin ekonomik çıkarlarını ve hukuki dengesini korumak amacıyla satıcı, sağlayıcı, üretici ve ithalatçıya karşı doğrudan kullanabileceği **seçimlik haklar** tanımıştır.
 
@@ -15,12 +15,12 @@ Aşağıda ayıplı mal ve hizmet kavramı, tüketicinin kanuni 4 seçimlik hakk
 
 ### I. AYIPLI MAL VE HİZMET NEDİR? (TKHK m. 8 & m. 13)
 
-**1. Ayıplı Mal (TKHK m. 8):**
+## 1. Ayıplı Mal (TKHK m. 8)
 * **Sözleşmeye Aykırılık:** Tüketiciye teslimi anında, taraflarca kararlaştırılmış olan örnek veya modele uygun olmaması ya da objektif olarak sahip olması gereken nitelikleri taşımamasıdır.
 * **Maddi, Hukuki ve Ekonomik Ayıplar:** Ambalajında, etiketinde, tanıtma ve kullanma kılavuzunda, reklam ve ilanlarında yer alan özellikleri taşımayan; muadilinin kullanım amacını karşılamayan; tüketicinin makul olarak beklediği faydaları azaltan veya ortadan kaldıran eksiklikler içeren mallar ayıplı kabul edilir.
 * **Hatalı Montaj ve Geç Teslim:** Malın sözleşmede kararlaştırılan süre içinde teslim edilmemesi veya montajının satıcı/onun sorumluluğundaki kişilerce hatalı yapılması da sözleşmeye aykırı ifa (ayıp) sayılır.
 
-**2. Ayıplı Hizmet (TKHK m. 13):**
+## 2. Ayıplı Hizmet (TKHK m. 13)
 * Sözleşmede belirlenen süre içinde başlamaması veya taraflarca kararlaştırılan ve objektif olarak sahip olması gereken özellikleri taşımaması nedeniyle sözleşmeye aykırı olan hizmet ayıplıdır.
 
 ---
@@ -75,12 +75,12 @@ Hizmetin ayıplı ifa edildiği durumlarda tüketici TKHK m. 15 uyarınca şu ha
 
 Tüketicinin seçimlik hakkını kullanmasına rağmen satıcı, sağlayıcı veya üreticinin bu talebi yerine getirmemesi halinde uyuşmazlığın parasal değerine göre başvurulacak resmi makamlar şunlardır:
 
-**1. Tüketici Hakem Heyetleri (TKHK m. 68):**
+## 1. Tüketici Hakem Heyetleri (TKHK m. 68)
 * Ticaret Bakanlığı tarafından her yıl ilan edilen il/ilçe parasal sınırlarının altında kalan uyuşmazlıklarda Tüketici Hakem Heyetine başvuru **zorunludur**.
 * Başvurular, tüketicinin yerleşim yerindeki veya tüketici işleminin yapıldığı yerdeki Hakem Heyetine e-Devlet (TÜBİS) üzerinden evrak yükleyerek **ücretsiz** olarak yapılabilir.
 * Hakem heyeti kararları **ilam niteliğinde olup bağlayıcıdır**. Karara karşı 2 hafta içinde Tüketici Mahkemesine itiraz edilebilir.
 
-**2. Tüketici Mahkemeleri ve Dava Şartı Arabuluculuk (TKHK m. 73 & m. 73/A):**
+## 2. Tüketici Mahkemeleri ve Dava Şartı Arabuluculuk (TKHK m. 73 & m. 73/A)
 * Hakem heyeti parasal sınırının üzerindeki uyuşmazlıklarda Tüketici Mahkemeleri görevlidir.
 * Tüketici Mahkemesinde dava açılmadan önce **Dava Şartı Arabuluculuk** kuruluna başvurulması kanuni zorunluluktur.
 * Tüketiciler tarafından açılacak davalar **harçtan muaftır**.
@@ -90,3 +90,7 @@ Tüketicinin seçimlik hakkını kullanmasına rağmen satıcı, sağlayıcı ve
 ### ⚠️ ÖNEMLİ HUKUKİ UYARI
 
 > Ayıplı mal veya hizmet nedeniyle seçimlik haklar kullanılırken satıcı/servis yetkililerine yapılan bildirimlerin (ihtarname, e-posta, servis formuna yazılı not düşülmesi) ispatlanabilir nitelikte olması ve 2 yıllık zamanaşımı sürelerinin takibi hayati önem taşır. Hak kaybına uğramamak adına süreçlerin bir avukat hukuki desteği ile yürütülmesi tavsiye olunur.
+
+## İlginizi Çekebilir
+- [Ayıplı Mal ve Kusurlu Ürün İadesi Nasıl Yapılır?](/konu/ayipli-malin-ve-urunun-iadesi/)
+- [Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)](/konu/tuketici-hakem-heyeti-basvurusu/)

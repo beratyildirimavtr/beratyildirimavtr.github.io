@@ -1,11 +1,12 @@
 ---
-baslik: Garanti Uygulamaları, Yetkili Servis Hizmetleri ve Araç alım satımı işlemlerinde Tüketici Hakları
+baslik: "Garanti ve Yetkili Servis Hakları (Araç Alım Satımı Dahil)"
 grup: tuketici-islemleri
 sira: 04
-aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımları, garanti uygulamaları ve yetkili servis hizmetleri; 6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKHK), 6098 sayılı Türk Borçlar Kanunu (TBK), Garanti Belgesi Yönetmeliği ve Satış Sonrası Hizmetler Yönetmeliği ile emredici hükümlere bağlanmıştır. "
+aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımları, garanti uygulamaları ve yetkili servis hizmetleri; 6502 sayılı Tüketicinin Korunması…"
 ---
+Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımları, garanti uygulamaları ve yetkili servis hizmetleri; 6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKHK), 6098 sayılı Türk Borçlar Kanunu (TBK), Garanti Belgesi Yönetmeliği ve Satış Sonrası Hizmetler Yönetmeliği ile emredici hükümlere bağlanmıştır.
 
-### I. GARANTİ KAPSAMINDAKİ ÜRÜN KAÇ KEZ TAMİR EDİLEBİLİR?
+## I. GARANTİ KAPSAMINDAKİ ÜRÜN KAÇ KEZ TAMİR EDİLEBİLİR?
 
 * **Kanuni Düzenleme:** 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 56. maddesi ve Garanti Belgesi Yönetmeliği uyarınca; üretici ve ithalatçılar tüketiciye yönelik ürettikleri veya ithal ettikleri mallar için asgari 2 yıl garanti belgesi düzenlemek zorundadır.
 
@@ -16,7 +17,7 @@ aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımlar
 
 ---
 
-### II. SERVİSTE UZUN SÜRE KALAN ÜRÜN İÇİN NE YAPILIR?
+## II. SERVİSTE UZUN SÜRE KALAN ÜRÜN İÇİN NE YAPILIR?
 
 * **Azami Tamir Süresi (TKHK m. 56/3 & m. 58/3):** Bir malın yetkili servis istasyonlarındaki tamir süresi, yönetmelikte belirlenen azami süreyi geçemez. Otomobil ve binek araçlar için yasal azami tamir süresi kural olarak **20 iş günüdür**. (İş günlerine hafta sonları ve resmi tatiller dahil edilmez).
 * **Geçici Mal (İkame Araç) Tahsis Yükümlülüğü:** Otomobilin tamirinin **10 iş günü** içerisinde tamamlanamaması halinde; üretici veya ithalatçı, araç tamir edilip teslim edilinceye kadar tüketicinin kullanımına **ücretsiz olarak ikame bir araç** tahsis etmekle yükümlüdür.
@@ -26,7 +27,7 @@ aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımlar
 
 ---
 
-### III. SIFIR ARAÇTA AYIP ÇIKARSA HANGİ HAKLAR KULLANILABİLİR?
+## III. SIFIR ARAÇTA AYIP ÇIKARSA HANGİ HAKLAR KULLANILABİLİR?
 
 * **Ayıplı Mal Tanımı (TKHK m. 8):** Tüketiciye teslimi anında, taraflarca kararlaştırılmış olan örnek veya modele uygun olmaması ya da objektif olarak sahip olması gereken özellikleri taşımaması nedeniyle sözleşmeye aykırı olan mal ayıplıdır.
 
@@ -44,7 +45,7 @@ aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımlar
 
 ---
 
-### IV. İKİNCİ EL ARAÇTA GİZLİ AYIP ÇIKARSA NE YAPILIR?
+## IV. İKİNCİ EL ARAÇTA GİZLİ AYIP ÇIKARSA NE YAPILIR?
 
 * **Hukuki Rejim Ayrımı:** 
   * Satış bir galeri/otopazarı (ticari işletme) ile tüketici arasında yapılmışsa **TKHK m. 8 ve 12** hükümleri uygulanır; ikinci el satışlarda satıcının ayıptan sorumluluğu **1 yıldan az olamaz**.
@@ -60,7 +61,7 @@ aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımlar
 
 ---
 
-### V. YETKİLİ SERVİS HATASI NEDENİYLE TAZMİNAT İSTENEBİLİR Mİ?
+## V. YETKİLİ SERVİS HATASI NEDENİYLE TAZMİNAT İSTENEBİLİR Mİ?
 
 * **Ayıplı Hizmet Kapsamı (TKHK m. 13 & m. 14):** Yetkili servisin araç üzerinde yaptığı periyodik bakım veya tamir işleminin eksik, hatalı ya da standartlara aykırı yürütülmesi **ayıplı hizmet** teşkil eder.
 
@@ -81,3 +82,7 @@ aciklama: "Tüketici hukuku ve borçlar hukuku kapsamında araç alım-satımlar
 
 ---
 > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Ayıplı Mal ve Kusurlu Ürün İadesi Nasıl Yapılır?](/konu/ayipli-malin-ve-urunun-iadesi/)
+- [Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)](/konu/tuketici-hakem-heyeti-basvurusu/)

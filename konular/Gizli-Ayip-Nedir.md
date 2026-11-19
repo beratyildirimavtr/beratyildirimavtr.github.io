@@ -1,11 +1,11 @@
 ---
-baslik: Gizli Ayıp Nedir? 
+baslik: "Gizli Ayıp Nedir?"
 grup: tuketici-islemleri
 sira: 05
-aciklama: "Satın alınan malın teslim alındığı anda sıradan bir gözden geçirme (olağan muayene) ile fark edilemeyen, malın kullanımıyla, zaman geçmesiyle veya uzman/teknik bir inceleme neticesinde ortaya çıkan ayıplardır"
+aciklama: "Satın alınan malın teslim alındığı anda sıradan bir gözden geçirme (olağan muayene) ile fark edilemeyen, malın kullanımıyla, zaman geçmesiyle veya…"
 ---
 
-### I. GİZLİ AYIP NEDİR?
+## I. GİZLİ AYIP NEDİR?
 
 * **Gizli Ayıp Kavramı:** Satın alınan malın teslim alındığı anda sıradan bir gözden geçirme (olağan muayene) ile fark edilemeyen, malın kullanımıyla, zaman geçmesiyle veya uzman/teknik bir inceleme neticesinde ortaya çıkan ayıplardır.
 
@@ -19,7 +19,7 @@ aciklama: "Satın alınan malın teslim alındığı anda sıradan bir gözden g
 
 ---
 
-### II. GÖZDEN GEÇİRME VE İHBAR (BİLDİRİM) KÜLFETİ
+## II. GÖZDEN GEÇİRME VE İHBAR (BİLDİRİM) KÜLFETİ
 
 * **Borçlar Kanunu'na Tabi Ticari/Genel Satışlarda (TBK m. 223):** Alıcı, devraldığı malı işlerin olağan akışına göre imkan bulunur bulunmaz gözden geçirmelidir. Ancak gizli bir ayıp söz konusu olduğunda, ayıp ortaya çıkar çıkmaz **derhal (gecikmeksizin) satıcıya bildirilmelidir**. Bildirim ihmal edilirse mal ayıpla birlikte kabul edilmiş sayılır.*
 
@@ -27,7 +27,7 @@ aciklama: "Satın alınan malın teslim alındığı anda sıradan bir gözden g
 
 ---
 
-### III. ALICININ VE TÜKETİCİNİN SEÇİMLİK HAKLARI
+## III. ALICININ VE TÜKETİCİNİN SEÇİMLİK HAKLARI
 
 Satıcının gizli ayıptan sorumlu olduğu hallerde alıcı/tüketici aşağıdaki seçimlik haklardan birini kullanabilir:
 
@@ -43,27 +43,27 @@ Satıcının gizli ayıptan sorumlu olduğu hallerde alıcı/tüketici aşağıd
 
 ---
 
-### IV. GİZLİ AYIP KONUSUNDA DETAYLI SOMUT ÖRNEKLER
+## IV. GİZLİ AYIP KONUSUNDA DETAYLI SOMUT ÖRNEKLER
 
-#### ÖRNEK 1: İkinci El Araç Satışında Km Düşürülmesi veya Airbag Direnci (TBK m. 219 & 225)
+### ÖRNEK 1: İkinci El Araç Satışında Km Düşürülmesi veya Airbag Direnci (TBK m. 219 & 225)
 
 * **Olay:** Vatandaş (A), şahıstan 180.000 km'de olduğunu beyan eden bir ikinci el otomobil satın almıştır. Satın alırken aracı sanayi usta kontrolüne sokmuş, o sırada bir sorun tespit edilmemiştir. Ancak 4 ay sonra periyodik bakıma gittiğinde yetkili serviste aracın gerçek kilometresinin 320.000 olduğunu ve patlamış airbaglerin direnç atılarak kandırıldığını öğrenmiştir.
 
 * **Hukuki Değerlendirme:** Gösterge kilometresinin düşürülmesi ve airbag patlaklığının dirençle gizlenmesi sıradan kontrolle anlaşılamayan **ağır bir gizli ayıptır**. Satıcı bu ayıbı hilesiyle gizlediği veya bildiği kabul edildiğinden süresinde ihtar çekilmediğini savunamaz. (A), noter ihbarıyla aracın iadesini ve parasını geri isteyebilir ya da araçtaki değer kaybının tazminini talep edebilir.
 
-#### ÖRNEK 2: Sıfır Araçta Çift Kat Fabrikasyon Boya veya Kronik Şanzıman Arızası (TKHK m. 8 & 11)
+### ÖRNEK 2: Sıfır Araçta Çift Kat Fabrikasyon Boya veya Kronik Şanzıman Arızası (TKHK m. 8 & 11)
 
 * **Olay:** Müşteri (B), bayiden sıfır km binek araç satın almıştır. Aracın kullanımının 3. ayında şanzımdan anormal sesler gelmeye başlamış ve araç viteste kilitlenmiştir. Yapılan teknik incelemede şanzıman dişlisinde üretim kaynaklı döküm hatası tespit edilmiştir.
 
 * **Hukuki Değerlendirme:** İlk 6 ay içinde beliren bu üretim hatası gizli ayıp olup, teslim anında var olduğu kanunen karine olarak kabul edilir. Bayi "biz tamir edelim" dese dahi (B), tamiri kabul etmek zorunda değildir; TKHK m. 11/1-ç uyarınca **aracın sıfır km yenisi ile değiştirilmesini** veya sözleşmeden dönerek paralarının faiziyle iadesini isteyebilir.
 
-#### ÖRNEK 3: Konut Satışında Duvar İçi Tesisat Sızıntısı ve Nem İzolasyon Eksikliği (TBK m. 244 & TKHK m. 12)
+### ÖRNEK 3: Konut Satışında Duvar İçi Tesisat Sızıntısı ve Nem İzolasyon Eksikliği (TBK m. 244 & TKHK m. 12)
 
 * **Olay:** Tüketici (C), müteahhitten yeni yapılmış bir daire satın almıştır. Yaz ayında taşınmış ve bir sorun görmemiştir. Ancak kış mevsiminde yağmurların başlamasıyla birlikte dış cephe yalıtımının hiç yapılmadığı ve banyo fayans altındaki su borularında gizli kaçak olduğu için alt katın tavanının aktığı, duvarların küflendiği ortaya çıkmıştır.
 
 * **Hukuki Değerlendirme:** Yazın yapılan teslimde anlaşılamayan izolasyon ve tesisat eksikliği **yapısal bir gizli ayıptır**. Yapı ayıplarında zamanaşımı mülkiyetin geçmesinden itibaren 5 yıl (satıcının ağır kusuru/hilesi varsa 20 yıl) olduğundan; alıcı masrafların müteahhitçe karşılanmasını veya satış bedelinden ayıp oranında indirim yapılmasını yargı yoluyla isteyebilir.
 
-#### ÖRNEK 4: Elektronik Cihazda (Telefon/Televizyon) Fabrikasyon Tesisat Hatası
+### ÖRNEK 4: Elektronik Cihazda (Telefon/Televizyon) Fabrikasyon Tesisat Hatası
 
 * **Olay:** Tüketici (D), bir mağazadan akıllı telefon almıştır. Cihaz 8 ay boyunca sorunsuz çalışmış, ancak aniden kapanmış ve açılmamıştır. Servis "cihazda sıvı teması var" diyerek garanti dışı bırakmıştır. Tüketici mahkemece delil tespiti yaptırdığında, sıvı temasının kullanıcıdan değil, montaj aşamasındaki fabrika sızdırmazlık bandı hatasından kaynaklanan korozyon olduğu anlaşılmıştır.
 
@@ -71,7 +71,7 @@ Satıcının gizli ayıptan sorumlu olduğu hallerde alıcı/tüketici aşağıd
 
 ---
 
-### V. ZAMANAŞIMI SÜRELERİ VE HİLE İSTİSNASI
+## V. ZAMANAŞIMI SÜRELERİ VE HİLE İSTİSNASI
 
 1. **Tüketici Satışlarında (TKHK m. 12):** Taşınır mallarda ayıplı maldan sorumluluk teslimden itibaren **2 yıldır** (ikinci el satışlarda en az 1 yıl). Konut ve tatil amaçlı taşınmazlarda ise **5 yıldır** (ikinci elde en az 3 yıl).
 
@@ -85,3 +85,7 @@ Satıcının gizli ayıptan sorumlu olduğu hallerde alıcı/tüketici aşağıd
 > **Önemli Uyarı:** Gizli ayıp iddiaları; ayıbın öğrenildiği an derhal çekilmesi gereken noter ihtarları, süresinde mahkemeden alınacak bilirkişi/ekspertiz delil tespitleri (HMK m. 400), Tüketici Hakem Heyeti veya Mahkemelerdeki dava şartı arabuluculuk usulleri ve sıkı teknik ispat kurallarına tabidir. 
 > 
 > Hatalı bir ihtarname çekilmesi, ihtar süresinin geçirilmesi veya yetkili/görevli mahkemenin yanlış seçilmesi halinde haklı olsanız dahi davanız usulden reddedilebilir ve **telafisi imkânsız maddi kayıplarla karşılaşabilirsiniz.** Haklarınızın eksiksiz korunması için süreçlerinizi **mutlaka alanında uzman bir avukatın profesyonel hukuki desteği ile yürütmeniz hayati önem taşımaktadır.**
+
+## İlginizi Çekebilir
+- [Ayıplı Mal ve Kusurlu Ürün İadesi Nasıl Yapılır?](/konu/ayipli-malin-ve-urunun-iadesi/)
+- [Ayıplı Hizmet Nedir?](/konu/ayipli-hizmet-nedir/)

@@ -1,11 +1,12 @@
 ---
-baslik: Evdeki Eşyaların Haczedilmesi ve Malvarlığının Haczedilmesi
+baslik: "Evdeki Eşyaların Haczedilmesi ve Malvarlığının Haczedilmesi"
 grup: icra-takipleri
 sira: 05
-aciklama: "İcra ve iflas hukukunda haciz; kesinleşmiş bir icra takibine rağmen borcunu ödemeyen borçlunun, alacaklının talebiyle mal, hak ve alacaklarına devlet gücüyle el konulması işlemidir. Borçlunun malvarlığı haczedilirken temel kural; alacaklıya yetecek miktarda malın haczedilmesi ve borçlunun ile ailesinin asgari yaşamını sürdürebilmesidir"
+aciklama: "İcra ve iflas hukukunda haciz; kesinleşmiş bir icra takibine rağmen borcunu ödemeyen borçlunun, alacaklının talebiyle mal, hak ve alacaklarına devlet…"
 ---
+İcra ve iflas hukukunda haciz; kesinleşmiş bir icra takibine rağmen borcunu ödemeyen borçlunun, alacaklının talebiyle mal, hak ve alacaklarına devlet gücüyle el konulması işlemidir. Borçlunun malvarlığı haczedilirken temel kural; alacaklıya yetecek miktarda malın haczedilmesi ve borçlunun ile ailesinin asgari yaşamını sürdürebilmesidir
 
-# EV EŞYALARININ HACZİ VE MALVARLIĞININ HACZİ
+## EV EŞYALARININ HACZİ VE MALVARLIĞININ HACZİ
 
 2004 sayılı **İcra ve İflas Kanunu (İİK)** ve 7445 sayılı Kanun ile getirilen güncel mevzuat hükümleri çerçevesinde ev haczi ve malvarlığı haczine ilişkin tüm süreçler aşağıda detaylandırılmıştır:
 
@@ -98,3 +99,8 @@ Haciz altındaki bir malın üzerindeki haciz şerhini kaldırmak veya muhafaza 
 > *Haciz işlemleri doğrudan malvarlığınızı tehlikeye atabileceği için mutlaka bir avukat yardımıyla süreci yürütmeniz tavsiye edilir.*
 >
 > *Yazar: Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Maaş Haczi ve Banka Hesaplarına Haciz](/konu/maas-haczi-ve-banka-hesaplarina-haciz/)
+- [İstihkak Davası Nedir? Şartları ve Süreci](/konu/istihkak-davasi/)
+- [Taşkın Haciz Nedir?](/konu/taskin-haciz-nedir/)

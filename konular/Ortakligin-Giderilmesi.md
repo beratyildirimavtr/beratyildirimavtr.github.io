@@ -1,10 +1,10 @@
 ---
-baslik: Ortaklığın Giderilmesi Davası
+baslik: "Ortaklığın Giderilmesi Davası"
 grup: hukuk-davalari
 sira: 10
-aciklama: "Birden fazla kişinin ortak mülkiyetinde (paylı veya elbirliği mülkiyeti) bulunan bir taşınır veya taşınmaz mal üzerindeki ortaklık ilişkisinin sonlandırılması amacıyla açılan davaya Ortaklığın Giderilmesi (İzale-i Şüyu) Davası denir."
+aciklama: "Birden fazla kişinin ortak mülkiyetinde (paylı veya elbirliği mülkiyeti) bulunan bir taşınır veya taşınmaz mal üzerindeki ortaklık ilişkisinin…"
 ---
-# ORTAKLIK (İZALE-İ ŞÜYU) DAVASI SÜRECİ NASIL İŞLER?
+## ORTAKLIK (İZALE-İ ŞÜYU) DAVASI SÜRECİ NASIL İŞLER?
 
 Birden fazla kişinin ortak mülkiyetinde (paylı veya elbirliği mülkiyeti) bulunan bir taşınır veya taşınmaz mal üzerindeki ortaklık ilişkisinin sonlandırılması amacıyla açılan davaya **Ortaklığın Giderilmesi (İzale-i Şüyu) Davası** denir. 
 
@@ -125,3 +125,7 @@ Mahkemenin satış suretiyle ortaklığın giderilmesine karar vermesi ve karar�
 > İhale hak kayıplarına uğramamak ve taşınmazınızın değerinde satılmasını sağlamak adına tüm süreçlerinizi **mutlaka bir avukatın profesyonel hukuki desteği ile yürütmeniz tavsiye olunur.**
 >
 > *Yazar : Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [Miras Hukukunda Pay Oranları ve Zümreler](/konu/miras-hukuku-zumreler/)
+- [Önalım Hakkı ve Önalım Davası Nedir?](/konu/onalim-davasi/)

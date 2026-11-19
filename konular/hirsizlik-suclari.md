@@ -1,14 +1,16 @@
 ---
-baslik: Hırsızlık Suçları
+baslik: "Hırsızlık Suçu Nedir? Cezası ve Unsurları"
 grup: ceza-hukuku
 sira: 2
-aciklama: "Türk Ceza Kanunu’nun Malvarlığına Karşı Suçlar başlıklı onuncu bölümünde düzenlenen Hırsızlık Suçunun; kanuni tanımı, maddi ve manevi unsurları, cezada artırım ve indirim gerektiren nitelikli halleri ile muhakeme usulü bakımından şu şekilde kategorize edilmiştir:"
+aciklama: "Türk Ceza Kanunu’nun Malvarlığına Karşı Suçlar başlıklı onuncu bölümünde düzenlenen Hırsızlık Suçunun; kanuni tanımı, maddi ve manevi unsurları, cezada…"
 ---
-***1. Hırsızlık Suçunun Kanuni Tanımı ve Temel Cezası (TCK m. 141)***
+Türk Ceza Kanunu’nun Malvarlığına Karşı Suçlar başlıklı onuncu bölümünde düzenlenen Hırsızlık Suçunun; kanuni tanımı, maddi ve manevi unsurları, cezada artırım ve indirim gerektiren nitelikli halleri ile muhakeme usulü bakımından şu şekilde kategorize edilmiştir:
+
+## 1. Hırsızlık Suçunun Kanuni Tanımı ve Temel Cezası (TCK m. 141)
 
 Zilyedinin rızası olmadan başkasına ait taşınır bir malı, kendisine veya başkasına bir yarar sağlamak maksadıyla bulunduğu yerden alan kimseye bir yıldan üç yıla kadar hapis cezası verilir.
 
-***Suçun Temel Kriterleri ve Unsur Analizi:***
+### Suçun Temel Kriterleri ve Unsur Analizi
 
 **Suçun Konusu:** Taşınır bir maldır. 
 
@@ -18,11 +20,11 @@ Taşınmazlar hırsızlık suçunun konusunu oluşturmaz (taşınmaz işgalleri 
 
 ***Manevi Unsur:*** Suç kasten işlenir; genel kastın yanı sıra failin "kendisine veya başkasına bir yarar sağlamak maksadıyla" hareket etmesi şarttır.
 
-***2. Nitelikli Hırsızlık Halleri (TCK m. 142)***
+## 2. Nitelikli Hırsızlık Halleri (TCK m. 142)
 
 Hırsızlık eyleminin işleniş biçimine, yerine veya konusuna göre kanun koyucu iki farklı ceza kademesi öngörmüştür:
 
-**A) Üç Yıldan Yedi Yıla Kadar Hapis Cezası Gerektiren Haller (TCK m. 142/1)**
+### A) Üç Yıldan Yedi Yıla Kadar Hapis Cezası Gerektiren Haller (TCK m. 142/1)
 
 Kamu kurum ve kuruluşlarında veya ibadete ayrılmış yerlerde bulunan ya da kamu yararına/hizmetine tahsis edilen eşya hakkında işlenmesi,
 
@@ -32,7 +34,7 @@ Afet veya genel felaket zararlarını önlemek/hafifletmek amacıyla hazırlanan
 
 Adet veya tahsis ya da kullanımları gereği açıkta bırakılmış eşya hakkında işlenmesi.
 
-**B) Beş Yıldan On Yıla Kadar Hapis Cezası Gerektiren Haller (TCK m. 142/2)**
+### B) Beş Yıldan On Yıla Kadar Hapis Cezası Gerektiren Haller (TCK m. 142/2)
 
 Kişinin malını koruyamayacak durumda olmasından veya ölmesinden yararlanarak işlenmesi,
 
@@ -50,13 +52,13 @@ Büyükbaş veya küçükbaş hayvan hakkında işlenmesi,
 
 Herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya hakkında işlenmesi.
 
-**C) Özel Artırım Halleri**
+### C) Özel Artırım Halleri
 
 Gece Vakti İşlenmesi (TCK m. 143): Hırsızlık suçunun gece vakti işlenmesi halinde verilecek ceza yarı oranında artırılır.
 
 Kamu Hizmetinin Aksaması (TCK m. 142/5): Hırsızlık sonucunda haberleşme, enerji, demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici de olsa aksaması halinde verilecek ceza yarısından iki katına kadar artırılır.
 
-**3. Cezayı Hafifleten veya Ortadan Kaldıran Özel Haller**
+## 3. Cezayı Hafifleten veya Ortadan Kaldıran Özel Haller
 
 Daha Az Cezayı Gerektiren Haller (TCK m. 144): Suçun paydaş/elbirliği ile malik olunan mal üzerinde veya hukuki bir ilişkiye dayanan alacağı tahsil amacıyla işlenmesi halinde, mağdurun şikayeti üzerine iki aydan bir yıla kadar hapis veya adli para cezasına hükmolunur.
 
@@ -70,7 +72,11 @@ Akrabalık İlişkisi (TCK m. 167): Haklarında ayrılık kararı verilmemiş e�
 
 Etkin Pişmanlık (TCK m. 168): Suç tamamlandıktan sonra kovuşturma başlamadan önce zararın tamamen giderilmesi halinde cezanın üçte ikisine kadarı; kovuşturma başladıktan sonra hüküm verilmeden önce giderilmesi halinde yarısına kadarı indirilir.
 
-**4. Ceza Muhakemesi Usulü ve Koruma Tedbirleri**
+## 4. Ceza Muhakemesi Usulü ve Koruma Tedbirleri
 Uzlaştırma (CMK m. 253/1-b-6): Basit hırsızlık suçu (TCK m. 141) soruşturma aşamasında uzlaştırmaya tabidir. Uzlaşma sağlanamazsa dava açılır.
 
 Tutuklama Tedbiri (CMK m. 100/3-a-8): Hırsızlık suçları (TCK m. 141, 142), somut delillere dayanan kuvvetli şüphe varlığı halinde kanunen tutuklama nedeni var sayılabilecek katalog suçlar arasında yer almaktadır.
+
+## İlginizi Çekebilir
+- [Yaralama Suçu Nedir? Kasten ve Taksirle Yaralama](/konu/yaralama-suclari/)
+- [Tehdit ve Hakaret Suçları ve Cezaları](/konu/tehdit-ve-hakaret-suclari/)

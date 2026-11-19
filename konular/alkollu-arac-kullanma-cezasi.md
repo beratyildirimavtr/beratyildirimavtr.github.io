@@ -1,11 +1,11 @@
 ---
-baslik: Alkollü Araç Kullanma Cezası Ne kadar?
+baslik: "Alkollü Araç Kullanma Cezası ve Promil Sınırları"
 grup: ceza-hukuku
 sira: 12
 aciklama: "alkollü araç kullanma cezaları, yasal promil sınırları, ehliyetin geri alınması süreçleri örneklerle aşağıda detaylandırılmıştır:"
 ---
 
-# ALKOLLÜ ARAÇ KULLANMA CEZASI
+## ALKOLLÜ ARAÇ KULLANMA CEZASI
 
 Türk hukukunda karayollarında can ve mal güvenliğini sağlamak amacıyla alkol etkisi altında araç sürülmesi kesin olarak yasaklanmış ve bu kuralı ihlal eden sürücüler hakkında hem **idari yaptırımlar** (idari para cezası ve ehliyete el konulması) hem de belirli eşiklerin aşılması durumunda **adli cezalar** (hapis cezası) öngörülmüştür.
 
@@ -123,3 +123,7 @@ Hususi otomobil sürücülerinin **0.50 promil**, diğer araç sürücülerinin 
 > *Yazar: Avukat Berat YILDIRIM*
 
 ---
+
+## İlginizi Çekebilir
+- [Trafikten Men ve İdari Para Cezası](/konu/trafikten-men-edilen-arac/)
+- [Önödeme Nedir?](/konu/onodeme-kapsami/)

@@ -1,15 +1,15 @@
 ---
-baslik: Halkı Kin ve Düşmanlığa Tahrik veya Aşağılama Suçu - TCK Madde 216
+baslik: "Halkı Kin ve Düşmanlığa Tahrik Suçu (TCK 216)"
 grup: ceza-hukuku
 sira: 17
-aciklama: "Bu suç tipi; toplumun farklı kesimleri arasında çatışma çıkmasını önlemek, toplumsal barışı ve kamu güvenliğini korumak amacıyla ihdas edilmiş somut ve soyut tehlike suçlarındandır"
+aciklama: "Bu suç tipi; toplumun farklı kesimleri arasında çatışma çıkmasını önlemek, toplumsal barışı ve kamu güvenliğini korumak amacıyla ihdas edilmiş somut ve…"
 ---
 
 Türk Ceza Kanunu, Ceza Muhakemesi Kanunu ve Anayasa hükümleri çerçevesinde **Halkı Kin ve Düşmanlığa Tahrik veya Aşağılama Suçu (TCK m. 216)**; suçun kanuni unsurları, ceza miktarları, nitelikli halleri, eleştiri ve düşünce özgürlüğü sınırı ile yargılama süreçleri bakımından aşağıda detaylandırılmıştır:
 
 ---
 
-# HALKI KİN VE DÜŞMANLIĞA TAHRİK VEYA AŞAĞILAMA SUÇU (TCK m. 216)
+## HALKI KİN VE DÜŞMANLIĞA TAHRİK VEYA AŞAĞILAMA SUÇU (TCK m. 216)
 
 Türk Ceza Kanunu’nun "Kamu Barışına Karşı Suçlar" başlıklı beşinci bölümünde düzenlenen bu suç tipi; toplumun farklı kesimleri arasında çatışma çıkmasını önlemek, toplumsal barışı ve kamu güvenliğini korumak amacıyla ihdas edilmiş somut ve soyut tehlike suçlarındandır. 
 
@@ -56,3 +56,6 @@ Türk Ceza Kanunu’nun "Kamu Barışına Karşı Suçlar" başlıklı beşinci 
 > Halkı kin ve düşmanlığa tahrik veya aşağılama suçu (TCK m. 216); **ifade özgürlüğü**, **kamu düzeni tehlikesi** ve **basın yayın nitelikli halleri** bakımından hassas hukuki değerlendirmeler gerektiren bir suç tipidir. 
 > 
 > Hakkınızda yürütülen bir ceza soruşturması veya kovuşturmasında hak kaybına uğramamak adına süreçlerinizi **mutlaka bir ceza avukatının profesyonel hukuki desteği ile yürütmeniz tavsiye olunur.**
+
+## İlginizi Çekebilir
+- [Tehdit ve Hakaret Suçları ve Cezaları](/konu/tehdit-ve-hakaret-suclari/)

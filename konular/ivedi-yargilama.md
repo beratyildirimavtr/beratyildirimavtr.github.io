@@ -1,11 +1,11 @@
 ---
-baslik: İvedi Yargılama Usulü Nedir?
+baslik: "İvedi Yargılama Usulü Nedir?"
 grup: idari-davalar
 sira: 08
-aciklama: "İvedi yargılama usulü; genel idari yargılama kurallarından farklı olarak dava açma sürelerini kısaltan, dilekçeler teatisini tek aşamaya indiren, idari başvuru ve yürütmeyi durdurma itiraz kanun yollarını kapatan ve davayı doğrudan Danıştay denetimine tabi tutan özel ve hızlandırılmış bir yargılama rejimidir"
+aciklama: "İvedi yargılama usulü; genel idari yargılama kurallarından farklı olarak dava açma sürelerini kısaltan, dilekçeler teatisini tek aşamaya indiren, idari…"
 ---
 
-# İVEDİ YARGILAMA USULÜ: UYUŞMAZLIK KAPSAMI VE DAVA SÜRELERİ
+## İVEDİ YARGILAMA USULÜ: UYUŞMAZLIK KAPSAMI VE DAVA SÜRELERİ
 
 İdari yargılama hukukumuzda kural olarak yazılı yargılama usulü ve 60 günlük genel dava açma süresi geçerlidir. Ancak kamu hizmetlerinin aksamaması, gecikmesinde sakınca bulunan yatırımların, ihalelerin ve çevresel kararların bir an önce hukuki kesinliğe kavuşması amacıyla 2577 sayılı **İdari Yargılama Usulü Kanunu'na (İYUK)** 6545 sayılı Kanun ile 2014 yılında eklenen 20/A maddesiyle **İvedi Yargılama Usulü** ihdas edilmiştir.
 
@@ -96,3 +96,7 @@ Bu davalar, dosyanın tekemmül etmesinden itibaren **en geç 1 ay içinde karar
 > İvedi yargılama usulü; **30 günlük kısa dava açma süresi**, idareye başvuru imkanının olmaması (İYUK m. 11 yasağı), YD kararlarına itirazın kapalı olması ve 15 günlük temyiz süresi bakımından son derece sıkı ve telafisi imkansız hak kayıpları doğurabilecek riskler barındırmaktadır. 
 > 
 > Usuli bir hata nedeniyle davanın reddedilmemesi veya ihalelerden/kamulaştırmalardan doğan haklarınızın korunması adına tüm süreçlerinizi **mutlaka alanında uzman bir idare avukatının hukuki desteği ile yürütmeniz tavsiye olunur.**
+
+## İlginizi Çekebilir
+- [İdari İşlemin İptali Davası](/konu/idari-islemin-iptali-davasi/)
+- [Yürütmenin Durdurulması Nedir?](/konu/yurutmenin-durdurulmasi/)

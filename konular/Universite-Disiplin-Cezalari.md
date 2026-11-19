@@ -1,11 +1,11 @@
 ---
-baslik: Üniversite Disiplin Cezaları ve Okuldan Uzaklaştırma Kararlarının İptali
+baslik: "Üniversite Disiplin Cezası ve Okuldan Uzaklaştırma İptali"
 grup: idari-davalar
 sira: 07
-aciklama: "Üniversite Disiplin Cezaları ve Okuldan Uzaklaştırma Kararlarının İptali süreçlerini aşağıda detaylarıyla inceledik"
+aciklama: "Üniversite öğrencilerine verilen disiplin cezaları, itiraz yolları ve iptal davası süreci hakkında bilgiler."
 ---
 
-# ÜNİVERSİTE DİSİPLİN CEZALARI VE OKULDAN UZAKLAŞTIRMA KARARLARININ İPTALİ DAVASI SÜREÇLERİ
+## ÜNİVERSİTE DİSİPLİN CEZALARI VE OKULDAN UZAKLAŞTIRMA KARARLARININ İPTALİ DAVASI SÜREÇLERİ
 
 Anayasa'nın 125. ve 130. maddeleri uyarınca idarenin her türlü eylem ve işlemine karşı yargı yolu açık olup, üniversite öğrencilerinin eğitim ve öğretim hakkı Anayasal güvence altındadır. Yükseköğretim kurumlarında öğrenciler hakkında tesis edilen disiplin cezaları (Uyarma, Kınama, Yükseköğretim Kurumundan 1 Haftadan 1 Yarıyıla Kadar Uzaklaştırma, 1 Veya 2 Yarıyıl Uzaklaştırma ve Yükseköğretim Kurumundan Çıkarma), öğrencilik statüsünü ve akademik geleceği doğrudan etkileyen idari işlemlerdir.
 
@@ -85,3 +85,8 @@ Disiplin cezası verilen öğrenciye kararın tebliğ edilmesinden itibaren idar
 > Telafisi imkansız dönem kayıplarına uğramamak adına idari itirazlarınızı ve dava sürecinizi **mutlaka alanında uzman bir avukatın profesyonel desteği ile yürütmeniz tavsiye olunur.**
 
 ---
+
+## İlginizi Çekebilir
+- [Memur Disiplin Cezaları](/konu/memur-disiplin-cezalari/)
+- [İdari İşlemin İptali Davası](/konu/idari-islemin-iptali-davasi/)
+- [Yürütmenin Durdurulması Nedir?](/konu/yurutmenin-durdurulmasi/)

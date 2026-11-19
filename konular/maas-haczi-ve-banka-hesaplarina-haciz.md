@@ -1,11 +1,12 @@
 ---
-baslik: Maaş haczi ve Banka hesaplarına haciz
+baslik: "Maaş Haczi ve Banka Hesaplarına Haciz"
 grup: icra-takipleri
 sira: 02
-aciklama: "İcra takibinin kesinleşmesinden sonra borçlunun gelir ve malvarlığına yönelik uygulanan cebri icra işlemlerinin en yaygın türü maaş haczi ve banka hesaplarına haciz uygulamalarıdır. Türk Hukukunda borçlunun ve ailesinin temel yaşam standartlarını korumak ile alacaklının alacağına kavuşması arasındaki hassas denge 2004 sayılı İcra ve İflas Kanunu (İİK), 4857 sayılı İş Kanunu ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu emredici hükümleriyle düzenlenmiştir."
+aciklama: "İcra takibinin kesinleşmesinden sonra borçlunun gelir ve malvarlığına yönelik uygulanan cebri icra işlemlerinin en yaygın türü maaş haczi ve banka…"
 ---
+İcra takibinin kesinleşmesinden sonra borçlunun gelir ve malvarlığına yönelik uygulanan cebri icra işlemlerinin en yaygın türü maaş haczi ve banka hesaplarına haciz uygulamalarıdır. Türk Hukukunda borçlunun ve ailesinin temel yaşam standartlarını korumak ile alacaklının alacağına kavuşması arasındaki hassas denge 2004 sayılı İcra ve İflas Kanunu (İİK), 4857 sayılı İş Kanunu ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu emredici hükümleriyle düzenlenmiştir.
 
-# MAAŞ HACZİ VE BANKA HESAPLARINA HACİZ
+## MAAŞ HACZİ VE BANKA HESAPLARINA HACİZ
 
 ### I. MAAŞIN NE KADARI HACZEDİLEBİLİR?
 
@@ -89,3 +90,8 @@ Borçlunun ve ailesinin asgari yaşam kalitesini korumak amacıyla 2004 sayılı
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+## İlginizi Çekebilir
+- [Evdeki Eşyaların Haczedilmesi ve Malvarlığının Haczedilmesi](/konu/evdeki-esyalarin-haczi/)
+- [Taşkın Haciz Nedir?](/konu/taskin-haciz-nedir/)
+- [Memurların İcra Borçları Disiplin Cezası Gerektirir mi?](/konu/devlet-memuru-icra-borclari-sorun-olur-mu/)

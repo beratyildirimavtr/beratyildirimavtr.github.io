@@ -1,15 +1,16 @@
 ---
-baslik: Miras Hukukunda Pay Oranları ve Zümreler
+baslik: "Miras Hukukunda Pay Oranları ve Zümreler"
 grup: hukuk-davalari
 sira: 05
-aciklama: "Türk Miras Hukukunda bir kimsenin vefatı (mirasbırakan/müteveffa) halinde mirasının kimlere ve hangi oranlarda kalacağı, 4721 sayılı Türk Medeni Kanunu’nun 495 ila 501. maddeleri arasında düzenlenen Kanuni Mirasçılık ve Zümre Sistemi esaslarına göre belirlenir"
+aciklama: "Türk Miras Hukukunda bir kimsenin vefatı (mirasbırakan/müteveffa) halinde mirasının kimlere ve hangi oranlarda kalacağı, 4721 sayılı Türk Medeni…"
 ---
+Türk Miras Hukukunda bir kimsenin vefatı (mirasbırakan/müteveffa) halinde mirasının kimlere ve hangi oranlarda kalacağı, 4721 sayılı Türk Medeni Kanunu’nun 495 ila 501. maddeleri arasında düzenlenen Kanuni Mirasçılık ve Zümre Sistemi esaslarına göre belirlenir
 
-### I. ZÜMRE SİSTEMİ NEDİR VE NASIL İŞLER?
+## I. ZÜMRE SİSTEMİ NEDİR VE NASIL İŞLER?
 
 Türk Medeni Kanunumuz kan hısımlarının mirasçılığında **Zümre Sistemini** kabul etmiştir. Zümre, bir birincil kandan gelen kişilerin oluşturduğu akrabalık kümesidir.
 
-**Zümre Sisteminin 3 Temel Altın Kuralı:**
+## Zümre Sisteminin 3 Temel Altın Kuralı
 
 1. **Önceki Zümre Var İse Sonraki Zümreye Miras Geçmez:** Birinci zümrede tek bir mirasçı dahi bulunuyorsa, ikinci veya üçüncü zümredeki akrabalar mirasçı olamaz.
 
@@ -19,7 +20,7 @@ Türk Medeni Kanunumuz kan hısımlarının mirasçılığında **Zümre Sistemi
 
 ---
 
-### II. BİRİNCİ ZÜMRE: MİRASBIRAKANIN ALTSOYU (TMK m. 495)
+## II. BİRİNCİ ZÜMRE: MİRASBIRAKANIN ALTSOYU (TMK m. 495)
 
 Mirasbırakanın birinci derece yasal mirasçıları, onun **altsoyudur**. Altsoy; çocuklar, torunlar, torun çocukları ve aşağıya doğru devam eden soy hattını kapsar.
 
@@ -37,7 +38,7 @@ Mirasbırakanın birinci derece yasal mirasçıları, onun **altsoyudur**. Altso
 
 ---
 
-### III. İKİNCİ ZÜMRE: ANA - BABA VE ALTSOYU (TMK m. 496)
+## III. İKİNCİ ZÜMRE: ANA - BABA VE ALTSOYU (TMK m. 496)
 
 Altsoyu (çocuğu, torunu) bulunmayan bir kimsenin mirasçıları **ikinci zümre olan ana ve babasıdır**.
 
@@ -56,7 +57,7 @@ Altsoyu (çocuğu, torunu) bulunmayan bir kimsenin mirasçıları **ikinci zümr
 
 ---
 
-### IV. ÜÇÜNCÜ ZÜMRE: BÜYÜK ANA - BÜYÜK BABA VE ALTSOYU (TMK m. 497)
+## IV. ÜÇÜNCÜ ZÜMRE: BÜYÜK ANA - BÜYÜK BABA VE ALTSOYU (TMK m. 497)
 
 Altsoyu, anası, babası ve onların altsoyu (kardeşleri/yeğenleri) bulunmayan bir kimsenin mirasçıları **üçüncü zümre olan büyük anaları ve büyük babalarıdır (dedeleri ve neneleri)**.
 
@@ -68,7 +69,7 @@ Altsoyu, anası, babası ve onların altsoyu (kardeşleri/yeğenleri) bulunmayan
 
 ---
 
-### V. SAĞ KALAN EŞİN MİRAS PAYI VE DURUMU (TMK m. 499)
+## V. SAĞ KALAN EŞİN MİRAS PAYI VE DURUMU (TMK m. 499)
 
 Sağ kalan eş, zümre mirasçısı değildir; ancak **birlikte bulunduğu zümreye göre kanunen sabitleşmiş bir miras payına sahiptir**.
 
@@ -94,7 +95,7 @@ Sağ kalan eş, zümre mirasçısı değildir; ancak **birlikte bulunduğu zümr
 
 ---
 
-### VI. EVLATLIĞIN VE EVLİLİK DIŞI ÇOCUKLARIN MİRASÇILIĞI
+## VI. EVLATLIĞIN VE EVLİLİK DIŞI ÇOCUKLARIN MİRASÇILIĞI
 
 * **Evlilik Dışı Doğan Çocuklar (TMK m. 498):** Evlilik dışında doğmuş ve soybağı tanıma veya hâkim hükmüyle (babalık davası) kurulmuş olan çocuklar, **baba yönünden de evlilik içi çocuklar gibi tamamen eşit oranda** mirasçı olurlar.
 
@@ -102,17 +103,17 @@ Sağ kalan eş, zümre mirasçısı değildir; ancak **birlikte bulunduğu zümr
 
 ---
 
-### VII. DEVLETİN MİRASÇILIĞI (TMK m. 501)
+## VII. DEVLETİN MİRASÇILIĞI (TMK m. 501)
 
 Mirasbırakanın hiçbir yasal mirasçısı (altsoyu, anne-babası, büyükanne/dedesi, eşi veya atadığı bir mirasçısı) bulunmadığı takdirde, terekedeki tüm malvarlığı kanun gereğince **Devlete geçer**.
 
 ---
 
-### VIII. SAKLI PAY (KORUNAN MİRAS PAYI) NEDİR? (TMK m. 505 & m. 506)
+## VIII. SAKLI PAY (KORUNAN MİRAS PAYI) NEDİR? (TMK m. 505 & m. 506)
 
 Mirasbırakan sağlığında veya vasiyetname ile malvarlığında dilediği gibi tasarruf edebilse de kanun belirli yakın akrabaların miras payını koruma altına almıştır. Bu korunan paya **Saklı Pay** denir.
 
-**TMK m. 506 Uyarınca Güncel Saklı Pay Oranları:**
+## TMK m. 506 Uyarınca Güncel Saklı Pay Oranları
 
 1. **Altsoy (Çocuklar/Torunlar) İçin:** Yasal miras payının **yarısı (1/2)**.
 
@@ -129,3 +130,8 @@ Mirasbırakan sağlığında veya vasiyetname ile malvarlığında dilediği gib
 > Hatalı bir işlem sebebiyle telafisi imkânsız hak kayıplarına uğramamak ve mirastan doğan haklarınızı eksiksiz olarak alabilmek adına tüm hukuki süreçlerinizi **mutlaka alanında uzman bir avukatın profesyonel desteği ve rehberliği altında yürütmeniz hayati önem taşımaktadır.**
 >
 > > ***Yazar: Avukat Berat YILDIRIM***
+
+## İlginizi Çekebilir
+- [Önalım Hakkı ve Önalım Davası Nedir?](/konu/onalim-davasi/)
+- [Ortaklığın Giderilmesi Davası](/konu/ortakligin-giderilmesi/)
+- [Tapu İptal ve Tescil Davası Nedir? (Yolsuz Tescil)](/konu/tapu-iptal-tescil-davalari/)

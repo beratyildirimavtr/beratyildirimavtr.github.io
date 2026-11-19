@@ -1,11 +1,13 @@
 ---
-baslik: Suç İşlemek Amacıyla Örgüt Kurma Suçu - TCK 220
+baslik: "Suç İşlemek Amacıyla Örgüt Kurma Suçu - TCK 220"
 grup: ceza-hukuku
 date: 2026-11-05
 sira: 15
-aciklama: "Bu rehber makalede, TCK m. 220 kapsamındaki örgüt suçunun oluşması için aranan şartlar, Yargıtay içtihatlarıyla şekillenen kriterler, 11. Yargı Paketi (7571 sayılı Kanun) ile getirilen güncel ceza artışları, etkin pişmanlık mekanizması ve infaz rejimi detaylıca ele alınmıştır."
+aciklama: "Bu rehber makalede, TCK m. 220 kapsamındaki örgüt suçunun oluşması için aranan şartlar, Yargıtay içtihatlarıyla şekillenen kriterler, 11."
 ---
-# Türk Ceza Kanunu m. 220 Suç İşlemek Amacıyla Örgüt Kurma Suçu: Şartları, Kriterleri ve Güncel Ceza Miktarları
+Bu rehber makalede, TCK m. 220 kapsamındaki örgüt suçunun oluşması için aranan şartlar, Yargıtay içtihatlarıyla şekillenen kriterler, 11. Yargı Paketi (7571 sayılı Kanun) ile getirilen güncel ceza artışları, etkin pişmanlık mekanizması ve infaz rejimi detaylıca ele alınmıştır.
+
+## Türk Ceza Kanunu m. 220 Suç İşlemek Amacıyla Örgüt Kurma Suçu: Şartları, Kriterleri ve Güncel Ceza Miktarları
 
 Türk Ceza Kanunu’nun (TCK) 220. maddesinde düzenlenen **"Suç İşlemek Amacıyla Örgüt Kurma Suçu"**, toplumsal huzuru, kamu düzenini ve kamu barışını korumayı hedefleyen en temel ceza hukuku kurumlarından biridir. Ceza hukuku tekniği bakımından bir **"tehlike suçu"** niteliğinde olan bu düzenleme, amaçlanan somut suçlar henüz işlenmemiş olsa dahi, sırf suç işlemek üzere disiplinli bir yapının oluşturulmasını ve bu yapıya dahil olunmasını müstakil bir suç olarak yaptırıma bağlar.
 
@@ -91,3 +93,7 @@ Suç işlemek amacıyla örgüt kurma, yönetme veya örgüte üye olma suçlar�
 >
 >*Yazar: Avukat Berat YILDIRIM*
 ---
+
+## İlginizi Çekebilir
+- [Malvarlığı Değerlerini Aklama Suçu (TCK 282)](/konu/malvarligi-degerlerini-aklama-sucu/)
+- [Zimmet Suçu Nedir? Cezası ve Unsurları](/konu/zimmet-sucu/)

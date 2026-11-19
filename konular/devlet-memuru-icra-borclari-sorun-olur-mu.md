@@ -1,10 +1,10 @@
 ---
-baslik: Devlet Memurlarının İcra Borçları Disiplin Cezası Gerektirir mi?
+baslik: "Memurların İcra Borçları Disiplin Cezası Gerektirir mi?"
 grup: idari-davalar
 sira: 10
-aciklama: "Türk kamu personel hukukunda, kamu hizmetlerinin yürütülmesi ve Devlet memurlarının ödev ve sorumlulukları 657 sayılı Devlet Memurları Kanunu ile düzenlenmiştir"
+aciklama: "Türk kamu personel hukukunda, kamu hizmetlerinin yürütülmesi ve Devlet memurlarının ödev ve sorumlulukları 657 sayılı Devlet Memurları Kanunu ile…"
 ---
-# DEVLET MEMURLARININ İCRA BORÇLARI DİSİPLİN CEZASI GEREKTİRİR Mİ?
+## DEVLET MEMURLARININ İCRA BORÇLARI DİSİPLİN CEZASI GEREKTİRİR Mİ?
 
 Türk kamu personel hukukunda, kamu hizmetlerinin yürütülmesi ve Devlet memurlarının ödev ve sorumlulukları 657 sayılı **Devlet Memurları Kanunu** ile düzenlenmiştir. Günümüz ekonomik koşullarında veya kişisel finansal sıkıntılar nedeniyle Devlet memurlarının borçlanması, borçlarını zamanında ödeyememesi veya haklarında icra takibi başlatılması uygulamada sıklıkla karşılaşılan durumlar arasındadır.
 
@@ -29,7 +29,7 @@ Konunun hukuki zeminini anlamak için 657 sayılı Kanun'da yapılan yasal deği
 * **2011 Yılı Öncesi Durum:** 657 sayılı Kanun'un 125. maddesinde eskiden *"Borçlarını kasten ödemeyerek hakkında icra takibine sebebiyet vermek"* açıkça bir disiplin suçu (Kınama cezasını gerektiren bir fiil) olarak düzenlenmekteydi.
 * **6111 Sayılı Kanun İle Yapılan Değişiklik (13/02/2011):** 13.02.2011 tarihli ve 6111 sayılı Kanun'un 111. maddesi ile mezkur ibare 657 sayılı Kanun’un 125. maddesinden **TAMAMEN ÇIKARILMIŞ VE YÜRÜRLÜKTEN KALDIRILMIŞTIR (MÜLGA EDİLMİŞTİR)**.
 
-**Hukuki Sonuç:**  
+### Hukuki Sonuç
 Kanun koyucu, 2011 yılında gerçekleştirdiği bu reformla memurun özel hayatına ilişkin borç-alacak ilişkilerini ve borç ödeme güçlüğünü idari disiplin alanının dışına çıkarmıştır. 
 
 Anayasa’nın 38. maddesi ile Türk Ceza Hukuku ve İdare Hukukunun temel yapı taşı olan **"Suçta ve Cezada Kanunilik İlkesi"** gereğince; kanunda açıkça disiplin suçu olarak tanımlanmayan bir fiilden dolayı hiçbir kamu görevlisine disiplin cezası verilemez.
@@ -56,7 +56,7 @@ Kanundaki açık mülga hükme rağmen, bazı idareler ve disiplin amirleri hakk
 
 657 sayılı Kanun'da borçlanma ve borç ödememe ile ilgili disiplin cezası öngörülen **tek bir istisnai durum** bulunmaktadır. 
 
-**657 sayılı Kanun m. 125/C-m Uyarınca:**
+### 657 sayılı Kanun m. 125/C-m Uyarınca
 > *"Diplomatik statüsünden yararlanmak suretiyle yurt dışında, haklı bir sebep göstermeksizin ödeme kabiliyetinin üstünde borçlanmak ve borçlarını ödemedeki tutum ve davranışlarıyla Devlet itibarını zedelemek veya zorunlu bir sebebe dayanmaksızın borcunu ödemeden yurda dönmek"*.
 
 Bu fiil **Aylıktan Kesme** cezasını gerektirmektedir. Ancak bu hüküm sadece yurt dışında diplomatik statüyle görev yapan ve Devletin uluslararası itibarını zedeleyen özel durumlar için geçerlidir. Yurt içindeki normal borç ve icra takipleri bu kapsama kesinlikle girmez.
@@ -84,3 +84,8 @@ Sırf hakkında icra takibi başlatıldığı veya maaşına haciz konulduğu ge
 ### ⚠️ ÖNEMLİ HUKUKİ UYARI
 
 > Memur disiplin hukukunda **7 günlük idari itiraz** ve **60 günlük idari dava açma süreleri** hak düşürücü niteliktedir. Hakkınızda borç veya icra takibi gerekçesiyle usulsüz bir disiplin soruşturması yürütülmesi veya ceza verilmesi halinde hak kaybına uğramamak için idari süreçlerinizi **mutlaka bir idare hukuku avukatının profesyonel desteği ile yürütmeniz tavsiye olunur.**
+
+## İlginizi Çekebilir
+- [Memur Disiplin Cezaları](/konu/memur-disiplin-cezalari/)
+- [Maaş Haczi ve Banka Hesaplarına Haciz](/konu/maas-haczi-ve-banka-hesaplarina-haciz/)
+- [Memur Davaları ve İdari Yargı Süreçleri](/konu/memur-davalari-ve-idari-yargi-surecleri/)

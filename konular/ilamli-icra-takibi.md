@@ -1,11 +1,11 @@
 ---
-baslik: İlamlı İcra Takibi
+baslik: "İlamlı İcra Takibi Nasıl Yapılır?"
 grup: icra-takipleri
 sira: 11
-aciklama: "Mahkeme kararları olan ilamların nasıl icraya konulduğunu ve süreçlerin nasıl ilerlediğini aşağıda anlattık:"
+aciklama: "İlamlı icra takibi nedir ve nasıl yapılır? Mahkeme kararlarının icra yoluyla uygulanması, süreç ve itiraz imkânları."
 ---
 
-# İLAMLI İCRA TAKİBİ NEDİR? NASIL YAPILIR?
+## İLAMLI İCRA TAKİBİ NEDİR? NASIL YAPILIR?
 
 Türk icra ve iflas hukukunda alacaklıların haklarına en hızlı ve en etkili şekilde kavuşmalarını sağlayan cebri icra kanallarından biri **İlamlı İcra Takibi**dir. Bir mahkeme kararına (ilama) veya kanunen ilam niteliğindeki bir belgeye dayanılarak başlatılan bu takip türü, borçlunun haksız itirazlarıyla takibin durdurulmasını engelleyen güçlü bir hukuki koruma sağlar.
 
@@ -25,11 +25,11 @@ Türk icra ve iflas hukukunda alacaklıların haklarına en hızlı ve en etkili
 
 İlamlı icra takibi yapabilmek için alacaklının elinde bir mahkeme ilamı veya kanunda ilam mahiyetinde sayılan belgelerden birinin bulunması zorunludur.
 
-**1. Mahkeme İlamları:**
+## 1. Mahkeme İlamları
 * Hukuk, ceza veya idari yargı mahkemelerince verilen ve bir şeyin ödenmesini, teslimini veya yapılmasını/yapılmamasını emreden **eda hükmü içeren mahkeme kararları**.
 * Hakem kararları (Tahkim yargılaması sonucu verilen kararlar).
 
-**2. İlam Mahiyetini Haiz (İlam Niteliğindeki) Belgeler (İİK m. 38):**
+## 2. İlam Mahiyetini Haiz (İlam Niteliğindeki) Belgeler (İİK m. 38)
 * **Mahkeme huzurunda yapılan sulhlar ve kabuller**.
 * **Para borcu ikrarını içeren re'sen tanzim edilen noter senetleri**.
 * **İstinaf ve temyiz kefaletnameleri**.
@@ -84,3 +84,7 @@ Kural olarak mahkeme kararlarının icraya konulabilmesi için kesinleşmiş olm
 > İlamlı icra takibi süreçleri; **kesinleşme şartı aranan kararların tespiti**, **7 günlük icra emri süreleri**, **İİK m. 36 kapsamındaki mehil vesikası ve tehiri icra teminat mektubu kurgusu** ile **10 yıllık zamanaşımı hesaplamaları** bakımından son derece teknik ve hak kayıpları doğurabilecek usul kurallarına tabidir.
 > 
 > Mahkemece lehinize verilen kararın eksiksiz tahsil edilmesi veya haksız icra emirlerine karşı haklarınızın korunması adına tüm süreçlerinizi **mutlaka bir avukatın profesyonel hukuki desteği ile yürütmeniz tavsiye olunur.**
+
+## İlginizi Çekebilir
+- [İlamsız İcra Takibine İtiraz Nasıl Yapılır?](/konu/ilamsiz-icra-takibine-itiraz/)
+- [İcra Borcu, Faizi ve İcra Masrafları](/konu/borc-faiz-icra-masraflari/)

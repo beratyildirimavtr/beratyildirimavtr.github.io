@@ -1,11 +1,11 @@
 ---
-baslik: Anayasa Mahkemesi'nin Önalım (Şufa) Hakkı ve Rayiç Bedel İptal Kararı
+baslik: "Anayasa Mahkemesi Önalım (Şufa) Hakkı İptal Kararı"
 grup: hukuk-davalari
 sira: 001
 aciklama: "Anayasa Mahkemesi'nin Esas 2026/23, Karar 2026/162 sayılı kararının incelemesi aşağıda yapılmıştır:"
 ---
 
-# Anayasa Mahkemesi'nin Önalım (Şufa) Hakkı Kararı
+## Anayasa Mahkemesi'nin Önalım (Şufa) Hakkı Kararı
 
 Hisseli tapu sahiplerini ve gayrimenkul alım-satımı yapan vatandaşları ilgilendiren çok kritik bir karar alındı. Anayasa Mahkemesi, yasal önalım (şufa) davalarında dava konusu payın **"rayiç bedel"** (güncel piyasa değeri) üzerinden devredilmesine ilişkin kanun maddesini Anayasa'ya aykırı bularak **iptal etti**.
 
@@ -84,3 +84,8 @@ AYM, kararın Resmî Gazete'de yayımlandığı günden itibaren **9 ay sonra** 
 3. **Davası Devam Edenler:** Derdest davası olan vatandaşların, 9 aylık erteleme sürecinde TBMM'den çıkacak yeni yasayı ve mahkeme kararlarını avukatları aracılığıyla takip etmesi önem taşımaktadır.
 
 ---
+
+## İlginizi Çekebilir
+- [Önalım Hakkı ve Önalım Davası Nedir?](/konu/onalim-davasi/)
+- [Tapu İptal ve Tescil Davası Nedir? (Yolsuz Tescil)](/konu/tapu-iptal-tescil-davalari/)
+- [Miras Hukukunda Pay Oranları ve Zümreler](/konu/miras-hukuku-zumreler/)

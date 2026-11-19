@@ -1,11 +1,12 @@
 ---
-baslik: Tüketicinin Hakları
+baslik: "Tüketicinin Hakları Nelerdir?"
 grup: tuketici-islemleri
 sira: 01
-aciklama: "Tüketici işlemi; günlük hayatımızda bir birey olarak kişisel ihtiyacımız için bir mağazadan, internetten veya bankadan mal ya da hizmet satın alırken satıcı veya sağlayıcı firmalarla kurduğumuz her türlü alışveriş, abonelik ve sözleşme ilişkisidir."
+aciklama: "Tüketici işlemi; günlük hayatımızda bir birey olarak kişisel ihtiyacımız için bir mağazadan, internetten veya bankadan mal ya da hizmet satın alırken…"
 ---
+Tüketici işlemi; günlük hayatımızda bir birey olarak kişisel ihtiyacımız için bir mağazadan, internetten veya bankadan mal ya da hizmet satın alırken satıcı veya sağlayıcı firmalarla kurduğumuz her türlü alışveriş, abonelik ve sözleşme ilişkisidir.
 
-### I. TÜKETİCİ İŞLEMİNİN KAPSAMI VE HUKUKİ NİTELİĞİ
+## I. TÜKETİCİ İŞLEMİNİN KAPSAMI VE HUKUKİ NİTELİĞİ
 
 6502 sayılı **Tüketicinin Korunması Hakkında Kanun’un** 3. maddesinin 1. fıkrasının (l) bendi uyarınca tüketici işlemi; mal veya hizmet piyasalarında ticari veya mesleki amaçlarla hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan her türlü sözleşme ve hukuki işlemi ifade eder. 
 
@@ -13,11 +14,11 @@ Kanun metninde de açıkça belirtildiği üzere; **satım, eser, taşıma, sims
 
 ---
 
-### II. TÜKETİCİNİN SEÇİMLİK HAKLARINI DOĞURAN NEDENLER VE OLAYLAR
+## II. TÜKETİCİNİN SEÇİMLİK HAKLARINI DOĞURAN NEDENLER VE OLAYLAR
 
 Bir tüketici işleminde tüketicinin kanundan doğan seçimlik haklarını kullanabilmesi için belirli hukuki sebeplerin veya sözleşmeye aykırı olayların gerçekleşmiş olması gerekir. Bu haller kanunda ve uygulamada temel olarak şu üç grupta toplanmaktadır:
 
-#### 1. Ayıplı Mal Teslim Edilmesi (TKHK m. 8)
+### 1. Ayıplı Mal Teslim Edilmesi (TKHK m. 8)
 
 * **Tanım ve Şartlar:** Tüketiciye teslimi anında; taraflarca kararlaştırılmış olan örnek veya modele uygun olmayan ya da objektif olarak sahip olması gereken özellikleri taşımayan mallar sözleşmeye aykırıdır. 
 
@@ -33,16 +34,16 @@ Bir tüketici işleminde tüketicinin kanundan doğan seçimlik haklarını kull
 
 * **Kanuni İspat Karinesi (TKHK m. 10/1):** Teslim tarihinden itibaren **altı ay içinde ortaya çıkan ayıpların, teslim tarihinde var olduğu kabul edilir**. Bu durumda malın ayıpsız olduğunu ispat etme yükümlülüğü tamamen satıcıya aittir.
 
-#### 2. Ayıplı Hizmet Sunulması (TKHK m. 13)
+### 2. Ayıplı Hizmet Sunulması (TKHK m. 13)
 Sözleşmede belirlenen süre içinde başlamayan veya taraflarca kararlaştırılan ve objektif olarak sahip olması gereken özellikleri taşımayan hizmetler ayıplıdır. 
 * *Örnek Olaylar:* Özel bir teknik servisin cihazı tamir edememesi, bir otelin vaat ettiği her şey dahil hizmetleri sunmaması, internet servis sağlayıcısının vaat ettiği hızı vermemesi veya taşıma şirketinin eşyaları hasarlı taşıması ayıplı hizmet teşkil eder.
 
-#### 3. Mesafeli Sözleşmelerde Cayma Hakkının Kullanılması (TKHK m. 48/4)
+### 3. Mesafeli Sözleşmelerde Cayma Hakkının Kullanılması (TKHK m. 48/4)
 İnternet, telefon veya sosyal medya üzerinden yapılan alışverişlerde tüketici, hiçbir gerekçe göstermeksizin ve cezai şart ödemeksizin **14 gün içinde cayma hakkına** sahiptir. Satıcının "iade yoktur" şeklindeki beyanları kanunen geçersizdir.
 
 ---
 
-### III. TÜKETİCİNİN KANUNİ SEÇİMLİK HAKLARI
+## III. TÜKETİCİNİN KANUNİ SEÇİMLİK HAKLARI
 
 Satın alınan malın ayıplı çıkması durumunda **6502 sayılı Kanun'un 11. maddesi** uyarınca tüketici, aşağıdaki dört seçimlik haktan dilediğini serbestçe seçebilir:
 
@@ -56,12 +57,12 @@ Satın alınan malın ayıplı çıkması durumunda **6502 sayılı Kanun'un 11.
 
 > **Sorumluluk Şekli (TKHK m. 11/2):** Tüketici ücretsiz onarım veya değişim hakkını yalnızca satıcıya karşı değil; **üretici veya ithalatçıya karşı da** kullanabilir. Satıcı, üretici ve ithalatçı bu hakların yerine getirilmesinden **müteselsilen (zincirleme olarak) sorumludur**.
 
-#### Ayıplı Hizmetlerde Seçimlik Haklar (TKHK m. 15)
+### Ayıplı Hizmetlerde Seçimlik Haklar (TKHK m. 15)
 Hizmetin ayıplı ifa edildiği durumlarda tüketici; hizmetin yeniden görülmesi, ortaya çıkan eserin ücretsiz onarımı, ayıp oranında bedelden indirim veya sözleşmeden dönme haklarından birini serbestçe kullanabilir. ***Ancak dikkat edilmelidir, sadece bir hakkını kullanabilir ve aynı anda birden fazla hakkını kullanamaz.***
 
 ---
 
-### IV. UYGULAMADAKİ ESASLAR, ZAMANAŞIMI VE BAŞVURU YOLLARI
+## IV. UYGULAMADAKİ ESASLAR, ZAMANAŞIMI VE BAŞVURU YOLLARI
 
 * **Zamanaşımı Süresi (TKHK m. 12/1):** Ayıplı maldan sorumluluk, ayıp daha sonra ortaya çıkmış olsa bile, malın teslim tarihinden itibaren **2 yıllık zamanaşımına** tabidir (Konut veya tatil amaçlı taşınmazlarda bu süre 5 yıldır). Ayıp, ağır kusur veya hile ile gizlenmişse zamanaşımı hükümleri uygulanmaz.
 
@@ -74,3 +75,7 @@ Hizmetin ayıplı ifa edildiği durumlarda tüketici; hizmetin yeniden görülme
 * ***Yazar : Avukat Berat YILDIRIM***
 
 ---
+
+## İlginizi Çekebilir
+- [Tüketicinin Seçimlik Hakları Nelerdir?](/konu/tuketicininn-secimlik-haklari/)
+- [Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)](/konu/tuketici-hakem-heyeti-basvurusu/)

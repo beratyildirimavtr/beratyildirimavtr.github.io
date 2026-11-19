@@ -1,31 +1,32 @@
 ---
-baslik: İmar ve Belediye İşlemlerinin İptali
+baslik: "İmar ve Belediye İşlemlerinin İptali"
 grup: idari-davalar
 sira: 04
-aciklama: "Belediyeler tarafından taşınmazlar hakkında tesis edilen imar cezaları, yıkım kararları veya plan değişiklikleri vatandaşların mülkiyet haklarını doğrudan etkileyen idari işlemlerdir. Bu tür durumlarla karşılaştığınızda kanunların vatandaşlara tanıdığı hakları ve izlenmesi gereken hukuki yolları bilmek büyük önem taşır."
+aciklama: "Belediyeler tarafından taşınmazlar hakkında tesis edilen imar cezaları, yıkım kararları veya plan değişiklikleri vatandaşların mülkiyet haklarını doğrudan…"
 ---
+Belediyeler tarafından taşınmazlar hakkında tesis edilen imar cezaları, yıkım kararları veya plan değişiklikleri vatandaşların mülkiyet haklarını doğrudan etkileyen idari işlemlerdir. Bu tür durumlarla karşılaştığınızda kanunların vatandaşlara tanıdığı hakları ve izlenmesi gereken hukuki yolları bilmek büyük önem taşır.
 
-### 1. Kaçak Yapı Nedeniyle Verilen Yıkım Kararı Nasıl İptal Edilir?
+## 1. Kaçak Yapı Nedeniyle Verilen Yıkım Kararı Nasıl İptal Edilir?
 
-**Kanuni Dayanak ve Süreç:**
+## Kanuni Dayanak ve Süreç
 3194 sayılı İmar Kanunu'nun 32. maddesi uyarınca; belediye ekipleri ruhsatsız veya ruhsata aykırı bir yapı tespit ettiğinde öncelikle o andaki durumu gösteren bir **"Yapı Tatil Tutanağı (Zaptı)"** düzenler ve yapıyı mühürler. Yapı sahibine aykırılığı gidermesi veya ruhsat alması için **1 aylık** bir süre tanınır. Bu süre içinde yapı ruhsata uygun hale getirilmezse, Belediye Encümeni kararıyla yıkım kararı alınır.
 
-**Nasıl İptal Edilir? (Dava Süreci):**
+## Nasıl İptal Edilir? (Dava Süreci)
 Belediye Encümeni tarafından alınan yıkım kararının size tebliğ edilmesinden itibaren **60 gün içinde** taşınmazın bulunduğu yerdeki **İdare Mahkemesinde iptal davası** açmanız gerekir. Dava dilekçesinde, yapının yıkılması halinde telafisi imkansız zararlar doğacağı için mutlaka **"Yürütmenin Durdurulması (YD)"** talep edilmelidir.
 
 > **Örnek:** Evinizin önüne güneşten ve yağmurdan korunmak amacıyla etrafı açık, hafif malzemeden bir çardak veya sundurma yaptığınızı düşünelim. Belediye ekipleri gelip mühür vurdu ve ardından yıkım kararı çıkardı. İdare Mahkemesinde açacağınız davada; *"Yapının Planlı Alanlar İmar Yönetmeliği’nin 59. maddesi kapsamında ruhsat gerektirmeyen hafif nitelikte bir sundurma olduğu, taşıyıcı sistemi etkilemediği veya Yapı Tatil Tutanağı'nın usulüne uygun düzenlenmediği"* gibi teknik ve hukuki gerekçeler ileri sürülerek yıkım kararının iptali sağlanabilir.
 
 ---
 
-### 2. İmar Para Cezasına Nasıl İtiraz Edilir?
+## 2. İmar Para Cezasına Nasıl İtiraz Edilir?
 
-**Kanuni Dayanak ve Süreç:**
+## Kanuni Dayanak ve Süreç
 Ruhsatsız veya ruhsata aykırı imalatlar için İmar Kanunu'nun 42. maddesi gereğince Belediye Encümeni tarafından idari para cezası kesilir. 
 
-**Nasıl İtiraz Edilir?:**
+## Nasıl İtiraz Edilir?
 İmar para cezası genellikle yıkım kararı ile birlikte aynı encümen kararında yer alır. Kabahatler Kanunu'nun 27/8. maddesi uyarınca, idari yargının görev alanına giren bir işlemle (yıkım kararı) birlikte verilen para cezalarına karşı ayrı bir ceza mahkemesine değil, doğrudan **İdare Mahkemesinde 60 gün içinde** iptal davası açılır.
 
-**İptal Ettirmeyi Sağlayan Temel Nedenler:**
+## İptal Ettirmeyi Sağlayan Temel Nedenler
 *   **Cezaların Şahsiliği İlkesi:** İmar para cezası mülkiyet durumuna bakılmaksızın, cezaya konu yapıyı **fiilen inşa eden** kişiye kesilmelidir.
     *   *Örnek:* Kiraladığınız dükkanda sizden önceki kiracı dükkanın önüne demir profilden gölgelik yapmışsa, belediyenin sırf dükkanın yeni işletmecisisiniz veya mülk sahibisiniz diye cezayı size kesmesi hukuka aykırıdır ve ceza mahkemece iptal edilir.
 
@@ -35,23 +36,23 @@ Ruhsatsız veya ruhsata aykırı imalatlar için İmar Kanunu'nun 42. maddesi ge
 
 ---
 
-### 3. Belediye Encümeni Kararına Karşı Dava Açılır mı?
+## 3. Belediye Encümeni Kararına Karşı Dava Açılır mı?
 
 Evet, açılır. Belediye Encümeni; yıkım, idari para cezası, kamulaştırma veya ecrimisil gibi vatandaşın haklarını doğrudan etkleyen kararlar alan idari bir organdır. Encümenin aldığı tüm kararlar idari yargı denetimine tabidir.
 
-**Nasıl Dava Açılır?:**
+## Nasıl Dava Açılır?
 Belediye Encümeni kararının tarafınıza tebliğ edildiği tarihi izleyen günden itibaren **60 gün içinde** taşınmazın bulunduğu yerdeki **İdare Mahkemesinde** iptal davası açabilirsiniz. 
 
 > **Örnek:** Belediye Encümeni, tarafınıza haksız yere ecrimisil (işgaliye) borcu çıkardığında veya taşınmazınız hakkında yıkım ve para cezası kararı aldığında, bu karar bir idari işlem olduğu için idare mahkemesine başvurarak kararın tamamen iptal edilmesini isteyebilirsiniz.
 
 ---
 
-### 4. Yapı Ruhsatı İptaline Karşı Ne Yapılır?
+## 4. Yapı Ruhsatı İptaline Karşı Ne Yapılır?
 
-**Kanuni Dayanak ve Nedeni:**
+## Kanuni Dayanak ve Nedeni
 İmar Kanunu'nun 29. maddesi uyarınca; yapı ruhsatı alındıktan sonra **2 yıl içinde** inşaata başlanmazsa veya başlandığı halde **5 yıl içinde** inşaat bitirilmezse ruhsat hükümsüz hale gelir. Ayrıca belediyeler, ruhsatın hatalı verildiğini iddia ederek veya sonradan yapılan bir imar planı değişikliğini gerekçe göstererek de ruhsatı iptal edebilirler.
 
-**Ne Yapılmalıdır?:**
+## Ne Yapılmalıdır?
 Belediye tarafından verilen yapı ruhsatı iptal kararının tebliğinden itibaren **60 gün içinde İdare Mahkemesinde iptal davası** açılmalıdır.
 
 > **Örnek:**
@@ -59,9 +60,9 @@ Ruhsatınızı alıp bina inşaatınızın 3. katına kadar geldiniz. Belediye "
 
 ---
 
-### 5. İmar Planı Değişikliğine Nasıl İtiraz Edilir?
+## 5. İmar Planı Değişikliğine Nasıl İtiraz Edilir?
 
-**Süreç ve Adımlar:**
+## Süreç ve Adımlar
 İmar planları veya plan değişiklikleri belediye meclisince onaylandıktan sonra, vatandaşların haberdar olması için belediye panolarında ve internet sitesinde **1 ay (30 gün) süreyle askıya çıkarılır**.
 
 1.  **Askı Süresinde İtiraz:** Taşınmazınızı veya çevrenizi olumsuz etkileyen bir imar planı değişikliğini öğrendiğinizde, 30 günlük askı süresi içinde **Belediye Başkanlığına yazılı bir dilekçe ile itiraz etmelisiniz**. Belediye meclisi bu itirazı 15 gün içinde inceleyip karara bağlamak zorundadır.
@@ -77,3 +78,7 @@ Evinizin tam önündeki bölge imar planında "çocuk parkı" olarak görünürk
 > 📌 *İmar hukuku teknik ve süreli işlemleri içerdiğinden, hak kayıpları yaşamamak adına hukuki süreçlerin bir uzman vasıtasıyla yürütülmesi tavsiye edilir.*
 >
 > *Yazar : Avukat Berat YILDIRIM*
+
+## İlginizi Çekebilir
+- [İmar Kirliliğine Neden Olma ve Mühür Bozma Suçları](/konu/imar-kirliligi-ve-muhur-bozma-suclari/)
+- [İdari İşlemin İptali Davası](/konu/idari-islemin-iptali-davasi/)

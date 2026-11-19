@@ -1,17 +1,18 @@
 ---
-baslik: Ayıplı Mal ve Kusurlu Ürün İadesi
+baslik: "Ayıplı Mal ve Kusurlu Ürün İadesi Nasıl Yapılır?"
 grup: tuketici-islemleri
 sira: 02
-aciklama: "Günlük yaşamda satın aldığımız bir ürünün bozuk, kusurlu veya vaat edilen özelliklere sahip olmaması durumunda kanunen ayıplı mal söz konusu olur. Tüketicilerin mağduriyet yaşamaması adına 6502 sayılı Tüketicinin Korunması Hakkında Kanun, ayıplı malın iadesi ve ödenen bedelin geri alınması hususunda tüketiciye çok güçlü yasal haklar tanımıştır"
+aciklama: "Aldığınız ürün kusurlu ya da ayıplı çıktıysa iade, değişim, onarım ve bedel indirimi haklarınız nelerdir? Süreler ve başvuru yolları."
 ---
+Günlük yaşamda satın aldığımız bir ürünün bozuk, kusurlu veya vaat edilen özelliklere sahip olmaması durumunda kanunen ayıplı mal söz konusu olur. Tüketicilerin mağduriyet yaşamaması adına 6502 sayılı Tüketicinin Korunması Hakkında Kanun, ayıplı malın iadesi ve ödenen bedelin geri alınması hususunda tüketiciye çok güçlü yasal haklar tanımıştır
 
-# AYIPLI MALIN İADESİ VE TÜKETİCİ HAKLARI
+## AYIPLI MALIN İADESİ VE TÜKETİCİ HAKLARI
 
 ### I. AYIPLI MAL NEDİR?
 
 6502 sayılı Kanun’un 8. maddesi uyarınca ayıplı mal; tüketiciye teslimi anında taraflarca kararlaştırılmış olan örnek veya modele uygun olmayan ya da objektif olarak sahip olması gereken özellikleri taşımaması nedeniyle sözleşmeye aykırı olan maldır.
 
-**Bir ürünün ayıplı sayılması için şu hallerden birinin varlığı yeterlidir:**
+### Bir ürünün ayıplı sayılması için şu hallerden birinin varlığı yeterlidir
 
 * **Ambalajında, etiketinde, kullanma kılavuzunda veya reklamlarında** yer alan özellikleri taşımaması.
 
@@ -73,3 +74,8 @@ Tüketici haklarının gerçekte nasıl işlediğini günlük hayattan 3 farklı
 ---
    > ***Yazar : Avukat Berat YILDIRIM***
 ---
+
+## İlginizi Çekebilir
+- [Gizli Ayıp Nedir?](/konu/gizli-ayip-nedir/)
+- [Garanti ve Yetkili Servis Hakları (Araç Alım Satımı Dahil)](/konu/garanti-uygulamalari/)
+- [Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)](/konu/tuketici-hakem-heyeti-basvurusu/)
