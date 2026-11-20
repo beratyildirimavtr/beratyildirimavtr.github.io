@@ -69,22 +69,15 @@ Zorunlu unsurların yanı sıra, ileride yeni uyuşmazlıkların doğmasını ö
 
 ### V. ADIM ADIM ANLAŞMALI BOŞANMA DAVA SÜRECİ
 
-```
-[1. Protokol & Dilekçe Hazırlığı] -> Eşler Protokolü İmzalar
-       │
-[2. Dava Açılması] -> Aile Mahkemesine Başvuru Yapılır
-       │
-[3. Duruşma Günü] -> Eşler Hâkim Huzurunda Bizzat Beyanda Bulunur
-       │
-[4. Karar & Onay] -> Hâkim Protokolü Onaylar ve Boşanmaya Hükmeder
-       │
-[5. Kesinleşme] -> Gerekçeli Kararın Tebliği ve Kararın Kesinleştirilmesi
-```
 
 1. **Dava Dilekçesi ve Protokolün Sunulması:** Dava dilekçesi ve ıslak imzalı anlaşmalı boşanma protokolü yetkili Aile Mahkemesine sunulur.
+
 2. **Görevli ve Yetkili Mahkeme (TMK m. 168):** Görevli mahkeme **Aile Mahkemesi**dir. Yetkili mahkeme ise **eşlerden birinin yerleşim yeri veya davadan önce son defa altı aydan beri birlikte oturdukları yer mahkemesidir**.
+
 3. **Duruşmaya Katılım:** Mahkemenin belirlediği duruşma gününde her iki eş de bizzat hazır bulunarak hâkime protokoldeki imzaların kendilerine ait olduğunu ve boşanmak istediklerini sözlü olarak açıklar.
+
 4. **Hâkimin Müdahalesi (TMK m. 166/3):** Hâkim bilzaman velayet veya nafaka maddelerinde çocuğun üstün yararını gözeterek değişiklik yapılmasını isteyebilir. Eşler bu değişikliği kabul ederse dava o celse karara bağlanır.
+
 5. **Gerekçeli Karar ve Kesinleşme:** Mahkemece yazılan gerekçeli karar taraflara tebliğ edilir. Tarafların istinaf kanun yolundan feragat etmeleri veya 2 haftalık başvuru süresinin geçmesiyle karar kesinleşir ve nüfus müdürlüğüne tescil edilir.
 
 ---
