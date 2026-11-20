@@ -5,11 +5,13 @@ sira: 13
 aciklama: "Mal Rejimi Tasfiyesi Davası nedir? Edinilmiş Mallara Katılma Rejimi nedir? Malların paylaşımı nasıl yapılır? konularını sizler için inceledik:"
 ---
 
-# MAL REJİMİ TASFİYESİ VE EDİNİLMİŞ MALLARA KATILMA REJİMİ
+# MAL REJİMİ TASFİYESİ VE EDİNİLMİŞ MALLARA KATILMA REJİMİ KAPSAMLI HUKUKİ REHBERİ
 
 Türk Medeni Kanunu (TMK) uyarınca 1 Ocak 2002 tarihinden itibaren yasal mal rejimi olarak kabul edilen **Edinilmiş Mallara Katılma Rejimi**, evlilik birliği süresince eşlerin edindikleri malvarlığı değerlerinin evlilik sona erdiğinde hakkaniyete uygun şekilde paylaşılmasını sağlayan yasal bir sistemdir. 
 
 Boşanma, evliliğin iptali veya eşlerden birinin ölümü gibi nedenlerle mal rejiminin sona ermesi halinde gündeme gelen **Mal Rejimi Tasfiyesi**; kişisel mallar ile edinilmiş malların ayrılması, değer artış payı, denkleştirme, eklenecek değerler ve katılma alacağının hesaplanması gibi karmaşık hukuki aşamalardan oluşur.
+
+
 ---
 
 ### I. EDİNİLMİŞ MALLARA KATILMA REJİMİ VE MAL GRUPLARI (TMK m. 218 - 220)
@@ -61,24 +63,24 @@ Mal rejimi, eşlerden birinin ölümü veya başka bir mal rejiminin kabulüyle 
 [5. Katılma Alacağı (%50)] -> Artık Değerin Yarısı Üzerinde Hak Sahibi Olunur
 ```
 
-####1: Malların Geri Alınması ve Paylı Mülkiyet (TMK m. 226)
+#### Step 1: Malların Geri Alınması ve Paylı Mülkiyet (TMK m. 226)
 Her eş, diğer eşte bulunan kişisel mallarını geri alır. Paylı mülkiyete konu bir mal varsa, üstün bir yararı olduğunu ispat eden eş, diğerinin payını ödemek suretiyle o malın bölünmeden kendisine verilmesini talep edebilir.
 
-####2: Değer Artış Payı Alacağı (TMK m. 227)
+#### Step 2: Değer Artış Payı Alacağı (TMK m. 227)
 Eşlerden biri, diğerine ait bir malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa (örneğin eşinin kişisel evinin tadilatını kendi birikimiyle karşılaması veya arabasının alımına katkı sağlaması); tasfiye sırasında bu malda ortaya çıkan değer artışı için **katkısı oranında alacak hakkına** sahip olur.
 
-####3: Eklenecek Değerler (TMK m. 229)
+#### Step 3: Eklenecek Değerler (TMK m. 229)
 Borçlu eşin katılma alacağını azaltmak amacıyla yaptığı karşılıksız devirlerin önüne geçmek için şu değerler edinilmiş mallara eklenir:
 * Mal rejiminin sona ermesinden önceki **bir yıl içinde** diğer eşin rızası olmadan yapılan karşılıksız kazandırmalar (olağan hediyeler hariç),
 * Mal rejiminin devamı süresince diğer eşin katılma alacağını azaltmak kastıyla yapılan devirler.
 
-####4: Denkleştirme (TMK m. 230)
+#### Step 4: Denkleştirme (TMK m. 230)
 Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya edinilmiş mallara ilişkin borçları kişisel mallarından ödenmişse, bu mal kesimleri arasında karşılıklı denkleştirme yapılır.
 
-####5: Artık Değerin Hesaplanması (TMK m. 231)
+#### Step 5: Artık Değerin Hesaplanması (TMK m. 231)
 Artık değer; eklenmeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere, her eşin edinilmiş mallarının toplam sürüm değerinden bu mallara ilişkin borçlar çıkarıldıktan sonra kalan miktardır.
 
-####6: Katılma Alacağı ve Yarı Yarıya Paylaşım (TMK m. 236)
+#### Step 6: Katılma Alacağı ve Yarı Yarıya Paylaşım (TMK m. 236)
 Her eş veya mirasçıları, diğer eşe ait artık değerin **yarısı (%50) üzerinde** katılma alacağı hakkına sahip olurlar. Karşılıklı alacaklar takas edilir.
 
 ---
@@ -109,3 +111,5 @@ Her eş veya mirasçıları, diğer eşe ait artık değerin **yarısı (%50) ü
 > Hak kaybına uğramamak, mal kaçırma girişimlerini önlemek ve katılma alacağınızı eksiksiz tahsil edebilmek adına sürecinizi **mutlaka bir aile hukuku avukatının profesyonel desteği ile yürütmeniz tavsiye olunur.**
 
 ---
+
+📱 *Bu detaylı rehber içeriği mobil sitenizde duru bir şekilde görüntülenecektir. Tasfiye davası süreçlerinde kullanılmak üzere bir **Mal Rejimi Tasfiyesi Dava Dilekçesi Taslağı** veya **İhtiyati Tedbir Talep Dilekçesi** hazırlamamı ister misiniz?*
