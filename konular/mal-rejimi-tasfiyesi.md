@@ -51,36 +51,24 @@ Mal rejimi, eşlerden birinin ölümü veya başka bir mal rejiminin kabulüyle 
 
 ### III. ADIM ADIM TASFİYE HESAPLAMA AŞAMALARI
 
-```
-[1. Malların Ayrılması ve İadesi] -> Eşler Kendi Kişisel Mallarını Geri Alır
-       │
-[2. Değer Artış Payı Hesabı] -> Diğer Eşin Malına Yapılan Katkı Hesaplanır
-       │
-[3. Eklenecek Değerler & Denkleştirme] -> Karşılıksız Devirler ve Kaymalar Eklenir
-       │
-[4. Artık Değerin Tespiti] -> Edinilmiş Mallar - Borçlar = Artık Değer
-       │
-[5. Katılma Alacağı (%50)] -> Artık Değerin Yarısı Üzerinde Hak Sahibi Olunur
-```
-
-#### Step 1: Malların Geri Alınması ve Paylı Mülkiyet (TMK m. 226)
+#### 1: Malların Geri Alınması ve Paylı Mülkiyet (TMK m. 226)
 Her eş, diğer eşte bulunan kişisel mallarını geri alır. Paylı mülkiyete konu bir mal varsa, üstün bir yararı olduğunu ispat eden eş, diğerinin payını ödemek suretiyle o malın bölünmeden kendisine verilmesini talep edebilir.
 
-#### Step 2: Değer Artış Payı Alacağı (TMK m. 227)
+#### 2: Değer Artış Payı Alacağı (TMK m. 227)
 Eşlerden biri, diğerine ait bir malın edinilmesine, iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa (örneğin eşinin kişisel evinin tadilatını kendi birikimiyle karşılaması veya arabasının alımına katkı sağlaması); tasfiye sırasında bu malda ortaya çıkan değer artışı için **katkısı oranında alacak hakkına** sahip olur.
 
-#### Step 3: Eklenecek Değerler (TMK m. 229)
+#### 3: Eklenecek Değerler (TMK m. 229)
 Borçlu eşin katılma alacağını azaltmak amacıyla yaptığı karşılıksız devirlerin önüne geçmek için şu değerler edinilmiş mallara eklenir:
 * Mal rejiminin sona ermesinden önceki **bir yıl içinde** diğer eşin rızası olmadan yapılan karşılıksız kazandırmalar (olağan hediyeler hariç),
 * Mal rejiminin devamı süresince diğer eşin katılma alacağını azaltmak kastıyla yapılan devirler.
 
-#### Step 4: Denkleştirme (TMK m. 230)
+#### 4: Denkleştirme (TMK m. 230)
 Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya edinilmiş mallara ilişkin borçları kişisel mallarından ödenmişse, bu mal kesimleri arasında karşılıklı denkleştirme yapılır.
 
-#### Step 5: Artık Değerin Hesaplanması (TMK m. 231)
+#### 5: Artık Değerin Hesaplanması (TMK m. 231)
 Artık değer; eklenmeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere, her eşin edinilmiş mallarının toplam sürüm değerinden bu mallara ilişkin borçlar çıkarıldıktan sonra kalan miktardır.
 
-#### Step 6: Katılma Alacağı ve Yarı Yarıya Paylaşım (TMK m. 236)
+#### 6: Katılma Alacağı ve Yarı Yarıya Paylaşım (TMK m. 236)
 Her eş veya mirasçıları, diğer eşe ait artık değerin **yarısı (%50) üzerinde** katılma alacağı hakkına sahip olurlar. Karşılıklı alacaklar takas edilir.
 
 ---
@@ -111,5 +99,3 @@ Her eş veya mirasçıları, diğer eşe ait artık değerin **yarısı (%50) ü
 > Hak kaybına uğramamak, mal kaçırma girişimlerini önlemek ve katılma alacağınızı eksiksiz tahsil edebilmek adına sürecinizi **mutlaka bir aile hukuku avukatının profesyonel desteği ile yürütmeniz tavsiye olunur.**
 
 ---
-
-📱 *Bu detaylı rehber içeriği mobil sitenizde duru bir şekilde görüntülenecektir. Tasfiye davası süreçlerinde kullanılmak üzere bir **Mal Rejimi Tasfiyesi Dava Dilekçesi Taslağı** veya **İhtiyati Tedbir Talep Dilekçesi** hazırlamamı ister misiniz?*
