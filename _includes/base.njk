@@ -15,7 +15,7 @@
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.ad }}" href="/feed.xml">
 <meta property="og:type" content="{{ 'article' if sayfaTuru == 'konu' else 'website' }}">
-<meta property="og:site_name" content="{{ site.ad }}">
+<meta property="og:site_name" content="{{ site.ad }} - {{ site.sloganKisa }}">
 <meta property="og:title" content="{% if baslik and page.url != '/' %}{{ baslik }}{% else %}{{ site.ad }}{% endif %}">
 <meta property="og:description" content="{{ sayfaAciklama }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
@@ -51,6 +51,7 @@
 {{ inlineCss | safe }}
 </style>
 {% if page.url == "/" or page.url == "/iletisim/" %}<script type="application/ld+json">{{ site | jsonldAna(iletisim) | safe }}</script>{% elif page.url == "/hakkimda/" %}<script type="application/ld+json">{{ site | jsonldKisi | safe }}</script>{% endif %}
+{% if page.url == "/" %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"{{ site.ad }} - {{ site.sloganKisa }}","alternateName":["{{ site.ad }}","Av. Berat YILDIRIM"],"url":"{{ site.url }}/"}</script>{% endif %}
 </head>
 <body>
 {% include "sprite.njk" %}
