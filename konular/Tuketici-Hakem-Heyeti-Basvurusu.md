@@ -1,7 +1,7 @@
 ---
-baslik: "Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH)"
+baslik: "Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? (THH Başvuru)"
 grup: tuketici-islemleri
-sira: 03
+sira: 01
 aciklama: "Tüketici hakem heyetine (THH) başvuru nasıl yapılır? Başvuru şartları, parasal sınırlar, e-Devlet adımları ve karara itiraz süreci."
 ---
 Tüketiciler, satın aldıkları ürünün ayıplı çıkması, ücret iadesinin yapılmaması, garanti kapsamındaki ürünün onarılmaması veya satın alınan hizmetin gereği gibi sunulmaması gibi durumlarda haklarını arayabilir. Bu uyuşmazlıkların belirli bir parasal sınırın altında kalan kısmında tüketici hakem heyetlerine başvurulabilir. Tüketici hakem heyeti, tüketici ile satıcı veya sağlayıcı arasındaki uyuşmazlıkları inceleyen ve tarafları bağlayan kararlar veren bir mercidir. Başvurunun doğru yapılması, gerekli belgelerin sunulması ve yasal sürelerin takip edilmesi hak kaybı yaşanmaması açısından önemlidir.
@@ -9,7 +9,7 @@ Tüketiciler, satın aldıkları ürünün ayıplı çıkması, ücret iadesinin
 ## Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır? Süre, Ücret, İtiraz ve Kararın Uygulanması
 
 
-## 1. Tüketici hakem heyetine nasıl başvurulur?
+## 1. Tüketici hakem heyetine nasıl başvurulur? THH BAŞVURUSU NASIL YAPILIR?
 
 Tüketici hakem heyetine başvuru; e-Devlet üzerinden elektronik ortamda, şahsen veya posta yoluyla yapılabilir. Başvuru, tüketicinin kendisi tarafından ya da avukatı aracılığıyla gerçekleştirilebilir.
 
